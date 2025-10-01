@@ -1,62 +1,68 @@
 <template>
-  <UCard class="hover:shadow-lg transition-shadow duration-300 cursor-pointer" @click="navigateToSong">
-    <template #header>
-      <div class="aspect-square bg-gradient-to-br from-primary-400 to-primary-600 rounded-lg flex items-center justify-center mb-4">
-        <UIcon
-          v-if="!song.imageUrl"
-          name="i-heroicons-musical-note"
-          class="w-12 h-12 text-white"
-        />
-        <img
-          v-else
-          :src="song.imageUrl"
-          :alt="song.title"
-          class="w-full h-full object-cover rounded-lg"
-        />
-      </div>
-    </template>
-    
-    <div class="space-y-2">
-      <h3 class="font-semibold text-gray-900 dark:text-white line-clamp-2">
+  <div
+    class="cursor-pointer transition-all duration-300 h-full"
+    @click="navigateToSong"
+  >
+    <!-- Album Art / Icon -->
+    <div
+      class="aspect-square gradient-accent rounded-2xl flex items-center justify-center mb-4 overflow-hidden"
+    >
+      <Icon
+        v-if="!song.imageUrl"
+        name="heroicons:musical-note"
+        class="w-12 h-12 text-white"
+      />
+      <img
+        v-else
+        :src="song.imageUrl"
+        :alt="song.title"
+        class="w-full h-full object-cover"
+      />
+    </div>
+
+    <!-- Song Info -->
+    <div class="space-y-3">
+      <h3 class="font-bold text-gray-800 text-lg line-clamp-2 leading-tight">
         {{ song.title }}
       </h3>
-      <p class="text-sm text-gray-600 dark:text-gray-400">
+      <p class="text-gray-600 font-medium">
         {{ song.artist }}
       </p>
-      
-      <div v-if="song.tags && song.tags.length > 0" class="flex flex-wrap gap-1">
-        <UBadge
+
+      <!-- Tags -->
+      <div
+        v-if="song.tags && song.tags.length > 0"
+        class="flex flex-wrap gap-2"
+      >
+        <span
           v-for="tag in song.tags.slice(0, 2)"
           :key="tag"
-          variant="soft"
-          color="primary"
-          size="xs"
+          class="px-2 py-1 bg-purple-100 text-purple-700 text-xs rounded-lg font-medium"
         >
           {{ tag }}
-        </UBadge>
+        </span>
       </div>
-      
+
+      <!-- Footer -->
       <div class="flex items-center justify-between pt-2">
-        <div class="flex items-center text-xs text-gray-500 dark:text-gray-400">
-          <UIcon name="i-heroicons-clock" class="w-3 h-3 mr-1" />
+        <div class="flex items-center text-xs text-gray-500">
+          <Icon name="heroicons:clock" class="w-3 h-3 mr-1" />
           {{ formatDate(song.createdAt) }}
         </div>
-        <UButton
-          variant="ghost"
-          color="primary"
-          size="xs"
-          trailing-icon="i-heroicons-arrow-right"
+        <button
           @click.stop="navigateToSong"
+          class="text-purple-600 hover:text-purple-700 transition-colors text-sm font-medium flex items-center"
         >
           View
-        </UButton>
+          <Icon name="heroicons:arrow-right" class="w-3 h-3 ml-1" />
+        </button>
       </div>
     </div>
-  </UCard>
+  </div>
 </template>
 
 <script setup lang="ts">
-import type { Song } from '~/types'
+import type { Song } from "~/types"
 
 interface Props {
   song: Song
@@ -70,10 +76,10 @@ const navigateToSong = () => {
 }
 
 const formatDate = (dateString: string) => {
-  return new Date(dateString).toLocaleDateString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric'
+  return new Date(dateString).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
   })
 }
 </script>

@@ -1,20 +1,21 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  
+
   modules: [
     '@nuxt/ui',
-    '@nuxtjs/seo',
     '@pinia/nuxt',
     '@vueuse/nuxt'
   ],
-  
+
+  colorMode: false,
+
   // Static Site Generation Configuration
   nitro: {
     prerender: {
       routes: ['/sitemap.xml', '/robots.txt']
     }
   },
-  
+
   // SEO Configuration
   site: {
     url: process.env.NUXT_PUBLIC_SITE_URL || 'https://lyrics.cloudofworship.com',
@@ -22,7 +23,7 @@ export default defineNuxtConfig({
     description: 'Discover and share Christian worship song lyrics with the community',
     defaultLocale: 'en'
   },
-  
+
   // App Configuration
   app: {
     head: {
@@ -42,16 +43,16 @@ export default defineNuxtConfig({
       ]
     }
   },
-  
+
   // UI Configuration
   ui: {
     global: true,
     icons: ['heroicons', 'simple-icons']
   },
-  
+
   // CSS Configuration
   css: ['~/assets/css/main.css'],
-  
+
   // Runtime Configuration
   runtimeConfig: {
     public: {
@@ -60,12 +61,16 @@ export default defineNuxtConfig({
       gtag: process.env.NUXT_PUBLIC_GTAG
     }
   },
-  
+
+  imports: {
+    dirs: ['composables', 'composables/**']
+  },
+
   // Build Configuration
   build: {
     transpile: ['@nuxtjs/google-fonts']
   },
-  
+
   // Experimental features
   experimental: {
     payloadExtraction: false
