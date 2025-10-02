@@ -22,7 +22,9 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       routes: ['/sitemap.xml', '/robots.txt', '/songs']
-    }
+    },
+    compressPublicAssets: true,
+    minify: true,
   },
 
   // SEO Configuration
@@ -77,7 +79,8 @@ export default defineNuxtConfig({
 
   // Build Configuration
   build: {
-    transpile: ['@nuxtjs/google-fonts']
+    transpile: ['@nuxtjs/google-fonts'],
+    minify: 'esbuild'
   },
 
   // Experimental features
