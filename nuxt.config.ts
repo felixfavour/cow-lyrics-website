@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-06-01',
 
-  ssr: true,
+  ssr: false,
 
   modules: [
     '@nuxt/ui',
