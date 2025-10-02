@@ -1,0 +1,30 @@
+---
+id: faith-hillsong-worship
+title: "Faith"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+I'm reaching for the prize, I'm giving everything
+I give my life for this it's what I live for
+Nothing will keep me from, all that You have for me
+You hold my head up high, I live for You
+Greater is He, that's living in me
+Than he that is in the world
+Faith, I can move the mountain
+I can do all things through Christ, I know
+Faith, standing and believing
+I can do all things through Christ who strengthens me
+I'm reaching for the prize, I'm giving everything
+I give my life for this it's what I live for
+Nothing will keep me from, all that You have for me
+You hold my head up high, I live for You
+Greater is He, that's living in me
+Than he that is in the world
+Faith, I can move the mountain
+I can do all things through Christ, I know
+Faith, standing and believing
+I can do all things through Christ who strengthens me
