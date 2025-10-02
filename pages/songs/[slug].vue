@@ -182,11 +182,13 @@ if (song.value) {
 
   p > span {
     padding: 1rem 0;
+    display: block;
+    font-size: 1.125rem;
   }
 
   * {
     font-family: "IBM Plex Serif", serif;
-    font-size: 120%;
+    font-size: 1.125rem;
     font-weight: 500;
   }
 }
