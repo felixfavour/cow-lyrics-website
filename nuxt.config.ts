@@ -20,10 +20,9 @@ export default defineNuxtConfig({
 
   // Static Site Generation Configuration
   nitro: {
-    // Pre-render the homepage
-    routes: ['/'],
-    // Then crawl all the links on the page
-    crawlLinks: true
+    prerender: {
+      routes: ['/sitemap.xml', '/robots.txt', '/songs']
+    }
   },
 
   // SEO Configuration
@@ -78,8 +77,7 @@ export default defineNuxtConfig({
 
   // Build Configuration
   build: {
-    transpile: ['@nuxtjs/google-fonts'],
-    minify: 'esbuild'
+    transpile: ['@nuxtjs/google-fonts']
   },
 
   // Experimental features
