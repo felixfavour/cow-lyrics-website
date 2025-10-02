@@ -1,92 +1,146 @@
 <template>
-  <div v-if="song" class="min-h-screen bg-gray-50">
+  <div v-if="song">
     <!-- Song Header -->
-    <section class="gradient-bg text-white py-16">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex flex-col md:flex-row items-start gap-8">
-          <div class="flex-shrink-0">
-            <div
-              class="w-48 h-48 bg-white/20 rounded-lg flex items-center justify-center"
-            >
-              <UIcon
-                v-if="!song.imageUrl"
-                name="i-heroicons-musical-note"
-                class="w-20 h-20 text-white"
-              />
-              <img
-                v-else
-                :src="song.imageUrl"
-                :alt="song.title"
-                class="w-full h-full object-cover rounded-lg"
-              />
-            </div>
-          </div>
+    <section
+      class="py-20 lg:py-32 bg-gradient-to-br from-purple-50 to-blue-50 relative overflow-hidden min-h-full"
+    >
+      <!-- Background decorations -->
+      <div
+        class="absolute top-20 left-20 w-64 h-64 bg-purple-200/30 rounded-full blur-3xl blob"
+      ></div>
+      <div
+        class="absolute bottom-20 right-20 w-80 h-80 bg-blue-200/40 rounded-full blur-3xl blob"
+      ></div>
 
-          <div class="flex-1 min-w-0">
-            <h1 class="text-4xl md:text-5xl font-bold mb-2">
-              {{ song.title }}
-            </h1>
-            <p class="text-xl mb-4 opacity-90">by {{ song.artist }}</p>
-
-            <div class="flex flex-wrap gap-4 mb-6">
-              <div v-if="song.album" class="flex items-center">
-                <UIcon name="i-heroicons-musical-note" class="w-4 h-4 mr-2" />
-                {{ song.album }}
-              </div>
-              <div v-if="song.key" class="flex items-center">
-                <UIcon name="i-heroicons-key" class="w-4 h-4 mr-2" />
-                Key: {{ song.key }}
-              </div>
-              <div v-if="song.bpm" class="flex items-center">
-                <UIcon name="i-heroicons-heart" class="w-4 h-4 mr-2" />
-                {{ song.bpm }} BPM
+      <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="glass-card p-8 lg:p-12">
+          <div class="flex flex-col lg:flex-row items-start gap-8">
+            <div class="flex-shrink-0">
+              <div
+                class="w-48 h-48 lg:w-64 lg:h-64 gradient-accent rounded-2xl flex items-center justify-center overflow-hidden"
+              >
+                <Icon
+                  v-if="!song.cover && !song.imageUrl"
+                  name="heroicons:musical-note"
+                  class="w-20 h-20 text-white"
+                />
+                <img
+                  v-else
+                  :src="song.cover || song.imageUrl"
+                  :alt="song.title"
+                  class="w-full h-full object-cover"
+                />
               </div>
             </div>
 
-            <SocialShare :song="song" />
+            <div class="flex-1 min-w-0">
+              <h1 class="text-4xl lg:text-5xl font-bold mb-4 text-gray-800">
+                {{ song.title }}
+              </h1>
+              <p class="text-xl lg:text-2xl mb-6 text-gray-600">
+                by {{ song.artist }}
+              </p>
+            </div>
           </div>
         </div>
       </div>
-    </section>
 
-    <!-- Lyrics Section -->
-    <section class="py-12">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <UCard class="mb-8">
-          <template #header>
-            <h2 class="text-2xl font-bold">Lyrics</h2>
-          </template>
+      <div class="max-w-[90%] md:max-w-3xl mx-auto py-8">
+        <div class="mb-6">
+          <h2 class="text-3xl font-bold text-gray-800 mb-2">Lyrics</h2>
+        </div>
 
-          <div class="prose max-w-none">
-            <pre
-              class="whitespace-pre-wrap font-sans text-base leading-relaxed"
-              >{{ song.lyrics }}</pre
-            >
-          </div>
-        </UCard>
+        <div class="prose prose-lyrics max-w-none">
+          <!-- Render Nuxt Content if available -->
+          <ContentRenderer v-if="song.body" :value="song" class="prose-lg" />
+          <!-- Fallback to lyrics field -->
+          <pre
+            v-else
+            class="whitespace-pre-wrap font-sans text-3xl leading-relaxed text-gray-700"
+            >{{ song.lyrics }}</pre
+          >
+        </div>
 
-        <!-- Related Songs -->
-        <RelatedSongs :current-song="song" />
+        <!-- Back to search button -->
+        <div class="text-center pt-8">
+          <NuxtLink to="/search" class="btn-secondary inline-flex items-center">
+            <Icon name="heroicons:arrow-left" class="w-4 h-4 mr-2" />
+            Browse More Songs
+          </NuxtLink>
+        </div>
       </div>
     </section>
   </div>
 
-  <div v-else class="min-h-screen flex items-center justify-center">
-    <div class="text-center">
-      <h1 class="text-2xl font-bold text-gray-900 mb-4">Song not found</h1>
-      <UButton to="/" color="primary">Go Home</UButton>
+  <div
+    v-else
+    class="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-50 to-blue-50"
+  >
+    <div class="text-center glass-card p-12 max-w-md mx-auto">
+      <Icon
+        name="heroicons:musical-note"
+        class="w-16 h-16 text-purple-500 mx-auto mb-6"
+      />
+      <h1 class="text-3xl font-bold text-gray-800 mb-4">Song not found</h1>
+      <p class="text-gray-600 mb-8">
+        The song you're looking for doesn't exist or has been removed.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <NuxtLink to="/" class="btn-primary">
+          <Icon name="heroicons:home" class="w-5 h-5 mr-2" />
+          Go Home
+        </NuxtLink>
+        <NuxtLink to="/search" class="btn-secondary">
+          <Icon name="heroicons:magnifying-glass" class="w-5 h-5 mr-2" />
+          Search Songs
+        </NuxtLink>
+      </div>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-const route = useRoute()
-const { getSongBySlug } = useSongs()
+import useSchema from "~/composables/useSchema"
 
-// Fetch song data
+const route = useRoute()
+
+// Fetch song data directly using queryContent
 const { data: song } = await useAsyncData(`song-${route.params.slug}`, () =>
-  getSongBySlug(route.params.slug as string)
+  queryContent("songs")
+    .where({ slug: route.params.slug, is_public: { $ne: false } })
+    .findOne()
 )
+
+// Action methods
+const copyLyrics = async () => {
+  if (song.value?.lyrics) {
+    try {
+      await navigator.clipboard.writeText(song.value.lyrics)
+      // You could add a toast notification here
+      console.log("Lyrics copied to clipboard")
+    } catch (err) {
+      console.error("Failed to copy lyrics:", err)
+    }
+  }
+}
+
+const shareSong = () => {
+  if (song.value) {
+    const shareData = {
+      title: `${song.value.title} by ${song.value.artist}`,
+      text: `Check out these lyrics: ${song.value.title} by ${song.value.artist}`,
+      url: window.location.href,
+    }
+
+    if (navigator.share) {
+      navigator.share(shareData)
+    } else {
+      // Fallback: copy URL to clipboard
+      navigator.clipboard.writeText(window.location.href)
+      console.log("URL copied to clipboard")
+    }
+  }
+}
 
 // SEO Meta
 if (song.value) {
@@ -98,7 +152,7 @@ if (song.value) {
     // ogImage: song.value.imageUrl || '/og-image-song.jpg'
   })
 
-  // Structured Data
+  // Structured Data using useSchema
   useSchema([
     {
       "@type": "MusicRecording",

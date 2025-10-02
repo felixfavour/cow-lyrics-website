@@ -1,18 +1,32 @@
 export default defineNuxtConfig({
-  devtools: { enabled: true },
+  devtools: { enabled: false },
+
+  compatibilityDate: '2024-06-01',
+
+  ssr: true,
 
   modules: [
     '@nuxt/ui',
     '@pinia/nuxt',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    '@nuxt/content'
   ],
+
+  content: {
+    markdown: {
+      anchorLinks: false
+    },
+    highlight: {
+      theme: 'github-light'
+    }
+  },
 
   colorMode: false,
 
   // Static Site Generation Configuration
   nitro: {
     prerender: {
-      routes: ['/sitemap.xml', '/robots.txt']
+      routes: ['/sitemap.xml', '/robots.txt', '/songs']
     }
   },
 

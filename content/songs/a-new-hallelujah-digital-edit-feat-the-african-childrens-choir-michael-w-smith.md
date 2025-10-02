@@ -1,0 +1,36 @@
+---
+id: a-new-hallelujah-digital-edit-feat-the-african-childrens-choir-michael-w-smith
+slug: a-new-hallelujah-digital-edit-feat-the-african-childrens-choir-michael-w-smith
+title: "A New Hallelujah (Digital Edit) [feat. the African Children’s Choir]"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created_at: ""
+genre: "christian"
+updated_at: ""
+---
+
+Can you hear, there's a new song
+Breaking out from the children of freedom
+Every race and every nation
+Sing it out sing a new Hallelujah
+Let us sing love to the nations
+Bringing hope of the grace that has freed us
+Make Him known and make Him famous
+Sing it out sing to the new Hallelujah
+Chorus
+Arise
+Let the church Arise
+Let love reach to the other side
+Alive come alive
+Let the song Arise
+Africa sings a new song
+Reaching out with the new Hallelujah
+Every son and every daughter
+Everyone sing a new Hallelujah
+Chorus
+Arise
+Let the song Arise
+Let love reach to the other side
+Alive come alive
+Let the song Arise

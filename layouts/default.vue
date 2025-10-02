@@ -6,7 +6,6 @@
         <div class="flex justify-between items-center h-16">
           <!-- Logo -->
           <NuxtLink to="/" class="flex items-center space-x-3">
-            <img src="/cow-logo.svg" alt="Cloud of Worship" class="w-8 h-8" />
             <span class="font-bold text-xl text-gray-800">Cloud Lyrics</span>
           </NuxtLink>
 
@@ -113,7 +112,6 @@
         >
           <!-- Logo and Copyright -->
           <div class="flex items-center space-x-4">
-            <img src="/cow-logo.svg" alt="Cloud of Worship" class="w-6 h-6" />
             <span class="text-gray-600 text-sm">
               &copy; {{ new Date().getFullYear() }} Cloud of Worship. All rights
               reserved.

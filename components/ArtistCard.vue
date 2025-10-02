@@ -49,6 +49,6 @@ const props = defineProps<Props>()
 
 const navigateToArtist = () => {
   // Navigate to artist search page
-  navigateTo(`/search?artist=${encodeURIComponent(props.artist.name)}`)
+  navigateTo(`/search?q=${encodeURIComponent(props.artist.name)}`)
 }
 </script>

@@ -210,7 +210,7 @@
                 <!-- Date added -->
                 <div class="hidden sm:flex items-center text-xs text-gray-500">
                   <Icon name="heroicons:clock" class="w-3 h-3 mr-1" />
-                  {{ formatDate(song.createdAt) }}
+                  {{ formatDate(song.created_at || song.createdAt || '') }}
                 </div>
 
                 <!-- Quick actions -->
@@ -396,33 +396,7 @@ const genreOptions = [
   { label: "Hymns", value: "hymns" },
 ]
 
-// Mock composable for now
-const useSongs = () => ({
-  searchSongs: async (params: any) => {
-    // Mock data for demonstration
-    return {
-      data: [
-        {
-          id: 1,
-          title: "Amazing Grace",
-          artist: "John Newton",
-          slug: "amazing-grace",
-          createdAt: "2024-01-01",
-          tags: ["Hymn", "Classic"],
-        },
-        {
-          id: 2,
-          title: "How Great Thou Art",
-          artist: "Carl Boberg",
-          slug: "how-great-thou-art",
-          createdAt: "2024-01-02",
-          tags: ["Praise", "Worship"],
-        },
-      ],
-      total: 2,
-    }
-  },
-})
+// Use the actual songs composable
 
 // Methods
 const performSearch = async () => {

@@ -356,31 +356,78 @@ const stats = ref({
   songsThisMonth: 89,
 })
 
-// Composables
-const { getRecentSongs, getPopularArtists, getStats } = useSongs()
-
-// Fetch data
+// Fetch data directly using queryContent
 const { data: recentSongs, pending: recentSongsLoading } = await useAsyncData(
   "home-recent-songs",
-  () => getRecentSongs(8),
+  () =>
+    queryContent("songs")
+      .where({ is_public: { $ne: false } })
+      .sort({ created_at: -1 })
+      .limit(8)
+      .find(),
   {
     default: () => [],
-    transform: (data: any) => data?.data || [],
   }
 )
 
-const { data: popularArtists, pending: popularArtistsLoading } =
-  await useAsyncData("home-popular-artists", () => getPopularArtists(12), {
+const { data: allSongs } = await useAsyncData(
+  "all-songs-for-artists",
+  () =>
+    queryContent("songs")
+      .where({ is_public: { $ne: false } })
+      .only(["artist"])
+      .find(),
+  {
     default: () => [],
-    transform: (data: any) => data?.data || [],
-  })
+  }
+)
+
+// Process popular artists
+const popularArtists = computed(() => {
+  const artistCounts = (allSongs.value || []).reduce(
+    (acc: Record<string, number>, song: any) => {
+      if (song.artist) {
+        acc[song.artist] = (acc[song.artist] || 0) + 1
+      }
+      return acc
+    },
+    {}
+  )
+
+  return Object.entries(artistCounts)
+    .map(([name, songCount]) => ({
+      id: slugify(name),
+      name,
+      slug: slugify(name),
+      songCount,
+      imageUrl: `/artists/${slugify(name)}.jpg`,
+    }))
+    .sort((a, b) => b.songCount - a.songCount)
+    .slice(0, 12)
+})
+
+const popularArtistsLoading = ref(false)
+
+// Helper function to create URL-friendly slugs
+const slugify = (text: string): string => {
+  return text
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+}
 
 // Update stats periodically
 onMounted(async () => {
   try {
-    const statsData = await getStats()
-    if (statsData) {
-      stats.value = statsData
+    const totalSongs = recentSongs.value?.length || 0
+    const totalArtists = popularArtists.value?.length || 0
+    stats.value = {
+      totalSongs: totalSongs,
+      totalArtists: totalArtists,
+      totalUsers: 1,
+      songsThisMonth: Math.floor(totalSongs * 0.1), // Approximation
     }
   } catch (error) {
     console.error("Failed to load stats:", error)
@@ -567,7 +614,9 @@ onMounted(() => {
 /* Enhanced focus states */
 .focus-visible:focus-visible {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 0 4px var(--accent-600);
+  box-shadow:
+    0 0 0 2px white,
+    0 0 0 4px var(--accent-600);
 }
 
 .image-bg {
