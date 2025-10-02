@@ -411,7 +411,7 @@ const popularArtists = computed(() => {
       imageUrl: `/artists/${slugify(name)}.jpg`,
     }))
     .sort((a, b) => b.songCount - a.songCount)
-    .slice(0, 12)
+    .slice(0, 18)
 })
 
 const popularArtistsLoading = ref(false)
