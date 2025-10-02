@@ -20,11 +20,10 @@ export default defineNuxtConfig({
 
   // Static Site Generation Configuration
   nitro: {
-    prerender: {
-      routes: ['/sitemap.xml', '/robots.txt', '/songs']
-    },
-    compressPublicAssets: true,
-    minify: true,
+    // Pre-render the homepage
+    routes: ['/'],
+    // Then crawl all the links on the page
+    crawlLinks: true
   },
 
   // SEO Configuration
