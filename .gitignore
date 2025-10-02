@@ -24,10 +24,6 @@ yarn-error.log*
 # Misc
 *.local
 
-# Optional: lock files
-package-lock.json
-yarn.lock
-
 # Nuxt
 .nuxt/
 
