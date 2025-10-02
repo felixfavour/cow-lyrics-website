@@ -106,9 +106,7 @@ const route = useRoute()
 
 // Fetch song data directly using queryContent
 const { data: song } = await useAsyncData(`song-${route.params.slug}`, () =>
-  queryContent("songs")
-    .where({ slug: route.params.slug, is_public: { $ne: false } })
-    .findOne()
+  queryContent("songs").where({ id: route.params.slug }).findOne()
 )
 
 // Action methods
