@@ -98,7 +98,7 @@ export const useContentSongs = () => {
       album: song.album,
       lyrics: song.body?.children ? extractLyricsFromBody(song.body) : '',
       body: song.body,
-      slug: song.slug || song._path?.replace('/songs/', ''),
+      slug: song.id || song._path?.replace('/songs/', ''),
       genre: song.genre,
       key: song.key,
       bpm: song.bpm,

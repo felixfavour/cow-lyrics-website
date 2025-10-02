@@ -1,7 +1,7 @@
 <template>
-  <div
+  <NuxtLink
+    :to="`/search?q=${encodeURIComponent(artist.name)}`"
     class="cursor-pointer transition-all duration-300 h-full text-center"
-    @click="navigateToArtist"
   >
     <!-- Artist Avatar -->
     <div
@@ -29,7 +29,7 @@
         {{ artist.songCount }} {{ artist.songCount === 1 ? "song" : "songs" }}
       </p>
     </div>
-  </div>
+  </NuxtLink>
 </template>
 
 <script setup lang="ts">
@@ -46,9 +46,4 @@ interface Props {
 }
 
 const props = defineProps<Props>()
-
-const navigateToArtist = () => {
-  // Navigate to artist search page
-  navigateTo(`/search?q=${encodeURIComponent(props.artist.name)}`)
-}
 </script>

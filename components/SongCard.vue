@@ -1,7 +1,7 @@
 <template>
-  <div
+  <NuxtLink
+    :to="`/songs/${song.id}`"
     class="cursor-pointer transition-all duration-300 h-full"
-    @click="navigateToSong"
   >
     <!-- Album Art / Icon -->
     <div
@@ -45,20 +45,15 @@
 
       <!-- Footer -->
       <div class="flex items-center justify-between pt-2">
-        <div class="flex items-center text-xs text-gray-500">
-          <Icon name="heroicons:clock" class="w-3 h-3 mr-1" />
-          {{ formatDate(song.created_at || song.createdAt || "") }}
-        </div>
-        <button
-          @click.stop="navigateToSong"
+        <div
           class="text-purple-600 hover:text-purple-700 transition-colors text-sm font-medium flex items-center"
         >
           View
           <Icon name="heroicons:arrow-right" class="w-3 h-3 ml-1" />
-        </button>
+        </div>
       </div>
     </div>
-  </div>
+  </NuxtLink>
 </template>
 
 <script setup lang="ts">
@@ -70,16 +65,4 @@ interface Props {
 }
 
 const props = defineProps<Props>()
-
-const navigateToSong = () => {
-  navigateTo(`/songs/${props.song.slug}`)
-}
-
-const formatDate = (dateString: string) => {
-  return new Date(dateString).toLocaleDateString("en-US", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-  })
-}
 </script>

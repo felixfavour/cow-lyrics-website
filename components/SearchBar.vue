@@ -14,15 +14,21 @@
       v-if="showSuggestions && suggestions.length > 0"
       class="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-md shadow-lg z-50"
     >
-      <div
+      <NuxtLink
         v-for="suggestion in suggestions"
         :key="suggestion.id"
-        class="px-3 py-2 hover:bg-gray-100 cursor-pointer"
-        @click="selectSuggestion(suggestion)"
+        :to="`/songs/${suggestion.slug}`"
+        class="block px-3 py-2 hover:bg-gray-100"
+        @click="
+          () => {
+            showSuggestions = false
+            searchQuery = ''
+          }
+        "
       >
         <div class="font-medium">{{ suggestion.title }}</div>
         <div class="text-sm text-gray-600">{{ suggestion.artist }}</div>
-      </div>
+      </NuxtLink>
     </div>
   </div>
 </template>
@@ -59,12 +65,6 @@ const performSearch = () => {
     navigateTo(`/search?q=${encodeURIComponent(searchQuery.value)}`)
     showSuggestions.value = false
   }
-}
-
-const selectSuggestion = (song: any) => {
-  navigateTo(`/songs/${song.slug}`)
-  showSuggestions.value = false
-  searchQuery.value = ""
 }
 
 // Hide suggestions when clicking outside

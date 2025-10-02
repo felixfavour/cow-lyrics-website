@@ -58,22 +58,30 @@
               class="search-input text-lg"
               @keyup.enter="searchFromHero"
             />
-            <button
-              @click="searchFromHero"
-              class="absolute right-4 top-1/2 transform -translate-y-1/2 p-2 rounded-lg glass-button"
+            <NuxtLink
+              :to="
+                heroSearchQuery.trim()
+                  ? `/search?q=${encodeURIComponent(heroSearchQuery)}`
+                  : '/search'
+              "
+              class="absolute right-4 top-1/2 transform -translate-y-1/2 p-2 rounded-lg glass-button inline-flex items-center justify-center"
             >
               <Icon name="heroicons:magnifying-glass" class="w-5 h-5" />
-            </button>
+            </NuxtLink>
           </div>
 
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <button
-              @click="searchFromHero"
-              class="btn-primary px-8 py-4 text-lg"
+            <NuxtLink
+              :to="
+                heroSearchQuery.trim()
+                  ? `/search?q=${encodeURIComponent(heroSearchQuery)}`
+                  : '/search'
+              "
+              class="btn-primary px-8 py-4 text-lg inline-flex items-center justify-center"
             >
               <Icon name="heroicons:magnifying-glass" class="w-5 h-5 mr-2" />
               Discover Lyrics
-            </button>
+            </NuxtLink>
             <NuxtLink
               to="/add-song"
               class="btn-secondary px-8 py-4 text-lg text-center inline-flex items-center justify-center"
@@ -462,7 +470,7 @@ useSchema([
             "@type": "MusicRecording",
             name: song.title,
             byArtist: song.artist,
-            url: `https://lyrics.cloudofworship.com/songs/${song.slug}`,
+            url: `https://lyrics.cloudofworship.com/songs/${song.id}`,
           },
         })) || [],
     },

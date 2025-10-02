@@ -103,7 +103,7 @@
             </div>
             <div class="flex items-center gap-4">
               <!-- View toggle -->
-              <div class="flex items-center gap-1 bg-gray-100 rounded-lg p-1">
+              <!-- <div class="flex items-center gap-1 bg-gray-100 rounded-lg p-1">
                 <button
                   @click="viewMode = 'list'"
                   :class="[
@@ -128,7 +128,7 @@
                 >
                   <Icon name="heroicons:squares-2x2" class="w-4 h-4" />
                 </button>
-              </div>
+              </div> -->
 
               <!-- Sort options -->
               <div class="flex items-center gap-2 text-sm">
@@ -153,12 +153,12 @@
 
         <!-- Results List View -->
         <div v-if="viewMode === 'list'" class="space-y-3 mb-12">
-          <div
+          <NuxtLink
             v-for="(song, index) in searchResults"
             :key="song.id"
-            class="glass-card hover:shadow-lg transition-all duration-200 cursor-pointer song-list-item"
+            :to="`/songs/${song.id}`"
+            class="glass-card hover:shadow-lg transition-all duration-200 cursor-pointer song-list-item block"
             :style="{ animationDelay: `${index * 0.05}s` }"
-            @click="navigateToSong(song.slug)"
           >
             <div class="p-4 flex items-center justify-between">
               <!-- Left section: Song info -->
@@ -207,42 +207,19 @@
 
               <!-- Right section: Actions and metadata -->
               <div class="flex items-center space-x-4">
-                <!-- Date added -->
-                <div class="hidden sm:flex items-center text-xs text-gray-500">
-                  <Icon name="heroicons:clock" class="w-3 h-3 mr-1" />
-                  {{ formatDate(song.created_at || song.createdAt || "") }}
-                </div>
-
                 <!-- Quick actions -->
                 <div class="flex items-center space-x-2">
-                  <button
-                    @click.stop="quickPreview(song)"
-                    class="p-2 rounded-lg hover:bg-gray-100 text-gray-400 hover:text-purple-600 transition-colors"
-                    title="Quick preview"
-                  >
-                    <Icon name="heroicons:eye" class="w-4 h-4" />
-                  </button>
-
-                  <button
-                    @click.stop="addToFavorites(song)"
-                    class="p-2 rounded-lg hover:bg-gray-100 text-gray-400 hover:text-red-500 transition-colors"
-                    title="Add to favorites"
-                  >
-                    <Icon name="heroicons:heart" class="w-4 h-4" />
-                  </button>
-
                   <!-- View song button -->
-                  <button
-                    @click.stop="navigateToSong(song.slug)"
+                  <div
                     class="btn-primary px-4 py-2 text-sm inline-flex items-center"
                   >
                     View
                     <Icon name="heroicons:arrow-right" class="w-3 h-3 ml-1" />
-                  </button>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
+          </NuxtLink>
         </div>
 
         <!-- Results Grid View -->
@@ -455,10 +432,6 @@ const clearFilters = () => {
 }
 
 // Helper methods for the list view
-const navigateToSong = (slug: string) => {
-  navigateTo(`/songs/${slug}`)
-}
-
 const formatDate = (dateString: string) => {
   return new Date(dateString).toLocaleDateString("en-US", {
     month: "short",

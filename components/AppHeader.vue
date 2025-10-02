@@ -22,10 +22,13 @@
 
         <!-- Search & Actions -->
         <div class="flex items-center space-x-3">
-          <button @click="searchFromHero" class="btn-primary px-8 py-4 text-lg">
+          <NuxtLink
+            to="/add-song"
+            class="btn-primary px-8 py-4 text-lg inline-flex items-center"
+          >
             <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
             Add a song
-          </button>
+          </NuxtLink>
 
           <!-- Mobile menu button -->
           <UButton

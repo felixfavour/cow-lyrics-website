@@ -175,3 +175,9 @@ if (song.value) {
   ])
 }
 </script>
+
+<style>
+.prose-lg {
+  white-space: pre;
+}
+</style>
