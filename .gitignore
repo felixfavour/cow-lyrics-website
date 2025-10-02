@@ -38,3 +38,5 @@ static/
 
 # Optional: ignore generated types
 *.d.ts
+
+.data

@@ -5,12 +5,7 @@ export default defineNuxtConfig({
 
   ssr: false,
 
-  modules: [
-    '@nuxt/ui',
-    '@pinia/nuxt',
-    '@vueuse/nuxt',
-    '@nuxt/content'
-  ],
+  modules: ['@nuxt/ui', '@pinia/nuxt', '@vueuse/nuxt', '@nuxt/content', '@nuxthub/core'],
 
   content: {
     markdown: {

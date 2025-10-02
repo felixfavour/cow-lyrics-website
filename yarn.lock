@@ -248,6 +248,11 @@
   dependencies:
     mime "^3.0.0"
 
+"@cloudflare/workers-types@^4.20250529.0":
+  version "4.20251001.0"
+  resolved "https://registry.npmjs.org/@cloudflare/workers-types/-/workers-types-4.20251001.0.tgz"
+  integrity sha512-MXseDjmqL1hIdQCqwHDMG8SE60W4FdwqLsofZjo/KtLH9zFcoQfZkCYyQrdfEJINiSoNJjrup7WR6KsqiFUSsg==
+
 "@csstools/selector-resolve-nested@^3.1.0":
   version "3.1.0"
   resolved "https://registry.npmjs.org/@csstools/selector-resolve-nested/-/selector-resolve-nested-3.1.0.tgz"
@@ -554,7 +559,7 @@
   resolved "https://registry.npmjs.org/@nuxt/devalue/-/devalue-2.0.2.tgz"
   integrity sha512-GBzP8zOc7CGWyFQS6dv1lQz8VVpz5C2yRszbXufwG/9zhStTIH50EtD87NmWbTMwXDvZLNg8GIpb1UFdH93JCA==
 
-"@nuxt/devtools-kit@^2.5.0", "@nuxt/devtools-kit@2.6.5":
+"@nuxt/devtools-kit@^2.4.0", "@nuxt/devtools-kit@^2.5.0", "@nuxt/devtools-kit@2.6.5":
   version "2.6.5"
   resolved "https://registry.npmjs.org/@nuxt/devtools-kit/-/devtools-kit-2.6.5.tgz"
   integrity sha512-t+NxoENyzJ8KZDrnbVYv3FJI5VXqSi6X4w6ZsuIIh0aKABu6+6k9nR/LoEhrM0oekn/2LDhA0NmsRZyzCXt2xQ==
@@ -645,7 +650,7 @@
     std-env "^3.9.0"
     tinyglobby "^0.2.14"
 
-"@nuxt/kit@^3.12.1", "@nuxt/kit@^3.13.2", "@nuxt/kit@^3.14.1592", "@nuxt/kit@^3.15.4", "@nuxt/kit@^3.16.0", "@nuxt/kit@^3.17.5", "@nuxt/kit@^3.19.2", "@nuxt/kit@^3.9.0", "@nuxt/kit@3.19.2":
+"@nuxt/kit@^3.12.1", "@nuxt/kit@^3.13.2", "@nuxt/kit@^3.14.1592", "@nuxt/kit@^3.15.4", "@nuxt/kit@^3.16.0", "@nuxt/kit@^3.17.4", "@nuxt/kit@^3.17.5", "@nuxt/kit@^3.19.2", "@nuxt/kit@^3.9.0", "@nuxt/kit@3.19.2":
   version "3.19.2"
   resolved "https://registry.npmjs.org/@nuxt/kit/-/kit-3.19.2.tgz"
   integrity sha512-+QiqO0WcIxsKLUqXdVn3m4rzTRm2fO9MZgd330utCAaagGmHsgiMJp67kE14boJEPutnikfz3qOmrzBnDIHUUg==
@@ -799,6 +804,31 @@
     vite-node "^3.2.4"
     vite-plugin-checker "^0.10.3"
     vue-bundle-renderer "^2.1.2"
+
+"@nuxthub/core@^0.9.0":
+  version "0.9.0"
+  resolved "https://registry.npmjs.org/@nuxthub/core/-/core-0.9.0.tgz"
+  integrity sha512-K8GkVcJn1ZoHV9xBiDrRPtBHxlzfysVEXGhdAJ/cR37B43UuWucl9pWKlA59f3VAf6lC8iR/hn3+2qlurcK9Ug==
+  dependencies:
+    "@cloudflare/workers-types" "^4.20250529.0"
+    "@nuxt/devtools-kit" "^2.4.0"
+    "@nuxt/kit" "^3.17.4"
+    "@uploadthing/mime-types" "^0.3.4"
+    citty "^0.1.6"
+    confbox "^0.2.2"
+    defu "^6.1.4"
+    destr "^2.0.5"
+    h3 "^1.15.1"
+    mime "^4.0.7"
+    nitro-cloudflare-dev "^0.2.2"
+    ofetch "^1.4.1"
+    pathe "^2.0.3"
+    pkg-types "^2.1.0"
+    std-env "^3.9.0"
+    ufo "^1.6.1"
+    uncrypto "^0.1.3"
+    unstorage "^1.15.0"
+    zod "^3.25.34"
 
 "@nuxtjs/color-mode@^3.5.2":
   version "3.5.2"
@@ -1410,6 +1440,11 @@
   dependencies:
     hookable "^5.5.3"
     unhead "2.0.17"
+
+"@uploadthing/mime-types@^0.3.4":
+  version "0.3.6"
+  resolved "https://registry.npmjs.org/@uploadthing/mime-types/-/mime-types-0.3.6.tgz"
+  integrity sha512-t3tTzgwFV9+1D7lNDYc7Lr7kBwotHaX0ZsvoCGe7xGnXKo9z0jG2Sjl/msll12FeoLj77nyhsxevXyGpQDBvLg==
 
 "@vercel/nft@^0.30.1":
   version "0.30.2"
@@ -4972,6 +5007,15 @@ negotiator@0.6.3:
   resolved "https://registry.npmjs.org/negotiator/-/negotiator-0.6.3.tgz"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
+nitro-cloudflare-dev@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.npmjs.org/nitro-cloudflare-dev/-/nitro-cloudflare-dev-0.2.2.tgz"
+  integrity sha512-aZfNTVdgXPQeAmXW0Tw8hm3usAHr4qVG4Bg3WhHBGeZYuXr9OyT04Ztb+STkMzhyaXvfMHViAaPUPg06iAYqag==
+  dependencies:
+    consola "^3.4.0"
+    mlly "^1.7.4"
+    pkg-types "^2.1.0"
+
 nitropack@^2.12.5:
   version "2.12.6"
   resolved "https://registry.npmjs.org/nitropack/-/nitropack-2.12.6.tgz"
@@ -7273,7 +7317,7 @@ unplugin@^2.0.0, unplugin@^2.1.0, unplugin@^2.3.10, unplugin@^2.3.2, unplugin@^2
     picomatch "^4.0.3"
     webpack-virtual-modules "^0.6.2"
 
-unstorage@^1.12.0, unstorage@^1.17.1:
+unstorage@^1.12.0, unstorage@^1.15.0, unstorage@^1.17.1:
   version "1.17.1"
   resolved "https://registry.npmjs.org/unstorage/-/unstorage-1.17.1.tgz"
   integrity sha512-KKGwRTT0iVBCErKemkJCLs7JdxNVfqTPc/85ae1XES0+bsHbc/sFBfVi5kJp156cc51BHinIH2l3k0EZ24vOBQ==
@@ -7686,6 +7730,11 @@ zip-stream@^6.0.1:
     archiver-utils "^5.0.0"
     compress-commons "^6.0.2"
     readable-stream "^4.0.0"
+
+zod@^3.24.0, zod@^3.25.34:
+  version "3.25.76"
+  resolved "https://registry.npmjs.org/zod/-/zod-3.25.76.tgz"
+  integrity sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==
 
 zwitch@^2.0.0, zwitch@^2.0.4:
   version "2.0.4"

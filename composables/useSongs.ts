@@ -54,7 +54,7 @@ export const useSongs = () => {
   const searchSongs = async (params: any) => {
     try {
       const { q = '', page = 1, limit = 20, sortBy = 'relevance' } = params
-      
+
       if (!q.trim()) {
         return {
           data: [],

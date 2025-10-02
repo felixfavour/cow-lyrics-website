@@ -210,7 +210,7 @@
                 <!-- Date added -->
                 <div class="hidden sm:flex items-center text-xs text-gray-500">
                   <Icon name="heroicons:clock" class="w-3 h-3 mr-1" />
-                  {{ formatDate(song.created_at || song.createdAt || '') }}
+                  {{ formatDate(song.created_at || song.createdAt || "") }}
                 </div>
 
                 <!-- Quick actions -->
