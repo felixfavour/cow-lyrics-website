@@ -46,9 +46,9 @@
       </div>
 
       <div class="max-w-[90%] md:max-w-3xl mx-auto py-8">
-        <div class="mb-6">
+        <!-- <div class="mb-6">
           <h2 class="text-3xl font-bold text-gray-800 mb-2">Lyrics</h2>
-        </div>
+        </div> -->
 
         <div class="prose prose-lyrics max-w-none">
           <!-- Render Nuxt Content if available -->
@@ -178,6 +178,12 @@ if (song.value) {
 
 <style>
 .prose-lg {
-  white-space: pre;
+  white-space: pre-wrap;
+
+  * {
+    font-family: "IBM Plex Serif", serif;
+    font-size: 120%;
+    font-weight: 500;
+  }
 }
 </style>
