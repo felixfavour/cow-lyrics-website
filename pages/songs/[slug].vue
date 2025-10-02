@@ -180,6 +180,10 @@ if (song.value) {
 .prose-lg {
   white-space: pre-wrap;
 
+  p > span {
+    padding: 1rem 0;
+  }
+
   * {
     font-family: "IBM Plex Serif", serif;
     font-size: 120%;
