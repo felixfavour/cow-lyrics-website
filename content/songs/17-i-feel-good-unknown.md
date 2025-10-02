@@ -1,13 +1,11 @@
 ---
 id: 17-i-feel-good-unknown
-slug: 17-i-feel-good-unknown
 title: "17. I Feel Good"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 12:54 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 12:54 AM"
+created: "July 22, 2025, 12:54 AM"
+updated: "July 22, 2025, 12:54 AM"
 ---
 
 I feel good, I feel good, just to know I've been redeemed, makes me feel good! I feel good, I feel good, I feel good, just to know I've been redeemed makes me feel good!

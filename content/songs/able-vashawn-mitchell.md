@@ -1,13 +1,11 @@
 ---
 id: able-vashawn-mitchell
-slug: able-vashawn-mitchell
 title: "Able"
 artist: "Vashawn Mitchell"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Now unto Him that is able to do exceedingly*

@@ -1,13 +1,11 @@
 ---
 id: accepted-israel-new-breed
-slug: accepted-israel-new-breed
 title: "Accepted"
 artist: "Israel & New Breed"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro: Israel Houghton]

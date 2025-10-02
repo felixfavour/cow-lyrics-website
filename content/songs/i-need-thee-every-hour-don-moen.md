@@ -1,0 +1,26 @@
+---
+id: i-need-thee-every-hour-don-moen
+title: "I Need Thee Every Hour"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+I need thee every hour
+Most gracious Lord
+No tender voice like thine
+Can peace afford
+I need thee, oh, I need thee
+Every hour I need thee
+O bless me now, my Saviour
+I come to thee
+I need thee every hour
+In joy or pain
+Come quickly and abide
+Or life is in vain
+I need thee, oh, I need thee
+Every hour I need thee
+O bless me now, my Saviour
+I come to thee

@@ -1,13 +1,11 @@
 ---
 id: 231-when-faith-steps-in-unknown
-slug: 231-when-faith-steps-in-unknown
 title: "231. When faith steps in"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 12:33 AM"
-genre: "christian"
-updated_at: "September 28, 2025, 12:33 AM"
+created: "September 28, 2025, 12:33 AM"
+updated: "September 28, 2025, 12:33 AM"
 ---
 
 When you call on one who you cannot see and you give him your heart for all eternity that's when faith begins.

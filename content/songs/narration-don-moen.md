@@ -1,0 +1,32 @@
+---
+id: narration-don-moen
+title: "Narration"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+O my soul
+Do you not know?
+Have you not heard?
+It's been told from the beginning
+The Lord your God is on your side
+O my soul don't be afraid
+Hope in the Lord
+By His righteousness and power
+He will strengthen
+He will guide
+And I will soar on wings like eagles
+Held by the hand of God
+I will run and not grow tired
+When on His name I call
+For the Lord is never weary
+His ways are beyond my thoughts
+I will trust in Him with all my heart
+O my soul
+Do you not know?
+Have you not heard?
+It's been told from the beginning
+The Lord your God is on your side

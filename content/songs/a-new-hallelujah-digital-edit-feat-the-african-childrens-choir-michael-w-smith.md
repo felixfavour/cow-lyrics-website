@@ -1,13 +1,11 @@
 ---
 id: a-new-hallelujah-digital-edit-feat-the-african-childrens-choir-michael-w-smith
-slug: a-new-hallelujah-digital-edit-feat-the-african-childrens-choir-michael-w-smith
 title: "A New Hallelujah (Digital Edit) [feat. the African Children’s Choir]"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Can you hear, there's a new song

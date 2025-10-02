@@ -1,13 +1,11 @@
 ---
 id: 1000-names-sean-curran
-slug: 1000-names-sean-curran
 title: "1,000 Names"
 artist: "Sean Curran"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro]

@@ -1,0 +1,28 @@
+---
+id: jesus-generation-hillsong-united
+title: "Jesus Generation"
+artist: "Hillsong UNITED"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+1st Let the Earth rejoice
+See the risen King
+On the clouds of praise
+He's exalted forever
+2nd We will rise with Him
+Son of righteousness
+And the Earth will shake
+In the glory of heaven
+Chorus:
+See the heavens open wide
+And His glory like a flood
+Fill the earth with salvation
+See the nations take His hand
+And in righteousness, they stand
+This is Jesus generation
+2nd verse
+Chorus
+Glory, glory, glory, Emmanuel, God is with us (till the end)

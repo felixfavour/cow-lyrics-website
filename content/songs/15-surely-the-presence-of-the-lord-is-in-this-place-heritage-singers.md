@@ -1,13 +1,11 @@
 ---
 id: 15-surely-the-presence-of-the-lord-is-in-this-place-heritage-singers
-slug: 15-surely-the-presence-of-the-lord-is-in-this-place-heritage-singers
 title: "15. Surely the Presence of The Lord is in This Place"
 artist: "Heritage Singers"
 album: ""
 cover: ""
-created_at: "July 20, 2025, 12:27 AM"
-genre: "christian"
-updated_at: "July 20, 2025, 12:27 AM"
+created: "July 20, 2025, 12:27 AM"
+updated: "July 20, 2025, 12:27 AM"
 ---
 
 Surely the presence of the Lord is in this place. I can feel His mighty power and His grace. 

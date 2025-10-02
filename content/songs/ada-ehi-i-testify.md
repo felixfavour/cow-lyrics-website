@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-i-testify
-slug: ada-ehi-i-testify
 title: "I Testify"
 artist: "Ada Ehi"
 album: "I Testify"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 ho ho

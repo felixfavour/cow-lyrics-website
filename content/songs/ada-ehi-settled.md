@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-settled
-slug: ada-ehi-settled
 title: "Settled"
 artist: "Ada Ehi"
 album: "Settled"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Adanma ma don come ah ya ya

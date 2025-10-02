@@ -1,0 +1,35 @@
+---
+id: emily-michael-w-smith
+title: "Emily"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Caught
+In an endless time
+Waiting for a sign
+To show you where to go
+Lost
+In a silent stare
+Looking Anywhere
+For answers you don't know
+On the wire
+Balancing your dreams
+Hoping ends will meet their means
+But you feel alone
+Uninspired
+Well does it help you to
+Know that I believe in you
+You're an angel waiting for wings
+Emily
+You
+Going through this stage
+It's a restless age
+Young and insecure
+Still
+There are doubts to fade
+Moments to be made
+And one of them is yours

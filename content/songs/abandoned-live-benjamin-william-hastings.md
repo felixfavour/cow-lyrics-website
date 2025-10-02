@@ -1,13 +1,11 @@
 ---
 id: abandoned-live-benjamin-william-hastings
-slug: abandoned-live-benjamin-william-hastings
 title: "Abandoned (Live)"
 artist: "Benjamin William Hastings"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Something isn’t adding up

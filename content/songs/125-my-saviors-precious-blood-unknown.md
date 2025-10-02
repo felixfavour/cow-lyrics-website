@@ -1,13 +1,11 @@
 ---
 id: 125-my-saviors-precious-blood-unknown
-slug: 125-my-saviors-precious-blood-unknown
 title: "125. My Savior's Precious Blood"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 14, 2025, 3:42 PM"
-genre: "christian"
-updated_at: "September 14, 2025, 3:42 PM"
+created: "September 14, 2025, 3:42 PM"
+updated: "September 14, 2025, 3:42 PM"
 ---
 
 There's a crimson river flowing down the cross where Jesus died; it's flowing down the mountain through the valley deep and wide, it's a balm to heal the nations, a reservoir of love, I'm talking about my Savior's precious blood. 

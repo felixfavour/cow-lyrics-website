@@ -1,0 +1,37 @@
+---
+id: wonderful-magnificent-god-don-moen
+title: "Wonderful, Magnificent God"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+At Your feet I bow
+There is none like You
+For all that I have found
+All I want is You
+For all the wonders You do
+And all that You are
+What I can bring to You
+I offer my heart
+Chorus:
+Wonderful magnificent God
+I'm humbled by the life You gave
+Beautiful Redeemer You are
+Worthy of my highest praise
+(Repeat Verse 1 and Chorus)
+Coda:
+What can we give to You o God
+For everything You have given to us
+What can we give to You o God
+For everything You have given to us
+What can we give to You o God
+For everything You have given to us
+We offer our lives to You o God
+For everything You have given to us
+We offer our lives to You o God
+For everything You have given to us
+We offer our lives to You o God
+For everything You have given to us

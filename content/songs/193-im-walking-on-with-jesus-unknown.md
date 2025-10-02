@@ -1,13 +1,11 @@
 ---
 id: 193-im-walking-on-with-jesus-unknown
-slug: 193-im-walking-on-with-jesus-unknown
 title: "193. I'm walking on With Jesus"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 12:19 AM"
-genre: "christian"
-updated_at: "September 28, 2025, 12:19 AM"
+created: "September 28, 2025, 12:19 AM"
+updated: "September 28, 2025, 12:19 AM"
 ---
 
 I'm walking on with Jesus, and I'm holding to his hanf. I'm walking on with Jesus, through this dark and sinful land and though the battle rages, up ahead and I can't see. I won't look back to the left or right, cause I know He walks with me. 

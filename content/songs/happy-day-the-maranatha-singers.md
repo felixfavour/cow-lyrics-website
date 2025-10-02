@@ -1,0 +1,38 @@
+---
+id: happy-day-the-maranatha-singers
+title: "Happy day"
+artist: "The Maranatha Singers"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+The greatest day in history, death is beaten
+You have rescued me
+Sing it out, Jesus is alive
+The empty cross, the empty grave
+Life eternal, You have won the day
+Shout it all, Jesus is alive
+He's alive[Chorus:]
+Oh happy day, happy day
+You washed my sin away
+Oh happy day, happy day
+I'll never be the same
+Oh happy day, happy day
+You washed my sin away
+Oh happy day, happy day
+I'll never be the same
+Forever I am changedWhen I stand, in that place
+Free at last, meeting face to face
+I am Yours, Jesus You are mine
+Endless joy and perfect peace
+Earthly pain finally will cease
+Celebrate Jesus is alive
+He's alive[Bridge:]
+Oh what a glorious day
+What a glorious way
+That You have saved me
+Oh what a glorious day
+What a glorious name
+Jesus!

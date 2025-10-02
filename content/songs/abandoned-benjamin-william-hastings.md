@@ -1,13 +1,11 @@
 ---
 id: abandoned-benjamin-william-hastings
-slug: abandoned-benjamin-william-hastings
 title: "Abandoned"
 artist: "Benjamin William Hastings"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Somethin' isn't adding up

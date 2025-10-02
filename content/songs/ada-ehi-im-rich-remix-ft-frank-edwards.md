@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-im-rich-remix-ft-frank-edwards
-slug: ada-ehi-im-rich-remix-ft-frank-edwards
 title: "I'm Rich (Remix) ft. Frank Edwards"
 artist: "Ada Ehi"
 album: "Best Of Ada"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 eh I he

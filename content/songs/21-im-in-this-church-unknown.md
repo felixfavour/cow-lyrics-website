@@ -1,13 +1,11 @@
 ---
 id: 21-im-in-this-church-unknown
-slug: 21-im-in-this-church-unknown
 title: "21. I'm in this Church"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 1:19 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 1:19 AM"
+created: "July 22, 2025, 1:19 AM"
+updated: "July 22, 2025, 1:19 AM"
 ---
 
 I'm in this church, this glorious church. I didn't join, Oh I was born, I had a new birth. 

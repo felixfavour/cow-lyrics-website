@@ -1,13 +1,11 @@
 ---
 id: a-christmas-alleluia-chris-tomlin
-slug: a-christmas-alleluia-chris-tomlin
 title: "A Christmas Alleluia"
 artist: "Chris Tomlin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Alleluia, alleluia

@@ -1,0 +1,31 @@
+---
+id: it-is-you-newsboys
+title: "It Is You"
+artist: "Newsboys"
+album: ""
+cover: ""
+created: "January 18, 2025, 10:56 AM"
+updated: "January 18, 2025, 10:56 AM"
+---
+
+As we lift up our hands
+Will you meet us here?
+As we call on your name
+Will you meet us here?
+We have come to this place
+To worship you
+God of mercy and grace
+
+It is you
+We adore
+It is you
+Praises are for
+Only you
+The heavens declare
+It is you
+It is you
+
+Holy, holy is our God Almighty
+Holy, holy is His name alone
+Holy, holy is our God Almighty
+Holy, holy is His name alone

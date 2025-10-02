@@ -1,0 +1,31 @@
+---
+id: prepare-ye-the-way-michael-w-smith
+title: "Prepare Ye the Way"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Give thanks to the Lord for He is good
+His love endures forever
+Hallelujah, oh, my soul
+Praise God, all my life long I will praise God
+Singing songs to my God as long as I will live
+I will praise You, oh Lord, with all my heart
+Before the Gods I will sing Your praise
+I will bow down toward Your holy temple
+And will praise Your name for Your love and Your faithfulness
+Prepare ye the way
+Prepare ye the way of the Lord
+Prepare ye the way
+Prepare ye the way of the Lord
+Prepare ye the way
+Prepare ye the way of the Lord
+Prepare ye the way
+Prepare ye the way of the Lord
+Yeshua, Yeshua, You reign on high, You reign on high
+Almighty God, Your love is like no other
+Yeshua, You reign on high, You reign on high
+Almighty God, Your love is like no other

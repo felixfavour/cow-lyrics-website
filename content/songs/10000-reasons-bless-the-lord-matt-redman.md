@@ -1,13 +1,11 @@
 ---
 id: 10000-reasons-bless-the-lord-matt-redman
-slug: 10000-reasons-bless-the-lord-matt-redman
 title: "10,000 Reasons (Bless the Lord)"
 artist: "Matt Redman"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Chorus]

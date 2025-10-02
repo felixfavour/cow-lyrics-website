@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-i-will-sing-refreshed
-slug: ada-ehi-i-will-sing-refreshed
 title: "I Will Sing (Refreshed)"
 artist: "Ada Ehi"
 album: "I Will Sing (Refreshed)"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Arrrr arrrr

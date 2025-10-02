@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-im-a-miracle
-slug: ada-ehi-im-a-miracle
 title: "I'm a Miracle"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I turn on the lights see mi now say  walking in power walking in favor

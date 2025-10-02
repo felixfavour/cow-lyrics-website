@@ -1,13 +1,11 @@
 ---
 id: a-ti-adoramos-we-praise-you-live-matt-redman
-slug: a-ti-adoramos-we-praise-you-live-matt-redman
 title: "A Ti Adoramos (We Praise You) [Live]"
 artist: "Matt Redman"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro: Evan Craft]

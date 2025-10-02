@@ -1,13 +1,11 @@
 ---
 id: 10000-reasons-what-a-beautiful-name-caleb-and-kelsey
-slug: 10000-reasons-what-a-beautiful-name-caleb-and-kelsey
 title: "10,000 Reasons / What a Beautiful Name"
 artist: "Caleb and Kelsey"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 The sun comes up, it’s a new day dawning

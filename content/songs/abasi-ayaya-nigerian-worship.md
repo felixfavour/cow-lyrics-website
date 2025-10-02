@@ -1,13 +1,11 @@
 ---
 id: abasi-ayaya-nigerian-worship
-slug: abasi-ayaya-nigerian-worship
 title: "Abasi ayaya"
 artist: "Nigerian Worship"
 album: ""
 cover: ""
-created_at: "June 7, 2024, 11:23 PM"
-genre: "christian"
-updated_at: "June 7, 2024, 11:23 PM"
+created: "June 7, 2024, 11:23 PM"
+updated: "June 7, 2024, 11:23 PM"
 ---
 
 Abasi ayaya o

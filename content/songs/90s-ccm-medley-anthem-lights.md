@@ -1,13 +1,11 @@
 ---
 id: 90s-ccm-medley-anthem-lights
-slug: 90s-ccm-medley-anthem-lights
 title: "90s CCM Medley"
 artist: "Anthem Lights"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Jesus Freak]

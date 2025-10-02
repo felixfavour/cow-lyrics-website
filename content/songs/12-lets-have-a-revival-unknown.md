@@ -1,13 +1,11 @@
 ---
 id: 12-lets-have-a-revival-unknown
-slug: 12-lets-have-a-revival-unknown
 title: "12. Let's have a revival"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 14, 2025, 3:21 PM"
-genre: "christian"
-updated_at: "September 14, 2025, 3:21 PM"
+created: "September 14, 2025, 3:21 PM"
+updated: "September 14, 2025, 3:21 PM"
 ---
 
 Let's have a revival, from the pulpit to the pew, let's have a revival that starts with me and you. Then reaches out to a lost and hungry world to bring them in, this is our joy, it's our survival, let's pray for a Holy Ghost arrival, let's have a revival. 

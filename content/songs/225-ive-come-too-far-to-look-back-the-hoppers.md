@@ -1,13 +1,11 @@
 ---
 id: 225-ive-come-too-far-to-look-back-the-hoppers
-slug: 225-ive-come-too-far-to-look-back-the-hoppers
 title: "225. I've come too far to look back"
 artist: "The Hoppers"
 album: ""
 cover: ""
-created_at: "September 7, 2025, 3:29 PM"
-genre: "christian"
-updated_at: "September 7, 2025, 3:29 PM"
+created: "September 7, 2025, 3:29 PM"
+updated: "September 7, 2025, 3:29 PM"
 ---
 
 I've come too far to look back again

@@ -1,13 +1,11 @@
 ---
 id: 64-what-a-day-that-will-be-unknown
-slug: 64-what-a-day-that-will-be-unknown
 title: "64. What A Day That will be"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 10, 2025, 12:18 AM"
-genre: "christian"
-updated_at: "August 10, 2025, 12:18 AM"
+created: "August 10, 2025, 12:18 AM"
+updated: "August 10, 2025, 12:18 AM"
 ---
 
 There is coming a day when no heartaches shall come, no more clouds in the sky, no more tears to dim the eye. All is peace forever more, on that happy golden shore, what a day, glorious day that will be. 

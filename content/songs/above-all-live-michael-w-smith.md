@@ -1,13 +1,11 @@
 ---
 id: above-all-live-michael-w-smith
-slug: above-all-live-michael-w-smith
 title: "Above All (Live)"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Above all powers, above all kings

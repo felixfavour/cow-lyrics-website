@@ -1,13 +1,11 @@
 ---
 id: 14-the-cloud-hes-coming-back-on-kingsmen-quartet
-slug: 14-the-cloud-hes-coming-back-on-kingsmen-quartet
 title: "14. The cloud He's coming back on"
 artist: "Kingsmen Quartet"
 album: ""
 cover: ""
-created_at: "July 20, 2025, 12:22 AM"
-genre: "christian"
-updated_at: "July 20, 2025, 12:22 AM"
+created: "July 20, 2025, 12:22 AM"
+updated: "July 20, 2025, 12:22 AM"
 ---
 
 Early one morning I walked out the doorway stopped to look up to the sky. Thinking that this may be the exact day that Jesus will sound forth the cry

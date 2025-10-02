@@ -1,0 +1,18 @@
+---
+id: highest-place-ron-kenoly
+title: "Highest Place"
+artist: "Ron Kenoly"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+We place You
+On the highest place
+For You
+Are the great High Priest
+We place You
+High above all else
+And we come to You
+And worship at Your feet

@@ -1,0 +1,47 @@
+---
+id: all-my-ways-are-known-to-you-cityalight
+title: "All My Ways Are Known to You"
+artist: "CityAlight"
+album: "Only a Holy God"
+cover: ""
+created: ""
+updated: "July 8, 2024, 10:29 AM"
+---
+
+In days of peace and days of rest
+In times of loss and loneliness
+Though rich or poor, Your word is true
+That all my ways are known to You
+No trial has come beyond Your hand
+No step I walk beyond Your plan
+The path is dark outside my view
+Still all my ways are known to You
+And oh what peace that I have found
+Wherever I may be
+For all my ways are known to You
+Hallelujah, they are known to You!
+I do not fear the final night
+For death will be the door to life
+You take my hand and lead me through
+For all my ways are known to You
+And oh what peace that I have found
+Wherever I may be
+For all my ways are known to You
+Hallelujah, they are known to You!
+Open up my eyes so I may see
+That You have made these ways for me
+Open up my eyes so I may see
+That You my God, will walk with me
+Open up my eyes so I may see
+That You have made these ways for me
+Open up my eyes so I may see
+That You my God, will walk with me
+And oh what peace that I have found
+Wherever I may be
+For all my ways are known to You
+Hallelujah, they are known to You!
+And oh what peace that I have found
+Wherever I may be
+For all my ways are known to You
+Hallelujah, they are known to You!
+Hallelujah, they are known to You!

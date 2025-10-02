@@ -1,13 +1,11 @@
 ---
 id: 28-the-next-time-he-comes-uknown
-slug: 28-the-next-time-he-comes-uknown
 title: "28. The Next Time He Comes"
 artist: "Uknown"
 album: ""
 cover: ""
-created_at: "August 10, 2025, 12:08 AM"
-genre: "christian"
-updated_at: "August 10, 2025, 12:08 AM"
+created: "August 10, 2025, 12:08 AM"
+updated: "August 10, 2025, 12:08 AM"
 ---
 
 From the lofty courts of Heaven came a bud on earth to bloom, knowing when He left His Father, that his fate would be the tomb. But the grave, it could not hold Him, angels rolled the stone away, now the mighty Rose of Sharon is still blooming yet today.

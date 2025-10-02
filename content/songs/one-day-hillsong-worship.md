@@ -1,0 +1,34 @@
+---
+id: one-day-hillsong-worship
+title: "One Day"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+More than I could hope or dream of
+You have poured your favor on me
+One day in the house of God is
+Better than a thousand days in the world
+So blessed, I can't contain it
+So much, I've got to give it away
+Your love taught me to live now
+You are more than enough for me
+More than I could hope or dream of
+You have poured Your favor on me
+One day in the house of God is
+Better than a thousand days in the world
+You see, I'm so blessed, I can't contain it
+So much, I've got to give it away
+Your love taught me to live now
+You are more than enough for me
+So blessed, I can't contain it
+So much, I've got to give it away
+Your love taught me to live now
+You are more than enough for me
+Lord, You're more than enough for me
+Lord, You're more than enough for me
+Lord, You're more than enough for me
+Lord, You're more than enough for me

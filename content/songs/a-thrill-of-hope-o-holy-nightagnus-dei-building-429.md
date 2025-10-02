@@ -1,13 +1,11 @@
 ---
 id: a-thrill-of-hope-o-holy-nightagnus-dei-building-429
-slug: a-thrill-of-hope-o-holy-nightagnus-dei-building-429
 title: "A Thrill of Hope (O Holy Night/Agnus Dei)"
 artist: "Building 429"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 O holy night the stars are brightly shining

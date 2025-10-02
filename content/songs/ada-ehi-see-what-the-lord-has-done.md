@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-see-what-the-lord-has-done
-slug: ada-ehi-see-what-the-lord-has-done
 title: "See What the Lord Has Done"
 artist: "Ada Ehi"
 album: "Ada's EP"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 See oh see what the lord has done 4ce

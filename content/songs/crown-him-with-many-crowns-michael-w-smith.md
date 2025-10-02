@@ -1,0 +1,32 @@
+---
+id: crown-him-with-many-crowns-michael-w-smith
+title: "Crown Him With Many Crowns"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Crown Him with many crowns
+The lamb upon the throne
+Hark! How the heav'nly anthem drowns
+All music but it's own!
+Awake, my soul, and sing
+Of Him who died for thee
+And hail Him as thy matchless king
+Thru all eternity
+Crown Him with many crowns (2x)
+Crown Him the Lord of heav'n
+One with the Father known
+One with the spirit thru Him giv'n
+From yonder glorious throne
+To thee be endless praise
+For thou hasat died for me
+Be thou, O Lord, thru endless days
+Adored and magnified
+Crown Him with many crowns
+His glories now we sing
+Who died and rose on high
+Who died eternal life to bring
+And lives that death may die

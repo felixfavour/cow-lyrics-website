@@ -1,13 +1,11 @@
 ---
 id: 24-under-his-feet-mckameys
-slug: 24-under-his-feet-mckameys
 title: "24. Under His Feet"
 artist: "McKameys"
 album: ""
 cover: ""
-created_at: "July 27, 2025, 1:28 AM"
-genre: "christian"
-updated_at: "July 27, 2025, 1:28 AM"
+created: "July 27, 2025, 1:28 AM"
+updated: "July 27, 2025, 1:28 AM"
 ---
 
 When Simon Peter walked abreast, putting his faith unto the test. He said Master, will thou bidst me come unto thee?

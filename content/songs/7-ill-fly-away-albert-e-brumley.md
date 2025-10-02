@@ -1,13 +1,11 @@
 ---
 id: 7-ill-fly-away-albert-e-brumley
-slug: 7-ill-fly-away-albert-e-brumley
 title: "7. I'll Fly Away"
 artist: "Albert E. Brumley"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 7:57 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 7:57 PM"
+created: "July 19, 2025, 7:57 PM"
+updated: "July 19, 2025, 7:57 PM"
 ---
 
 Some glad morning when this life is o'er, I'll fly away; To a home on God's celestial shore, I'll fly away (I'll fly away). 

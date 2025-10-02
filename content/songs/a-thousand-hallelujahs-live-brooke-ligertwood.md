@@ -1,13 +1,11 @@
 ---
 id: a-thousand-hallelujahs-live-brooke-ligertwood
-slug: a-thousand-hallelujahs-live-brooke-ligertwood
 title: "A Thousand Hallelujahs (Live)"
 artist: "Brooke Ligertwood"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Who else would rocks cry out to worship?

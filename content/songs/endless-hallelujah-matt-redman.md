@@ -1,0 +1,35 @@
+---
+id: endless-hallelujah-matt-redman
+title: "Endless Hallelujah"
+artist: "Matt Redman"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+When I stand before Your throne
+Dressed in glory not my own
+What a joy I'll sing of on that day
+No more tears or broken dreams
+Forgotten is the minor key
+Everything as it was meant to be
+And we will worship, worship
+Forever in Your presence we will sing
+We will worship, worship You
+And endless hallelujah to the King
+I will see You as You are
+Love You with unsinning heart
+And see how much You paid to bring me home
+Not till then, Lord, shall I know
+Not till then, how much I owe
+Everything I am before Your throne
+And we will worship, worship
+Forever in Your presence we will sing
+We will worship, worship You
+And endless hallelujah to the King
+No more tears, no more shame
+No more sin and sorrow ever known again
+No more fears, no more pain
+We will see You face to face
+See You face to face

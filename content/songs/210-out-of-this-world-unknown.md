@@ -1,13 +1,11 @@
 ---
 id: 210-out-of-this-world-unknown
-slug: 210-out-of-this-world-unknown
 title: "210. Out of this world"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 20, 2025, 5:18 PM"
-genre: "christian"
-updated_at: "September 20, 2025, 5:18 PM"
+created: "September 20, 2025, 5:18 PM"
+updated: "September 20, 2025, 5:18 PM"
 ---
 
 While traveling thru this world below, I see great cities everywhere I go but I know that soon their beauty will fade away. But there's a place waiting just for me, a city that'll stand for eternity. I'm telling you the place where I'm going is out of this world. 

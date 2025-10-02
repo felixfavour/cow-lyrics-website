@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-beautiful
-slug: ada-ehi-beautiful
 title: "Beautiful"
 artist: "Ada Ehi"
 album: "Ada's EP"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 How do I, explain how God became a man

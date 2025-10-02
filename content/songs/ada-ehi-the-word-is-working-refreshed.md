@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-the-word-is-working-refreshed
-slug: ada-ehi-the-word-is-working-refreshed
 title: "The Word is Working (Refreshed)"
 artist: "Ada Ehi"
 album: "The Word is Working (Refreshed)"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 The word us working, inside of me

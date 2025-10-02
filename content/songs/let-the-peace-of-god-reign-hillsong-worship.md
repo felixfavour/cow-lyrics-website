@@ -1,0 +1,32 @@
+---
+id: let-the-peace-of-god-reign-hillsong-worship
+title: "Let the Peace of God Reign"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Father of life draw me closer
+Lord, my heart is set on You
+Let me run the race of time
+With You life unfolding mine
+And let the peace of God, let it reign
+Oh Holy Spirit, Lord my comfort
+Strengthen me hold my head up high
+And I stand upon Your truth
+Bringing glory unto You
+And let the peace of God, let it reign
+Oh Lord, I hunger for more of You
+Rise up within me let me know Your truth
+Oh Holy Spirit, saturate my soul
+And let the life of God, fill me now
+Let Your healing power
+Breathe life and make me whole
+And let the peace of God, let it reign
+Oh Holy Spirit, Lord my comfort
+Strengthen me hold my head up high
+And I stand upon Your truth
+Bringing glory unto You
+And let the peace of God, let it reign

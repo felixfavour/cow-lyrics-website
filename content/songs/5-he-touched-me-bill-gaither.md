@@ -1,13 +1,11 @@
 ---
 id: 5-he-touched-me-bill-gaither
-slug: 5-he-touched-me-bill-gaither
 title: "5. He touched me"
 artist: "Bill Gaither"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 7:47 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 7:47 PM"
+created: "July 19, 2025, 7:47 PM"
+updated: "July 19, 2025, 7:47 PM"
 ---
 
 SHACKLED BY A HEAVY BURDEN,

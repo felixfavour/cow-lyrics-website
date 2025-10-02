@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-open-doors
-slug: ada-ehi-open-doors
 title: "Open Doors"
 artist: "Ada Ehi"
 album: "Open Doors"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Na nmeri oh, na nmeri oh, na nmeri oh

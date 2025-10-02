@@ -1,13 +1,11 @@
 ---
 id: a-voice-for-worship-don-moen
-slug: a-voice-for-worship-don-moen
 title: "A Voice for Worship"
 artist: "Don Moen"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Lord You give me a voice for worship

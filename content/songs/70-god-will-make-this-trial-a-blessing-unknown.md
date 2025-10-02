@@ -1,13 +1,11 @@
 ---
 id: 70-god-will-make-this-trial-a-blessing-unknown
-slug: 70-god-will-make-this-trial-a-blessing-unknown
 title: "70. God Will Make This Trial A Blessing"
 artist: "Unknown "
 album: ""
 cover: ""
-created_at: "August 24, 2025, 3:23 PM"
-genre: "christian"
-updated_at: "August 24, 2025, 3:23 PM"
+created: "August 24, 2025, 3:23 PM"
+updated: "August 24, 2025, 3:23 PM"
 ---
 
 I've just come into a valley, one like I've  never been before. I keep searching for a way out, seems like pad locks on the door. Oh, there must be another sunrise, another sunset that I'll see. God will make this trial a blessing that's the love he has for me. 

@@ -1,0 +1,33 @@
+---
+id: we-give-you-glory-don-moen
+title: "We Give You Glory"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Talking
+Lord, we are here for one purpose tonight
+To bless Your name, to give glory
+Honor and praises
+To give You everything we are, Hallelujah
+We're here to bless Your name
+Gathered as Your family
+To praise You and proclaim
+Your faithfulness and mercy
+We give You glory, we give You honor
+We give you everything we are
+Lifting our hearts and hands before You
+We give You glory, we give You honor
+We give you everything we are
+Lifting our hearts and hands before You
+Oh yes, we do
+We're here to seek Your face
+Together in Your presence
+To celebrate Your grace
+To praise You for Your mercies
+We give You glory, we give You honor
+We give you everything we are
+Lifting our hearts and hands before You

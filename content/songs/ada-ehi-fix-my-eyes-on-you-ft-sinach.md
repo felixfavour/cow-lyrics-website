@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-fix-my-eyes-on-you-ft-sinach
-slug: ada-ehi-fix-my-eyes-on-you-ft-sinach
 title: "Fix My Eyes On You ft Sinach"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 My very plan is to trust in You

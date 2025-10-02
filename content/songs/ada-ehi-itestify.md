@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-itestify
-slug: ada-ehi-itestify
 title: "iTestify"
 artist: "Ada Ehi"
 album: "Best Of Ada"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 ho ho

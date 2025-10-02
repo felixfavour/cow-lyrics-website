@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-finally
-slug: ada-ehi-finally
 title: "Finally"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Yahh

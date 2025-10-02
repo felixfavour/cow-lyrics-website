@@ -1,13 +1,11 @@
 ---
 id: a-god-like-you-kirk-franklin
-slug: a-god-like-you-kirk-franklin
 title: "A God Like You"
 artist: "Kirk Franklin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Hit me

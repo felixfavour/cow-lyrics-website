@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-like-dis
-slug: ada-ehi-like-dis
 title: "Like Dis"
 artist: "Ada Ehi"
 album: "Like Dis"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Like Dis

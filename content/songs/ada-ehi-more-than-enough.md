@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-more-than-enough
-slug: ada-ehi-more-than-enough
 title: "More than Enough"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Yes

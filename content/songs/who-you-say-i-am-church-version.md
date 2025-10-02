@@ -1,0 +1,66 @@
+---
+id: who-you-say-i-am-church-version
+title: "Who You Say I Am"
+artist: "Church Version"
+album: ""
+cover: ""
+created: "October 13, 2024, 7:18 AM"
+updated: "October 13, 2024, 7:18 AM"
+---
+
+Who am I that the highest King would welcome me?
+I was lost, but He brought me in
+Oh His love for me
+Oh His love for me
+Who the Son sets free
+Oh, is free indeed
+I'm a child of God, yes, I am
+Free at last, He has ransomed me
+His grace runs deep
+While I was a slave to sin, Jesus died for me
+Yes, He died for me
+Who the Son sets free
+Oh is free indeed
+I'm a child of God, yes, I am
+I'm my Father's house
+I'm his dwelling place
+I'm a child of God, yes, I am
+I am chosen, not forsaken
+I am who You say I am
+You are for me, not against me
+I am who You say I am
+I am chosen, not forsaken
+I am who You say I am
+You are for me, not against me
+I am who You say I am
+I am who You say I am
+Who the Son sets free
+Oh is free indeed
+I'm a child of God, yes, I am
+I'm my Father's house
+I'm his dwelling place
+I'm a child of God, yes, I am
+I'm my Father's house
+I'm his dwelling place
+I'm a child of God, yes, I am
+I am chosen, not forsaken
+I am who You say I am
+You are for me, not against me
+I am who You say I am
+I am chosen, not forsaken
+I am who You say I am
+You are for me, not against me
+I am who You say I am
+I am chosen, not forsaken
+I am who You say I am
+You are for me, not against me
+I am who You say I am
+Oh I am who You say I am
+Yes, I am who you say I am
+Who the Son sets free
+Oh is free indeed
+I'm a child of God, yes, I am
+I'm my Father's house
+I'm his dwelling place
+I'm a child of God, yes, I am
+

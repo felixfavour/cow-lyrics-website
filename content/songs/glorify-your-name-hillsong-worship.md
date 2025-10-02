@@ -1,0 +1,31 @@
+---
+id: glorify-your-name-hillsong-worship
+title: "Glorify Your Name"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Jesus Jesus
+Holy One, God's precious Son
+You gave
+Jesus Jesus
+On the cross You took my shame
+Forever from my heart I'll say
+I live to worship You, Lord
+My King of glory
+Brought me to life
+Gave me wings to fly
+You are holy
+Heaven and earth declare Your praise
+Both now and evermore
+I glorify Your name
+Jesus Jesus
+On the cross You took my sin
+Forever from my heart I'll sing
+You are holy
+Glorify Your name
+Jesus Jesus Jesus
+I glorify Your name

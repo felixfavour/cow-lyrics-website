@@ -1,0 +1,31 @@
+---
+id: deeper-hillsong-united
+title: "Deeper"
+artist: "Hillsong UNITED"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Light of men, love of God
+Healing for the wounded heart
+Like a child I quiet my soul
+Hear Your voice surround me, Lord
+Jesus, hold me into Your heart, into Your heart
+And Lord, my soul delights and I know You hear my prayer
+Take me deeper, oh, Lord
+Glorious Son, to You I shall bow
+Bow my knee, bow my will
+Cherished by the strong and the weak
+Humble hearts shall hear You speak
+Jesus, hold me into Your heart, into Your heart
+And Lord, my soul delights and I know You hear my prayer
+Take me deeper
+Oh, Jesus, hold me into Your heart, into Your heart
+And Lord, my soul delights and I know You hear my prayer
+Take me deeper, oh, Lord
+By Your love, Lord, You opened my heart
+Now Your light will shine always
+By Your Word, Lord, Your promise secure
+And my soul will live always

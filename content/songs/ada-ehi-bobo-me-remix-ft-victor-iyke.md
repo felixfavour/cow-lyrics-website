@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-bobo-me-remix-ft-victor-iyke
-slug: ada-ehi-bobo-me-remix-ft-victor-iyke
 title: "Bobo Me (Remix) ft. Victor Iyke"
 artist: "Ada Ehi"
 album: "Best Of Ada"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 eh I he

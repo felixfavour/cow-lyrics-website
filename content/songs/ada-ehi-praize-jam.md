@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-praize-jam
-slug: ada-ehi-praize-jam
 title: "Praize Jam"
 artist: "Ada Ehi"
 album: "Best Of Ada"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 free nation

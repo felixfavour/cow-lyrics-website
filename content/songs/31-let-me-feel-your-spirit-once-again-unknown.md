@@ -1,13 +1,11 @@
 ---
 id: 31-let-me-feel-your-spirit-once-again-unknown
-slug: 31-let-me-feel-your-spirit-once-again-unknown
 title: "31. Let me feel your spirit once again"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:45 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:45 PM"
+created: "September 28, 2025, 4:45 PM"
+updated: "September 28, 2025, 4:45 PM"
 ---
 
 Lord I’ve Been Busy Here And There,

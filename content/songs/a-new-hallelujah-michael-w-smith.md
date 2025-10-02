@@ -1,13 +1,11 @@
 ---
 id: a-new-hallelujah-michael-w-smith
-slug: a-new-hallelujah-michael-w-smith
 title: "A New Hallelujah"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Can you hear, there's a new song

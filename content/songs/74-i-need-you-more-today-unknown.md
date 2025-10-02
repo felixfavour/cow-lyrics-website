@@ -1,13 +1,11 @@
 ---
 id: 74-i-need-you-more-today-unknown
-slug: 74-i-need-you-more-today-unknown
 title: "74. I need you more today"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 24, 2025, 3:28 PM"
-genre: "christian"
-updated_at: "August 24, 2025, 3:28 PM"
+created: "August 24, 2025, 3:28 PM"
+updated: "August 24, 2025, 3:28 PM"
 ---
 
 There are decisions I can't make on my own. And there are times I can't face all alone. But you said you'd walk with me down life's troubled roads, and you said, "come unto me and I'll bear your heavy load. 

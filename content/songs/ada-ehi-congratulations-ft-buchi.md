@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-congratulations-ft-buchi
-slug: ada-ehi-congratulations-ft-buchi
 title: "Congratulations ft Buchi"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I have a message

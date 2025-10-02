@@ -1,13 +1,11 @@
 ---
 id: 18-i-cant-even-walk-gaither-family
-slug: 18-i-cant-even-walk-gaither-family
 title: "18. I can't even walk"
 artist: "Gaither Family"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 1:02 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 1:02 AM"
+created: "July 22, 2025, 1:02 AM"
+updated: "July 22, 2025, 1:02 AM"
 ---
 
 I thought that number one would surely be me. I thought I could be what I wanted to be. 

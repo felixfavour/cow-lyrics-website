@@ -1,0 +1,38 @@
+---
+id: i-love-you-amy-grant
+title: "I Love You"
+artist: "Amy Grant"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+You were pretty crazy
+Back when we fell in love
+Wanting to be everything
+That I would be proud of
+Hours we spent dreaming
+How we'd beat the odds
+Now the truth has hit us
+Life is very hard
+Life can be so hard
+Chorus:
+I love you
+Deeper than I ever dreamed of
+I need you. (I need you.)
+Staying here 'til we can work it out
+I want you
+Knowing that through all the changes
+I love you. (I love you.)
+Somehow I just had to tell you now
+(Yeah)
+Oh, to stay your princess
+If I only could
+If you never saw the rotten;
+Only saw the good
+You'd still be prince charming
+But we would never know
+How it's in the darkest times
+True love finally grows
+Come on true love grow

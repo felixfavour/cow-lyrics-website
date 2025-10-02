@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-i-will-sing
-slug: ada-ehi-i-will-sing
 title: "I Will Sing"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I will sing

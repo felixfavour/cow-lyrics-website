@@ -1,0 +1,28 @@
+---
+id: all-things-don-moen
+title: "All Things"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+All things (echo)
+Work together (echo)
+For the good of those(echo)
+Who love You
+All things (echo)
+Work together (echo)
+For the good of those(echo)
+Who love You
+When things are beyond my control
+To You Lord I lift up my soul
+And when things are hard to understand
+Lord I trust in Your perfect plan
+I believe that
+Some things hazy will someday be clear
+Some things hidden will one day appear
+And some things so wrong will be made right
+As we walk in Your perfect light
+I believe that

@@ -1,13 +1,11 @@
 ---
 id: 231-when-faith-steps-in-na
-slug: 231-when-faith-steps-in-na
 title: "231. When Faith Steps in"
 artist: "na"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 3:56 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 3:56 PM"
+created: "September 28, 2025, 3:56 PM"
+updated: "September 28, 2025, 3:56 PM"
 ---
 
 When you call on one who you cannot see and you give him your heart for all eternity that's when faith begins. When you turn away from all your sin and you trust in the lord to cleanse you within that's when faith begins. in childlike trust you hold your hand simply believing salvation's plan

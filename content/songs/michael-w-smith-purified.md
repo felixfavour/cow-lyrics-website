@@ -1,0 +1,47 @@
+---
+id: michael-w-smith-purified
+title: "Purified"
+artist: "Michael W. Smith"
+album: "Worship"
+cover: ""
+created: ""
+updated: ""
+---
+
+Where the angels see
+You are praised as You should be.
+But how can I express
+My yearning for Your Holiness.
+May it be (that)
+I will open my heart
+Search me in the deepest part.
+And I will stand in cleansing fire,
+By You, purified,
+By You I'm purified.
+Savior of my soul
+To your strength I yield control.
+Purge me of my stain
+Sin will lose it's mortal reign.
+Make me free (and)
+I will open my heart
+Search me in the deepest part.
+And I will stand in cleansing fire,
+By You, purified,
+By You I'm purified.
+You are Holy
+You are Holy
+Yes You are Holy
+You are Holy
+You are Holy
+Holy
+I will open my heart
+Search me in the deepest part.
+And I will stand in cleansing fire,
+By You, purified,
+By You I'm purified.
+You are Holy
+You are Holy
+Yes You are Holy
+You are Holy
+You are Holy
+Holy

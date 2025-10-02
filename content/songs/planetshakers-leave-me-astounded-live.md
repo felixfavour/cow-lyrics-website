@@ -1,0 +1,53 @@
+---
+id: planetshakers-leave-me-astounded-live
+title: "Leave Me Astounded (Live)"
+artist: "Planetshakers"
+album: "This Is Our Time (Live)"
+cover: ""
+created: ""
+updated: ""
+---
+
+eave Me Astounded"
+All my hands have made I'm laying down
+All that I hold dear, my many crowns
+I've tasted and seen of Your great love
+You satisfy me
+You satisfy me
+Spirit fall, open up heaven's door
+We're waiting with worship for more
+You're the only love that satisfies me
+ Ohhhhh, satisfies me
+My constant request above all things
+Every hour I wake, be near me, oh Lord
+Though I've tasted and seen of Your great love
+Show me Your glory
+Show me Your glory
+Spirit fall, open up heaven's door
+We're waiting with worship for more
+You're the only love that satisfies me
+Lord we run into Your loving arms
+We're safe and secure in Your love
+You're the only love that satisfies me
+Leave me astounded, leave me amazed
+Show off Your glory, let heaven invade
+We're waiting with worship, we're waiting with praise
+For the almighty presence of God to invade
+Leave me astounded, leave me amazed
+Show off Your glory, let heaven invade
+We're waiting with worship, we're waiting with praise
+For the almighty presence of God to invade
+Spirit fall, open up heaven's door
+We're waiting with worship for more
+You're the only love that satisfies me
+Lord we run into Your loving arms
+We're safe and secure in Your love
+You're the only love that satisfies me
+Leave me astounded, leave me amazed
+Show off Your glory, let heaven invade
+We're waiting with worship, we're waiting with praise
+For the almighty presence of God to invade
+Leave me astounded, leave me amazed
+Show off Your glory, let heaven invade
+We're waiting with worship, we're waiting with praise
+For the almighty presence of God to invade

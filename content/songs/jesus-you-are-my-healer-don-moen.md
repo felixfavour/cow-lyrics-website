@@ -1,0 +1,37 @@
+---
+id: jesus-you-are-my-healer-don-moen
+title: "Jesus You Are My Healer"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Jesus, Son of God
+Only You can save me
+Suffering on the cross
+You gave Your all
+Willingly paid the cost for me
+Now I am free to worship
+Jesus, You are my healer
+O Jesus, touch me and I will be free
+Lord by Your stripes I am healed
+O Jesus, You are my savior
+O Jesus, You are my strength and my shield
+I put my trust in Your name
+In Your name, Jesus
+Lord Your name is great
+A refuge I can run to
+A shelter from the storm
+A faithful friend
+And I can depend on You
+My God, my King
+I lift my voice and worship
+Jesus, You are my healer
+O Jesus, touch me and I will be free
+Lord by Your stripes I am healed
+O Jesus, You are my savior
+O Jesus, You are my strength and my shield
+I put my trust in Your name
+In Your name, Jesus

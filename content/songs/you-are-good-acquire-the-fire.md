@@ -1,0 +1,34 @@
+---
+id: you-are-good-acquire-the-fire
+title: "You Are Good"
+artist: "Acquire The Fire"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Are you ready
+Lord, You are good and Your mercy endure us forever
+Lord, You are good and Your mercy endure us forever
+We walk from every nation and town
+From generation to generation
+We worship You, Hallelujah, Hallelujah
+We worship You, who You are
+We worship You, Hallelujah, Hallelujah
+We worship You, who You are, come on sing it, You are Lord
+Sing it again, Lord, You are good and Your mercy endure us forever
+Oh, sing it to Him, oh
+Lord, You are good and Your mercy endure us forever
+We walk from every nation and town
+From generation to generation
+We worship You, Hallelujah, Hallelujah
+We worship You, who You are
+Sing, we worship You, Hallelujah, Hallelujah
+We worship You, who You are, come on
+You are good, so good, so good, yeah
+You are good, all the time, all the time, You are good
+You are good, all the time, sing, all the time, You are good
+Sing it again, You are good, all the time
+Come on, all the time, You are good
+You are good, all the time, all the time, You are good, come on

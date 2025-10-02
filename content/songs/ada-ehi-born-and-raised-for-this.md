@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-born-and-raised-for-this
-slug: ada-ehi-born-and-raised-for-this
 title: "BORN AND RAISED FOR THIS"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Born And Raised For This

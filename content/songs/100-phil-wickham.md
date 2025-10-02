@@ -1,13 +1,11 @@
 ---
 id: 100-phil-wickham
-slug: 100-phil-wickham
 title: "100%"
 artist: "Phil Wickham"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I'm a little scared to sing this song

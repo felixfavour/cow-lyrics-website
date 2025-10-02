@@ -1,13 +1,11 @@
 ---
 id: abbey-ojomu-we-share-the-same-lover
-slug: abbey-ojomu-we-share-the-same-lover
 title: "We Share the Same Lover"
 artist: "Abbey Ojomu"
 album: "We Share the Same Lover"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 We share the same lover and we are not ashamed

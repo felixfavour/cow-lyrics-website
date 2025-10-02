@@ -1,13 +1,11 @@
 ---
 id: 1-mo-ti-ni-jesu-lore-ybh-264
-slug: 1-mo-ti-ni-jesu-lore-ybh-264
 title: "1. MO ti ni Jesu l’ore,"
 artist: "YBH 264"
 album: ""
 cover: ""
-created_at: "April 20, 2025, 10:06 AM"
-genre: "christian"
-updated_at: "April 20, 2025, 10:06 AM"
+created: "April 20, 2025, 10:06 AM"
+updated: "April 20, 2025, 10:06 AM"
 ---
 
 1. MO ti ni Jesu l’ore,

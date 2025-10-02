@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-cheta
-slug: ada-ehi-cheta
 title: "Cheta"
 artist: "Ada Ehi"
 album: "Cheta"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 what am forever the same

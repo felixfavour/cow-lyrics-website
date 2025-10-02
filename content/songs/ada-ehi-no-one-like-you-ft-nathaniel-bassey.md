@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-no-one-like-you-ft-nathaniel-bassey
-slug: ada-ehi-no-one-like-you-ft-nathaniel-bassey
 title: "No One Like You Ft Nathaniel Bassey"
 artist: "Ada Ehi"
 album: "Ada's EP"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I am yours Jesus, I am yours (2ce)

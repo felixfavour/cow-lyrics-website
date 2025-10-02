@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-jesus-you-are-able
-slug: ada-ehi-jesus-you-are-able
 title: "Jesus (You Are Able)"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 What can't you do Jesus

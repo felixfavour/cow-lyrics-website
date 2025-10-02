@@ -1,13 +1,11 @@
 ---
 id: 50-shades-christon-gray
-slug: 50-shades-christon-gray
 title: "50 Shades"
 artist: "Christon Gray"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Am I becoming more of what I never was?

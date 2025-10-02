@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-on-my-matter
-slug: ada-ehi-on-my-matter
 title: "On My Matter"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 on my matter Ada ehi

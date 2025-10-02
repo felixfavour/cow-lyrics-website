@@ -1,0 +1,30 @@
+---
+id: to-be-like-you-hillsong-worship
+title: "To Be Like You"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Humble King, holy One
+Friend of sinners, God's own Son
+God in flesh among men
+You walked my road, You understand
+Servant King, Friend to me
+You saved my soul, washed my feet
+Here I'll bow, give all to You
+Lord, I want to be like You
+All I want, all I need
+More of You, less of me
+Take this life Lord, it's Yours
+Have my heart, have it all
+I will walk in Your ways
+Love Your word, seek Your face
+My reward, my sole pursuit
+To know You more, to be like You
+All I want, all I need
+More of You, less of me
+Take this life Lord, it's Yours
+Have my heart, have it all

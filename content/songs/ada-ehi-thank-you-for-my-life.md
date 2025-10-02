@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-thank-you-for-my-life
-slug: ada-ehi-thank-you-for-my-life
 title: "Thank you for my life"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Thank You for my life

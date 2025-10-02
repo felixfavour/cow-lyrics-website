@@ -1,13 +1,11 @@
 ---
 id: abba-father-hillsong-worship
-slug: abba-father-hillsong-worship
 title: "Abba, Father"
 artist: "Hillsong Worship"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Abba Father how I love You

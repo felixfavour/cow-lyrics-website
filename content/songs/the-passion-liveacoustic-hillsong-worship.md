@@ -1,0 +1,33 @@
+---
+id: the-passion-liveacoustic-hillsong-worship
+title: "The Passion (Live/Acoustic)"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+The passion of our Saviour
+The mercy of our God
+The cross that leaves no question
+Of the measure of His love
+Our chains are gone
+Our debt is paid
+The cross has overthrown the grave
+For Jesus' blood that sets us free
+Means death to death
+And life for me
+The Innocent judged guilty
+While the guilty one walks free
+Death would be His portion
+And our portion liberty
+[Bridge]
+I give my whole life
+To honour this love
+By the Lamb who was slain
+I'm forgiven
+The sinner's Saviour
+Crown Him forever
+For the Lamb who was slain
+He is risen

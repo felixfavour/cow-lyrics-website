@@ -1,13 +1,11 @@
 ---
 id: 11-there-is-a-river-unknown
-slug: 11-there-is-a-river-unknown
 title: "11. There is A River"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 11:59 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 11:59 PM"
+created: "July 19, 2025, 11:59 PM"
+updated: "July 19, 2025, 11:59 PM"
 ---
 
 There came a sound from Heaven, like a mighty rushing wind. It filled their hearts with singing, and gave them peace within. The prophet made this promise, His spirit will descend. And from my inner being, a river with no end!

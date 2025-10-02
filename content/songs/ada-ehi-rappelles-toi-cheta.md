@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-rappelles-toi-cheta
-slug: ada-ehi-rappelles-toi-cheta
 title: "Rappelles-Toi (Cheta)"
 artist: "Ada Ehi"
 album: "Avenir Maintenant"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 rappel

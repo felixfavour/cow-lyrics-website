@@ -1,13 +1,11 @@
 ---
 id: 238-do-you-know-how-it-feels-unknown
-slug: 238-do-you-know-how-it-feels-unknown
 title: "238. Do you know how it feels"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 20, 2025, 5:40 PM"
-genre: "christian"
-updated_at: "September 20, 2025, 5:40 PM"
+created: "September 20, 2025, 5:40 PM"
+updated: "September 20, 2025, 5:40 PM"
 ---
 
 Do you know how it feels to know something's missing, and hear a still small voice that you just keep dismissing? Do you know how it feels to be troubled inside, to think just for you on a cross someone died?

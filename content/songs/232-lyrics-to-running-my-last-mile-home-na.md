@@ -1,13 +1,11 @@
 ---
 id: 232-lyrics-to-running-my-last-mile-home-na
-slug: 232-lyrics-to-running-my-last-mile-home-na
 title: "232. lyrics to Running my last mile home."
 artist: "na"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 3:50 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 3:50 PM"
+created: "September 28, 2025, 3:50 PM"
+updated: "September 28, 2025, 3:50 PM"
 ---
 
 Well, I've been a soldier in God's mighty army Since many long years ago And I've been scarred and wounded in battle And many times I've been brought low But by the signs of the times I then realize I've only one more mile to go Well is that the lights of Heaven up above I feel like running my last mile home.

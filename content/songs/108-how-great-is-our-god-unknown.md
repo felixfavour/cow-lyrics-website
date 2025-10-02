@@ -1,13 +1,11 @@
 ---
 id: 108-how-great-is-our-god-unknown
-slug: 108-how-great-is-our-god-unknown
 title: "108. How Great Is Our God"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 24, 2025, 3:33 PM"
-genre: "christian"
-updated_at: "August 24, 2025, 3:33 PM"
+created: "August 24, 2025, 3:33 PM"
+updated: "August 24, 2025, 3:33 PM"
 ---
 
 The splendor of a king, clothed in majesty let all the earth rejoice all the earth rejoice. He wraps himself in light and darkness tries to hide and trembles at his voice. Trembles at his voice.

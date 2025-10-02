@@ -1,0 +1,22 @@
+---
+id: take-me-over-michael-w-smith
+title: "Take Me Over"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Just to rest in your arms
+Close enough to hear your heart
+Just to kneel at your feet
+Where everything fades away and I sing
+Jesus, Jesus, take me over now
+I surrender
+Everything I have, I lay it down
+All of me
+With just a glimpse of your face
+All my fears melt away
+Lost within your embrace
+I'm pouring out all my admiration

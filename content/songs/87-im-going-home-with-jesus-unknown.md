@@ -1,13 +1,11 @@
 ---
 id: 87-im-going-home-with-jesus-unknown
-slug: 87-im-going-home-with-jesus-unknown
 title: "87. I'm Going Home with Jesus"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 17, 2025, 12:18 PM"
-genre: "christian"
-updated_at: "August 17, 2025, 12:18 PM"
+created: "August 17, 2025, 12:18 PM"
+updated: "August 17, 2025, 12:18 PM"
 ---
 
 I'm going home with Jesus in the twinkling of an eye. I've made my reservations for a mansion in the sky. I may not know the moment, I may not know the day, but I know that I'll be leaving when He calls His Church away!

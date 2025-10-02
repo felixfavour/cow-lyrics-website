@@ -1,13 +1,11 @@
 ---
 id: 196-im-on-my-way-to-heaven-unknown
-slug: 196-im-on-my-way-to-heaven-unknown
 title: "196. I'm on my way to Heaven"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 31, 2025, 3:14 PM"
-genre: "christian"
-updated_at: "August 31, 2025, 3:14 PM"
+created: "August 31, 2025, 3:14 PM"
+updated: "August 31, 2025, 3:14 PM"
 ---
 
 I'm on my way to Heaven my journey gets sweeter every day. I'm walking with Jesus, talking with Jesus, all along the way. My soul gets so happy, I shout and I sing night and day. I'm on my way to Heaven and the journey gets sweeter everyday.

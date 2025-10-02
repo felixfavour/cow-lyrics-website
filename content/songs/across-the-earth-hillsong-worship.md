@@ -1,13 +1,11 @@
 ---
 id: across-the-earth-hillsong-worship
-slug: across-the-earth-hillsong-worship
 title: "Across The Earth"
 artist: "Hillsong Worship"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Across the earth

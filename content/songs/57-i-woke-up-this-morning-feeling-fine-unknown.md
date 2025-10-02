@@ -1,13 +1,11 @@
 ---
 id: 57-i-woke-up-this-morning-feeling-fine-unknown
-slug: 57-i-woke-up-this-morning-feeling-fine-unknown
 title: "57. I woke up this morning feeling fine"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 3, 2025, 12:15 AM"
-genre: "christian"
-updated_at: "August 3, 2025, 12:15 AM"
+created: "August 3, 2025, 12:15 AM"
+updated: "August 3, 2025, 12:15 AM"
 ---
 
 I woke up this morning feeling fine. I woke up with heaven on my mind. I woke up with joy in my soul, I knew the Lord had made me whole. I woke up this morning feeling right, I'd been on my knees in the night. I woke up this morning feeling fine and now I'm feeling mighty fine. 

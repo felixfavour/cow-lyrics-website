@@ -1,13 +1,11 @@
 ---
 id: a-million-saints-live-meredith-andrews
-slug: a-million-saints-live-meredith-andrews
 title: "A Million Saints (Live)"
 artist: "Meredith Andrews"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 You work in signs and wonders

@@ -1,13 +1,11 @@
 ---
 id: 27-nicole-c-mullen
-slug: 27-nicole-c-mullen
 title: "#27"
 artist: "Nicole C. Mullen"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 The Lord is my light and my salvation;

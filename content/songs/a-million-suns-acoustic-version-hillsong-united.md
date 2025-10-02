@@ -1,13 +1,11 @@
 ---
 id: a-million-suns-acoustic-version-hillsong-united
-slug: a-million-suns-acoustic-version-hillsong-united
 title: "A Million Suns (Acoustic Version)"
 artist: "Hillsong UNITED"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 You stand eternal

@@ -1,13 +1,11 @@
 ---
 id: abbey-ojomu-dry-bones
-slug: abbey-ojomu-dry-bones
 title: "Dry Bones"
 artist: "Abbey Ojomu"
 album: "Dry Bones"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 The word of the lord

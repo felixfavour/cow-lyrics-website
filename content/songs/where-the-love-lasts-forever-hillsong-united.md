@@ -1,0 +1,28 @@
+---
+id: where-the-love-lasts-forever-hillsong-united
+title: "Where the Love Lasts Forever"
+artist: "Hillsong UNITED"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Your mercy found me, upon the broken road
+And lifted me beyond my failing into Your glory
+My sin and shame dissolved
+And now forever Yours I'll stand
+In love never to end to call You more than Lord
+Glorious friend
+So I throw my life upon all You are
+'Cause I know You gave it all for me and when all else fades
+My soul will dance with You
+Where the love lasts forever
+Your mercy found me, upon the broken road
+And lifted me beyond my failing into Your glory
+My sin and shame dissolved
+And now forever Yours I'll stand
+And forever I will sing
+Lord, forever I will sing
+Of how You gave Your life away just to save me
+Lord, You saved me

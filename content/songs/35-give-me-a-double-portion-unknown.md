@@ -1,13 +1,11 @@
 ---
 id: 35-give-me-a-double-portion-unknown
-slug: 35-give-me-a-double-portion-unknown
 title: "35. Give me a double portion"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 5:07 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 5:07 PM"
+created: "September 28, 2025, 5:07 PM"
+updated: "September 28, 2025, 5:07 PM"
 ---
 
 Long Ago In Days Of Old, Stood A Man Of God We’re Told, As He Talked To Elijah That Day; His Request He Did Repeat, Standing At Elijah’s Feet,

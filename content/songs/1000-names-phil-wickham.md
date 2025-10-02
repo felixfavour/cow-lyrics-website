@@ -1,13 +1,11 @@
 ---
 id: 1000-names-phil-wickham
-slug: 1000-names-phil-wickham
 title: "1,000 Names"
 artist: "Phil Wickham"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I call You Maker

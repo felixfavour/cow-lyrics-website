@@ -1,0 +1,30 @@
+---
+id: solo-cristo-live-hillsong-worship
+title: "Solo cristo - live"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+En reposo, en silencio
+Sé que tú eres señor
+Al estar en tu presencia
+Sé que hay restauración
+Al oír tu dulce voz
+Te seguiré mi rey, mi Dios
+No hay nadie como tú
+Sólo Cristo
+Moriste por mí en la cruz
+Viviré para alabar
+En el caos, en tormentas
+Sé que sigues siendo Dios
+Cuando Siento que soy débil
+Me das la gracia para seguir
+Al oír tu dulce voz
+Cantaré esta canción
+Mi deleite está en ti
+Mi corazón, toda mi Fe
+Mi deleite está en ti
+Por siempre

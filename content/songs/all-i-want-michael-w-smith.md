@@ -1,0 +1,36 @@
+---
+id: all-i-want-michael-w-smith
+title: "All I Want"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+All I have in this world
+Is fire from above
+All I have in this world
+Is you
+And all the journeys I have walked
+I know you've walked them too
+All I want is to be faithful
+All I want is you
+All I have is a love
+That set my world on fire
+Let it fall, let it burn in me
+And oh to be a friend of God is all that I desire
+All I want is to be faithful
+All I want is you
+All I want is you
+All I want is you
+All I want is you
+Is you
+All I have in this world
+Is fire from above
+All I have in this world
+Is you
+And all the journeys I have walked
+I know you've walked them too
+All I want is to be faithful
+All I want is you

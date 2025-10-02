@@ -1,0 +1,42 @@
+---
+id: matthew-west-when-i-say-i-do
+title: "When I Say I Do"
+artist: "Matthew West"
+album: "Hello, My Name Is: Greatest Hits"
+cover: ""
+created: ""
+updated: ""
+---
+
+There must be a God, I believe its true.
+Cause I can see His love, when I look at you.
+And he must have a plan for this crazy life.
+Because He brought you here and placed you by my side.
+And I have never been so sure of anything before
+Like I am in this momment here with you
+Now for better or for worse are so much more than only words
+And I pray everyday will be the proof
+That I mean what I say when I say 'I do'
+Yeah I mean what I Say when I say 'I do'
+You see these hands you hold, will always hold you up
+When the strength you have just aint strong enough
+And what tomorrow brings, only time will tell
+But I will stand by you in sickness and in health
+Cause I have never been so sure of anything before
+Like I am in this momment here with you
+And now 'for better or for worse'
+Are so much more than only words
+And I pray every day will be the proof
+That I mean what I say when I say 'I do'
+Ya I mean what I say when I say
+Take my hand and take this ring
+And know that I will always love you through anything.
+And as the years march on like a beating heart
+I will live these words 'til death do us part'
+Cause I have never been so sure of anything before
+Like I am in this moment here with you
+And now for better or for worse
+Are so much more than only words
+And I pray everyday will be the proof
+That I mean what I say when I say 'I do'
+Ya I mean what I say when I say 'I do'

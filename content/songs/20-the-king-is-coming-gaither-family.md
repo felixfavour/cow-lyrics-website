@@ -1,13 +1,11 @@
 ---
 id: 20-the-king-is-coming-gaither-family
-slug: 20-the-king-is-coming-gaither-family
 title: "20. The King is Coming"
 artist: "Gaither Family"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 1:14 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 1:14 AM"
+created: "July 22, 2025, 1:14 AM"
+updated: "July 22, 2025, 1:14 AM"
 ---
 
 The marketplace is empty. No more traffic in the streets. All the builders' tools are silent. No more time to harvest wheat.

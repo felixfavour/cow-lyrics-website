@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-everything
-slug: ada-ehi-everything
 title: "Everything"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 oooh everything

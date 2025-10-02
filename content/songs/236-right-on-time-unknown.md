@@ -1,13 +1,11 @@
 ---
 id: 236-right-on-time-unknown
-slug: 236-right-on-time-unknown
 title: "236. Right on time"
 artist: "unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 12:38 AM"
-genre: "christian"
-updated_at: "September 28, 2025, 12:38 AM"
+created: "September 28, 2025, 12:38 AM"
+updated: "September 28, 2025, 12:38 AM"
 ---
 
 They sent for Jesus, your friends about to die. But tarried He still on behind

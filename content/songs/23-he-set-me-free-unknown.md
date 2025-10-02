@@ -1,13 +1,11 @@
 ---
 id: 23-he-set-me-free-unknown
-slug: 23-he-set-me-free-unknown
 title: "23. He Set Me Free"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 1:28 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 1:28 AM"
+created: "July 22, 2025, 1:28 AM"
+updated: "July 22, 2025, 1:28 AM"
 ---
 
 Once like a bird in prison I dwelt, No, freedom from my sorrow I felt. But Jesus came and listened to me, and glory to God, He set me free!

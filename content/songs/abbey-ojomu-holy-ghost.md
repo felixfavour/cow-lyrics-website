@@ -1,13 +1,11 @@
 ---
 id: abbey-ojomu-holy-ghost
-slug: abbey-ojomu-holy-ghost
 title: "Holy Ghost"
 artist: "Abbey Ojomu"
 album: "Holy Ghost"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 According to the power at Work in me

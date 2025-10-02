@@ -1,0 +1,34 @@
+---
+id: do-what-you-say-hillsong-worship
+title: "Do What You Say"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+I cry from my heart
+I want to please You Lord
+To serve You each day
+Love You and learn all Your ways
+You said if I love You
+Then I will keep Your commands
+You did the Father's will
+Oh Your love is so real
+To love You Lord is to obey
+And my Jesus I'll do what You say
+Jesus I'll do what You say
+Jesus I'll do what You say
+Your Word is my light
+Pure and alive in my heart
+And I know I am
+Your hands and Your feet to the world
+I pray help me to love
+My brother as myself
+You showed the greatest love
+Is the life for Your friend
+I love You Lord I live to please You
+And my Jesus I'll do what You say
+Jesus I'll do what You say
+Jesus I'll do what You say

@@ -1,13 +1,11 @@
 ---
 id: 10000-reasons-bless-the-lord-jonas-myrin-matt-redman
-slug: 10000-reasons-bless-the-lord-jonas-myrin-matt-redman
 title: "10,000 Reasons (Bless the Lord)"
 artist: "Jonas Myrin, Matt Redman"
 album: ""
 cover: ""
-created_at: "September 25, 2025, 7:06 AM"
-genre: "christian"
-updated_at: "September 25, 2025, 7:06 AM"
+created: "September 25, 2025, 7:06 AM"
+updated: "September 25, 2025, 7:06 AM"
 ---
 
 Bless the Lord O my soul O my soul

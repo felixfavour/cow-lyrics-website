@@ -1,0 +1,28 @@
+---
+id: worthy-is-the-lamb-hillsong-worship
+title: "Worthy Is the Lamb"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Thank you for the cross, Lord
+Thank you for the price You paid
+Bearing all my sin and shame
+In love You came
+And gave amazing grace
+Thank you for this love Lord
+Thank you for the nail pierced hands
+Washed me in Your cleansing flow
+Now all I know
+Your forgiveness and embrace
+Worthy is the Lamb
+Seated on the throne
+Crown You now with many crowns, You reign victorious
+High and lifted up
+Jesus, Son of God
+The Darling of Heaven crucified
+Worthy is the Lamb
+Worthy is the Lamb

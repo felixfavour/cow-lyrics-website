@@ -1,13 +1,11 @@
 ---
 id: 236-right-on-time-na
-slug: 236-right-on-time-na
 title: "236. Right on Time"
 artist: "na"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:00 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:00 PM"
+created: "September 28, 2025, 4:00 PM"
+updated: "September 28, 2025, 4:00 PM"
 ---
 
 They said for Jesus, your friend's about to die

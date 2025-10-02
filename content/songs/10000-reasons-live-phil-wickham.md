@@ -1,13 +1,11 @@
 ---
 id: 10000-reasons-live-phil-wickham
-slug: 10000-reasons-live-phil-wickham
 title: "10,000 Reasons (Live)"
 artist: "Phil Wickham"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Refrain]

@@ -1,0 +1,32 @@
+---
+id: saviour-king-hillsong-worship
+title: "Saviour King"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+And now the weak say I have strength
+By the spirit of power that raised Christ from the dead
+And now the poor stand and confess
+That my portion is you and I'm more than blessed
+Pre-chorus
+Let now our hearts burn with a flame
+A fire consuming all for your Son's holy name
+And with the heavens we declare
+You are our king
+Chorus
+We love you Lord, we worship you
+You are our God, you alone are good
+You asked your Son to carry this
+The heavy cross our weight of sin
+I love you Lord, I worship you
+Hope which was lost, now stands renewed
+I give my life to honor this
+The love of Christ, the savior king
+Let now your church shine as the bride
+That you soar in your heart as you offered up your life
+Let now the lost be welcomed home
+By the saved and redeemed those adopted as your own

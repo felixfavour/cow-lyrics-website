@@ -1,13 +1,11 @@
 ---
 id: a-king-like-this-chris-tomlin
-slug: a-king-like-this-chris-tomlin
 title: "A King Like This"
 artist: "Chris Tomlin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A King like this, majesty

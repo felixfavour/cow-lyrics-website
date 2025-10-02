@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-the-bridge
-slug: ada-ehi-the-bridge
 title: "The Bridge"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Can you hear me

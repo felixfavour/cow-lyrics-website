@@ -1,13 +1,11 @@
 ---
 id: a-thousand-hallelujahs-i-we-exalt-thee-live-at-team-night-hillsong-worship
-slug: a-thousand-hallelujahs-i-we-exalt-thee-live-at-team-night-hillsong-worship
 title: "A Thousand Hallelujahs / I (We) Exalt Thee (Live at Team Night)"
 artist: "Hillsong Worship"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 (Here we go)

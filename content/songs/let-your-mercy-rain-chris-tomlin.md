@@ -1,0 +1,31 @@
+---
+id: let-your-mercy-rain-chris-tomlin
+title: "Let Your Mercy Rain"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+God, You have done great things
+God, You give grace to the weak
+And bless the brokenhearted
+With a song of praise to sing
+You reached down and lifted us up
+You came running, looking for us
+And now there's nothing
+And no one beyond Your love
+You're the overflow
+You're the fountain of my heart
+Let Your mercy rain
+Let Your mercy rain on us
+You're the faithful one
+When the world's falling apart
+Let Your mercy rain
+Let Your mercy rain on us
+[Outro]
+How deep, how wide, how long, how high is Your love is Your love
+How deep, how wide, how long, how high is Your love is Your love
+Oh, God
+Let it rain

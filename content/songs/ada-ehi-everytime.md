@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-everytime
-slug: ada-ehi-everytime
 title: "Everytime"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Everytime, I close my eyes I see you.

@@ -1,13 +1,11 @@
 ---
 id: 130-one-more-river-to-cross-traditional-christian-hymns
-slug: 130-one-more-river-to-cross-traditional-christian-hymns
 title: "130. One more river to cross"
 artist: "Traditional Christian Hymns"
 album: ""
 cover: ""
-created_at: "September 7, 2025, 3:18 PM"
-genre: "christian"
-updated_at: "September 7, 2025, 3:18 PM"
+created: "September 7, 2025, 3:18 PM"
+updated: "September 7, 2025, 3:18 PM"
 ---
 
 I’ve Had A Lot Of Troubles And Trials,

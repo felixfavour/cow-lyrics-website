@@ -1,0 +1,28 @@
+---
+id: closer-hillsong-worship
+title: "Closer"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+There is no life without You
+You have all that we need
+Where You are ev'ry fear is broken
+And the darkness must flee
+Chorus 1
+Closer and closer we want to know You
+Reaching out reaching out
+Here in Your presence we want to go deeper
+In Your light come alive
+There is no one beside You
+You alone are enough
+You fling the doors of Your heart wide open
+And we are lost in Your love
+(Bridge)
+To You we will come running
+In You we find belonging
+Your love is all that can satisfy
+(REPEAT)

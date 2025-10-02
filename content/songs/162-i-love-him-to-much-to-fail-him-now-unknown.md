@@ -1,13 +1,11 @@
 ---
 id: 162-i-love-him-to-much-to-fail-him-now-unknown
-slug: 162-i-love-him-to-much-to-fail-him-now-unknown
 title: "162. I Love Him to much to fail Him Now"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 17, 2025, 12:41 PM"
-genre: "christian"
-updated_at: "August 17, 2025, 12:41 PM"
+created: "August 17, 2025, 12:41 PM"
+updated: "August 17, 2025, 12:41 PM"
 ---
 
 When I first heard of Jesus, His love and His grace, my heart was overwhelmed to think a King would take my place. I cried, "Lord I'll go with you every step of the way; that's all I can do my debt to repay.

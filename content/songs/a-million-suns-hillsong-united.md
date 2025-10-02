@@ -1,13 +1,11 @@
 ---
 id: a-million-suns-hillsong-united
-slug: a-million-suns-hillsong-united
 title: "A Million Suns"
 artist: "Hillsong UNITED"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 You stand eternal

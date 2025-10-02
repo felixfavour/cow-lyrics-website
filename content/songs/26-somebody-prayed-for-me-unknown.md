@@ -1,13 +1,11 @@
 ---
 id: 26-somebody-prayed-for-me-unknown
-slug: 26-somebody-prayed-for-me-unknown
 title: "26. Somebody Prayed for me"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 10, 2025, 12:28 AM"
-genre: "christian"
-updated_at: "August 10, 2025, 12:28 AM"
+created: "August 10, 2025, 12:28 AM"
+updated: "August 10, 2025, 12:28 AM"
 ---
 
 I was lost and alone in a cold dark world; no peace of mind or freedom could I see. But little did I know I had a friend somewhere. Someone I didn't know saw some good in me. 

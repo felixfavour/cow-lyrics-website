@@ -1,13 +1,11 @@
 ---
 id: 1-sss
-slug: 1-sss
 title: "1"
 artist: "sss"
 album: ""
 cover: ""
-created_at: "June 8, 2025, 10:59 AM"
-genre: "christian"
-updated_at: "June 8, 2025, 10:59 AM"
+created: "June 8, 2025, 10:59 AM"
+updated: "June 8, 2025, 10:59 AM"
 ---
 
 William Bachelder Bradbury USA 1816-1868. 

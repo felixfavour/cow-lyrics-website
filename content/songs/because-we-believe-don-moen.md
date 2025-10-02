@@ -1,0 +1,32 @@
+---
+id: because-we-believe-don-moen
+title: "Because We Believe"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+We believe in God the Father
+We believe in Christ the Son
+We believe in the Holy Spirit
+We are the Church
+And we stand as one
+We believe in the Holy Bible
+We believe in the virgin birth
+We believe in the resurrection
+That Christ one day
+Will return to earth
+Holy holy
+Holy is our God
+Worthy worthy
+Worthy is our King
+All glory and honor
+Are His to receive
+To Jesus we sing
+Because we believe
+We believe in the blood of Jesus
+We believe in eternal life
+We believe in His love that frees us
+To become the bride of Christ

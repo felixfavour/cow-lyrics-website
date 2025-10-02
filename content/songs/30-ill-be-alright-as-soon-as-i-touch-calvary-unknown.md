@@ -1,13 +1,11 @@
 ---
 id: 30-ill-be-alright-as-soon-as-i-touch-calvary-unknown
-slug: 30-ill-be-alright-as-soon-as-i-touch-calvary-unknown
 title: "30. I'll be alright (As soon as I touch Calvary)"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:43 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:43 PM"
+created: "September 28, 2025, 4:43 PM"
+updated: "September 28, 2025, 4:43 PM"
 ---
 
 Friends Don’t Worry Bout This Heavy Load I Carry. Don’t Be Concerned If It Sends Me To My Knees. For I Know A Place Where All My Load Will Lighten.

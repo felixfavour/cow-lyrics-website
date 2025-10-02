@@ -1,13 +1,11 @@
 ---
 id: 10000-reasons-bless-the-lord-ft-steve-angrisano-matt-redman
-slug: 10000-reasons-bless-the-lord-ft-steve-angrisano-matt-redman
 title: "10,000 Reasons (Bless the Lord) ft. Steve Angrisano"
 artist: "Matt Redman"
 album: "Choose Christ 2014"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: "July 8, 2024, 10:30 AM"
+created: ""
+updated: "July 8, 2024, 10:30 AM"
 ---
 
 Bless the Lord oh my soul

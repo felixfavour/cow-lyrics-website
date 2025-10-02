@@ -1,13 +1,11 @@
 ---
 id: 66-one-day-i-will-unknown
-slug: 66-one-day-i-will-unknown
 title: "66. One Day I will"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 10, 2025, 12:13 AM"
-genre: "christian"
-updated_at: "August 10, 2025, 12:13 AM"
+created: "August 10, 2025, 12:13 AM"
+updated: "August 10, 2025, 12:13 AM"
 ---
 
 I have never seen the face of my Savior; but serving Him's been such a thrill. I have never seen the gates to that city; Oh, but one day, one day I will!

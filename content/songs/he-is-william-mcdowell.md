@@ -1,0 +1,29 @@
+---
+id: he-is-william-mcdowell
+title: "He Is"
+artist: "William McDowell"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+(Chorus:)
+(Almighty), Almighty, (Incredible), Incredible
+(Amazing), Amazing, (Supernatural), Supernatural
+(Wonderful), Wonderful, (Marvelous), Marvelous
+(He Is), He Is, (He Is), He Is
+Let creation sing, let the people shout
+For His goodness and his mercy
+Let us praise Him now
+Every knee shall bow
+Every tongue proclaim
+Giving glory to His Holy Name
+(Channel:)
+He is the Lord over everything
+And let all of creation proclaim, He Is
+Let the earth rejoice, let the people dance
+To our Savior and Redeemer
+We will lift our hands
+He's the Lord of Lords and the King of Kings
+Hallelujah, let creation sing

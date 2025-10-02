@@ -1,0 +1,117 @@
+---
+id: revolution-kirk-franklin
+title: "Revolution"
+artist: "Kirk Franklin"
+album: "Jesus Music (Original Motion Picture Soundtrack)"
+cover: ""
+created: ""
+updated: "July 8, 2024, 10:28 AM"
+---
+
+The Book of Revelations
+Chapter 7: Verses 16 and 17 (Yes sir)
+They shall hunger no more
+Neither shall they thirst anymore (Preach preacher!)
+And God shall wipe away (Yes sir)
+Every tear from the eye (Yes sir)
+Get ready for the revolution
+(Come on, come on, come on, come on, come on)
+Whoaaaa-o-o-oooooo-ohhhhh
+Do you want a revolution?
+Whoop Whoop!
+I said do you want a Revolution?
+Whoop Whoop
+Whoaaaaa-o-o-Whoaaaa-ohhh-ohhh
+Do you want a revolution?
+Whoop Whoop
+Come on, do you want a revolution?
+Whoop Whoop!
+Sick and tired of my brothers, killin' each other
+Sick and tired of daddies leavin' babies with their mothers
+So every man that wanna lay around and play around
+Listen partner, you be man enough to stay around
+Sick and tired of the Church, talkin' religion
+But yet we talk about each other, make a decision
+No more racism (no), two face-ism (no)
+No pollution (no), the solution (no)
+A revolution
+Whoaaaa-o-o-oooooo-ohhhhh
+Listen, do you want a revolution?
+Whoop Whoop!
+I said, do you want a Revolution?
+Whoop Whoop
+Whoaaaaa-o-o-Whoaaaa-ohhh-ohhh
+Listen, do you want a revolution?
+Whoop Whoop
+I said, do you want a revolution?
+Whoop Whoop!
+No crime (no), No dying (no)
+Politicians lying (uh), Everybody's trying
+To make a dollar, it makes me wanna holler
+The way I do my life, the way they do my life
+There's gonna be a brighter day
+All your troubles will pass away
+A revolution's comin', yes its comin' comin'
+Revolution's comin', yes it's comin'
+A revolution's comin' comin'
+Whoaaaa-o-o-oooooo-ohhhhh
+Listen, listen, do you want a revolution?
+Whoop Whoop!
+I said, Do you want a Revolution?
+Whoop Whoop
+Whoaaaaa-o-o-Whoaaaa-ohhh-ohhh
+All my people, do you want a revolution?
+Whoop Whoop
+I said, do you want a revolution?
+Whoop Whoop!
+What you feelin', what you want, son?
+Who you callin' to, son?
+You know Jesus is the truth, son?
+The second in the Trinity, I know you feelin' him
+500 days left, until the new millenium
+You hearin' him, trumpet soundin'
+Christ, the last, the first, the first, the last, it won't pass
+So don't be caught slippin' brother, don't be trippin' brother
+'Cause when I see him, I'm givin it
+Even when we go they say we move too much, we do too much
+If you step against us, then you lose too much
+Ain't no stoppin' what we doin' when the spirit is movin'
+Don't be hatin' what im doin', I'm the vessel he's usin'
+Everywhere I be they try to judge me
+They try to shake me, they try to buzz me
+But they can't break me 'cause I'm down with Christ
+DarkChild and Nu Nation make me feel alright
+Where all my east coast saints at? Whoop Whoop!
+Where my west coast saints at? Whoop Whoop!
+Where my Detroit saints at? Whoop Whoop!
+Where my Dallas saints at? Whoop Whoop!
+Where my Chi Town saints at? Whoop Whoop!
+Where my A-T-L saints at? Whoop Whoop!
+Where my Jersey saints at? Whoop Whoop!
+Where all my towns saints at?
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+Where my DC saints at? Whoop Whoop!
+Where my Nashville saints at? Whoop Whoop!
+Where my Newsville saints at? Whoop Whoop!
+Where my Philly saints at? Whoop Whoop!
+Where my Denver saints at? Whoop Whoop!
+Where my Charlotte saints at? Whoop Whoop!
+Where my Tampa saints at? Whoop Whoop!
+Where my Fort Worth saints at?
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+With their hands up! Up, they got their hands up!
+Whoaaaa-o-o-oooooo-ohhhhh
+Do you want a revolution?
+Whoop Whoop!
+Do you want a Revolution?
+Whoop Whoop
+Whoaaaaa-o-o-Whoaaaa-ohhh-ohhh
+Do you want a revolution?
+Whoop Whoop
+Do you want a revolution?
+Whoop Whoop!

@@ -1,0 +1,30 @@
+---
+id: youve-won-my-affection-israel-houghton
+title: "You’ve Won My Affection"
+artist: "Israel Houghton"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Yeah, yeah, yeah
+You've won my affection, You've captured my heart
+You have my devotion, my worship is Yours
+You've won my affection, You've captured my heart
+Now I am Yours, completely Yours forever
+Yeah, yeah, yeah
+Yeah, yeah, yeah
+I see the sacrifice You gave
+I know the awesome price You paid
+You went the distance, You finished strong
+We were Your passion so You gave Your all
+You've won my affection, You've captured my heart
+You have my devotion, my worship is Yours
+You've won my affection, You've captured my heart
+Now I am Yours, completely Yours forever
+Yeah, yeah, yeah
+I see the sacrifice You gave
+I know the awesome price You paid
+You went the distance, You finished strong
+We were Your passion so you gave Your all

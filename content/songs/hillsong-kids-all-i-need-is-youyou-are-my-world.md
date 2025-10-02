@@ -1,0 +1,36 @@
+---
+id: hillsong-kids-all-i-need-is-youyou-are-my-world
+title: "All I Need Is You/You Are My World"
+artist: "Hillsong Kids"
+album: "Super Strong God"
+cover: ""
+created: ""
+updated: ""
+---
+
+You hold the universe, You hold everyone on earth
+You hold the universe, You hold and You hold
+Psalm 139:13-18 (New Living Translation)
+You made all the delicate, inner parts of my body
+And knit me together in my mother's womb
+Thank you for making me so wonderfully complex!
+Your workmanship is marveloushow well I know it
+You watched me as I was being formed in utter seclusion
+As I was woven together in the dark of the womb
+You saw me before I've born
+Every day of my life was recorded in your book
+Every moment was laid out
+Before a single day had passed
+How precious are your thoughts about me, Oh God
+They cannot be numbered!
+I can't even count them;
+They outnumber the grains of sand!
+And when I wake up in the morning
+You are still with me!
+Chorus 2:
+All I need is You, All I need is You Lord, is You Lord
+Chorus 3:
+You are my world, You are my God
+And I lay down my life for You
+You are my world, the One I love
+No one could ever take Your place

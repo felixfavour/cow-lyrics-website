@@ -1,13 +1,11 @@
 ---
 id: 1000-tongues-vertical-worship
-slug: 1000-tongues-vertical-worship
 title: "1000 Tongues"
 artist: "Vertical Worship"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Instrumental]

@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-the-faithful-god
-slug: ada-ehi-the-faithful-god
 title: "The Faithful God"
 artist: "Ada Ehi"
 album: "Ada's EP"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I have put my self in You

@@ -1,13 +1,11 @@
 ---
 id: 105-the-blood-bought-church-unknown
-slug: 105-the-blood-bought-church-unknown
 title: "105. The Blood Bought Church"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 14, 2025, 3:34 PM"
-genre: "christian"
-updated_at: "September 14, 2025, 3:34 PM"
+created: "September 14, 2025, 3:34 PM"
+updated: "September 14, 2025, 3:34 PM"
 ---
 
 They shall lift up their voice, they shall shout for joy, they shall glorify the name of the Lord, it's the Blood bought, the church, the redeemed.

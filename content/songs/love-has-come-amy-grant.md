@@ -1,0 +1,37 @@
+---
+id: love-has-come-amy-grant
+title: "Love Has Come"
+artist: "Amy Grant"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Hurry now wake up your eyes
+Time for little ones to see
+Daddy's got a big surprise
+Hiding there beneath the Christmas tree
+How they are like the child in me
+See the wonder in their eyes
+Like a fairytale come true
+One more time I realize
+All the love our lives found in You
+Love has come
+For the world to know
+As the wisemen knew
+Such a long time ago
+And I believe that angels sang
+That hope had begun
+When the God of Glory
+Who is full of mercy
+Sent His Son
+If I could have a special dream
+Coming true on Christmas morn'
+I would want the world to see
+How His Father smiled when Christ was born
+The greatest gift the world has known
+So come on kids, look high and low
+For all the toys you've dreamed to find
+But I believe you'll never know
+A greater joy than Jesus' love inside

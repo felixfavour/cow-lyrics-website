@@ -1,0 +1,44 @@
+---
+id: darlene-zschech-you-said
+title: "You Said"
+artist: "Darlene Zschech"
+album: "Voices of the Faithful"
+cover: ""
+created: ""
+updated: ""
+---
+
+You said, "Ask and you will receive
+Whatever you need"
+You said, "Pray and I'll hear from Heaven
+And I'll heal your land"
+You said, Your glory will fill the earth
+Like water, the sea
+You said, "Lift up your eyes
+The harvest is here, yes the Kingdom is near"
+You said, "Ask and I'll give the nations to you"
+Oh, Lord, that's the cry of my heart
+Distant shores and the islands will see
+Your light, as it rises on us
+You said, Your glory will fill the earth
+Like water the sea
+You said, "Lift up your eyes
+The harvest is here, the Kingdom is near"
+You said, "Ask and I'll give the nations to you"
+Oh, Lord, that's the cry of my heart
+Distant shores and the islands will see
+Your light, as it rises on us
+You said, "Ask and I'll give the nations to you"
+Oh, Lord, that's the cry of my heart
+Distant shores and the islands will see
+Your light, as it rises on us
+You said, "Ask and I'll give the nations to you"
+Oh, Lord, that's the cry of my heart
+Distant shores and the islands will see
+Your light, as it rises on us
+You said that we belive
+Oh, Lord, I ask for the nation
+Oh, Lord, I ask for the nation
+Even though you were there Lord
+Oh, Lord, I ask for the nation
+Oh, Lord, I ask for the nation

@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-yahweh
-slug: ada-ehi-yahweh
 title: "Yahweh"
 artist: "Ada Ehi"
 album: "Yahweh"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 at can't you do

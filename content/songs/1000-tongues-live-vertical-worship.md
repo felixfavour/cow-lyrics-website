@@ -1,13 +1,11 @@
 ---
 id: 1000-tongues-live-vertical-worship
-slug: 1000-tongues-live-vertical-worship
 title: "1000 Tongues (Live)"
 artist: "Vertical Worship"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 We are a sea of voices

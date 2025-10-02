@@ -1,0 +1,31 @@
+---
+id: i-will-run-to-you-hillsong-worship
+title: "I Will Run to You"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Your eye is on the sparrow
+And Your hand, it comforts me
+From the ends of the Earth to the depth of my heart
+Let Your mercy and strength be seen
+You call me to Your purpose
+As angels understand
+For Your glory, may You draw all men
+As Your love and grace demand
+Chorus:
+And I will run to You
+To Your words of truth
+Not by might, not by power
+But by the Spirit of God
+Yes, I will run the race
+'Till I see Your face
+Oh let me live in the glory of Your grace
+You call me to Your purpose
+As angels understand
+For Your glory, may You draw all men
+As Your love and grace demand
+(repeat chorus 2x)

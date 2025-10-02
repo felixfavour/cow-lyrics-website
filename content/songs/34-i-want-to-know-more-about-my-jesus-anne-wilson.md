@@ -1,13 +1,11 @@
 ---
 id: 34-i-want-to-know-more-about-my-jesus-anne-wilson
-slug: 34-i-want-to-know-more-about-my-jesus-anne-wilson
 title: "34. I WANT TO KNOW MORE ABOUT MY JESUS"
 artist: " Anne Wilson"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 11:15 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 11:15 PM"
+created: "July 19, 2025, 11:15 PM"
+updated: "July 19, 2025, 11:15 PM"
 ---
 
 While travelling through this world of sorrow

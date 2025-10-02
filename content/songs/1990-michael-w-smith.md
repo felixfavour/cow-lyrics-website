@@ -1,13 +1,11 @@
 ---
 id: 1990-michael-w-smith
-slug: 1990-michael-w-smith
 title: "1990"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Oh listen when I say

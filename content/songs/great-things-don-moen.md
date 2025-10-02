@@ -1,0 +1,34 @@
+---
+id: great-things-don-moen
+title: "Great Things"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+My soul proclaims Your greatness Lord
+Rejoicing in my Savior
+Your mercy belongs to those who fear Your Son
+His blessings You have given them forever
+And holy is His Name
+Holy is His Name
+You alone have done great things
+I can't boast of anything
+Mighty One and King of kings Jesus
+You alone have done great things
+By Your Living Word in me
+Mighty One and King of kings Jesus
+My soul proclaims Your greatness Lord
+Rejoicing in my Savior
+Your mercy belongs to those who fear Your Son
+His blessings You have given them forever
+And holy is His Name
+Holy is His Name
+You alone have done great things
+I can't boast of anything
+Mighty One and King of kings Jesus
+You alone have done great things
+By Your Living Word in me
+Mighty One and King of kings Jesus

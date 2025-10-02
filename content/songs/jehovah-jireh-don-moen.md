@@ -1,0 +1,32 @@
+---
+id: jehovah-jireh-don-moen
+title: "Jehovah-Jireh"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Jehovah Jireh
+My provider
+His grace is sufficient
+For me, for me, for me
+Jehovah Jireh
+My provider
+His grace is sufficient
+For me
+My God shall supply all my needs
+According to His riches in glory
+He will give His angels
+Charge over me
+Jehovah Jireh cares for me, for me, for me
+Jehovah Jireh cares for me
+Jehovah Jireh
+My provider
+His grace is sufficient
+For me, for me, for me
+Jehovah Jireh
+My provider
+His grace is sufficient
+For me

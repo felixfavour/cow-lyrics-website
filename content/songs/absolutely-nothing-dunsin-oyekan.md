@@ -1,13 +1,11 @@
 ---
 id: absolutely-nothing-dunsin-oyekan
-slug: absolutely-nothing-dunsin-oyekan
 title: "Absolutely Nothing"
 artist: "Dunsin Oyekan"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: "June 1, 2024, 7:06 PM"
+created: ""
+updated: "June 1, 2024, 7:06 PM"
 ---
 
 Somebody just raise your hands

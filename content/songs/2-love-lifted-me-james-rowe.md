@@ -1,13 +1,11 @@
 ---
 id: 2-love-lifted-me-james-rowe
-slug: 2-love-lifted-me-james-rowe
 title: "2. Love Lifted Me"
 artist: "James Rowe"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 7:33 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 7:33 PM"
+created: "July 19, 2025, 7:33 PM"
+updated: "July 19, 2025, 7:33 PM"
 ---
 
 I was sink­ing deep in sin, Far from the peace­ful shore, Very deep­ly stained with­in, Sinking to rise no more, But the Mas­ter of the sea, Heard my des­pair­ing cry, From the wa­ters lift­ed me,

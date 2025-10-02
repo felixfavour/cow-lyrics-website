@@ -1,13 +1,11 @@
 ---
 id: a-new-anointing-ron-kenoly
-slug: a-new-anointing-ron-kenoly
 title: "A New Anointing"
 artist: "Ron Kenoly"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A new anointing for a new day

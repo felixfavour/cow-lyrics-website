@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-ada-another-miracle
-slug: ada-ehi-ada-another-miracle
 title: "Ada Another Miracle"
 artist: "Ada Ehi"
 album: "Another Miracle"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 other Miracle Lyrics

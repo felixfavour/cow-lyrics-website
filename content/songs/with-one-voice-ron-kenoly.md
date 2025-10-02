@@ -1,0 +1,34 @@
+---
+id: with-one-voice-ron-kenoly
+title: "With One Voice"
+artist: "Ron Kenoly"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Break out the cymbals
+And tambourines
+Call up the trumpets and horns
+Raise up a banner
+And come with me
+It's time to worship the Lord
+Praise Him together in unity
+We've got a reason to sing
+Lift up a heavenly harmony
+It's time to worship the King
+With one voice
+Every tribe will praise Him
+With one voice
+Every tongue will tell
+That the Lord is good
+And His love endures
+And His mercy lasts forever
+With one voice
+Come and worship
+Lift your voice
+We will worship
+With one voice
+Come and worship
+With one voice

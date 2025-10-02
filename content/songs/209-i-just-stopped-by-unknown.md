@@ -1,13 +1,11 @@
 ---
 id: 209-i-just-stopped-by-unknown
-slug: 209-i-just-stopped-by-unknown
 title: "209. I just stopped by"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 20, 2025, 5:10 PM"
-genre: "christian"
-updated_at: "September 20, 2025, 5:10 PM"
+created: "September 20, 2025, 5:10 PM"
+updated: "September 20, 2025, 5:10 PM"
 ---
 
 My life has been blessed in so many ways. With family and friends day after day, but I can't stay here, soon I'll be gone. I just stopped by, on my way home. 

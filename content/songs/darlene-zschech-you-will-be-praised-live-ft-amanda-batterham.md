@@ -1,0 +1,67 @@
+---
+id: darlene-zschech-you-will-be-praised-live-ft-amanda-batterham
+title: "You Will Be Praised (Live) ft. Amanda Batterham"
+artist: "Darlene Zschech"
+album: "Here I Am Send Me (Live)"
+cover: ""
+created: ""
+updated: ""
+---
+
+Though I walk through darkest valleys
+There's no fear for You are with me
+You have held me through the fire
+Jesus, You are here with me
+Even when my heart grows weary
+You are my hiding place
+And Your kindness draws me closer
+I will rest here in Your strength
+You will be praised, You will be praised
+Through every storm, You will remain
+In death and in life, I'll not be afraid
+In joy or in pain, You will be praised
+Here with You, my cup runs over
+You are everything I need
+There is nothing like Your presence
+Still You are the song I sing
+For You have been my portion
+You are my hiding place
+When this earthly fight is over
+Only heaven's joy remains
+You will be praised, You will be praised
+Through every storm, You will remain
+In death and in life, I'll not be afraid
+In joy or in pain, You will be praised
+Oh my, soul will praise
+In the darkest of nights
+Oh my, soul will praise
+Oh-oh-ohh
+I will, bless Your Name
+With all of my strength
+I will, bless Your Name!
+Oh my, soul will praise
+In the darkest of nights
+Oh my, soul will praise
+Oh-oh-ohh
+I will, bless Your Name
+With all of my strength
+I will, bless Your Name!
+You will be praised, You will be praised
+Through every storm, You will remain
+In death and in life, I'll not be afraid
+In joy or in pain, You will be praised
+In joy or in pain, You will be praised
+Oh my, soul will praise
+In the darkest of nights
+Oh my, soul will praise
+Oh-oh-ohh
+I will, bless Your Name
+With all of my strength
+I will, bless Your Name!
+Oh my, soul will praise
+In the darkest of nights
+Oh my, soul will praise
+Oh-oh-ohh
+I will, bless Your Name
+With all of my strength
+I will, bless Your Name!...

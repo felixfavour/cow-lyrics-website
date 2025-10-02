@@ -1,0 +1,24 @@
+---
+id: unto-the-king-don-moen
+title: "Unto the King"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Unto the King
+Eternal Immortal
+Invisible
+The only wise God
+Be honour and glory forever and ever
+Be honour and glory forevermore
+Honour and glory and power and might
+Be unto Jesus the King
+Honour and glory and power and might
+Be unto Jesus the King
+Be all the honour (Forever and ever)
+Be all the glory (Forever and ever)
+All adoration (Forever and ever)
+And all of the praises (Forever and evermore)

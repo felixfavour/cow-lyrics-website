@@ -1,13 +1,11 @@
 ---
 id: 38-hes-coming-back-abc
-slug: 38-hes-coming-back-abc
 title: "38. He's coming back"
 artist: "ABC"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 11:47 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 11:47 PM"
+created: "July 19, 2025, 11:47 PM"
+updated: "July 19, 2025, 11:47 PM"
 ---
 
 He's coming back on a sliver cloud of glory! He's gonna take me away! I'm looking now at the signs of His returning, It won't be long, it may just be today!

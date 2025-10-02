@@ -1,13 +1,11 @@
 ---
 id: a-million-lights-michael-w-smith
-slug: a-million-lights-michael-w-smith
 title: "A Million Lights"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A million lights

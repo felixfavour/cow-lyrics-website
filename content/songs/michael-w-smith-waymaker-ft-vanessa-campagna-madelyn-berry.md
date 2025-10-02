@@ -1,0 +1,138 @@
+---
+id: michael-w-smith-waymaker-ft-vanessa-campagna-madelyn-berry
+title: "Waymaker ft. Vanessa Campagna & Madelyn Berry"
+artist: "Michael W. Smith"
+album: "Waymaker"
+cover: ""
+created: ""
+updated: ""
+---
+
+You are here
+Moving in our midst
+I worship You
+I worship You
+You are here
+Working in this place
+I worship You
+I worship You
+You are here
+Moving in our midst
+I worship You
+I worship You
+You are here
+Working in this place
+I worship You
+I worship You
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+You are here
+Touching every heart
+I worship You
+I worship You
+You are here
+Healing every heart
+I worship You
+I worship You
+You are here
+Mending every heart
+I worship You
+I worship You
+You are here
+Turning lives around
+I worship You
+I worship You
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+That is who You are
+That is who You are
+That is who You are
+That is who You are
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Waymaker
+Miracle Worker
+Even when I don't see it, You're working
+Even when I can't feel it, You're working
+You never stop, You never stop working
+You never stop, You never stop working
+Even when I can't see it, You're working
+Even when I can't feel it, You're working
+You never stop, You never stop working
+You never stop, You never stop working
+Even when I can't see it, You're working
+Even when I can't feel it, You're working
+You never stop, You never stop working
+You never stop, You never stop working
+Even when I can't see it, You're working
+Even when I can't feel it, You're working
+You never stop, You never stop working
+You never stop, You never stop working
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are
+Waymaker
+Miracle Worker
+Promise Keeper
+Light in the darkness
+My God
+That is who You are

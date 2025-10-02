@@ -1,0 +1,83 @@
+---
+id: now-behold-the-lamb-kirk-franklin
+title: "Now Behold the Lamb"
+artist: "Kirk Franklin"
+album: ""
+cover: ""
+created: ""
+updated: "December 14, 2024, 11:10 PM"
+---
+
+Now behold the lamb
+The precious lamb of God
+Born into sin that I may live again
+The precious lamb of God
+
+Now behold the lamb
+The precious lamb of God
+Born into sin that I may live again
+The precious Lamb of God
+
+Holy is the Lamb
+The precious Lamb of God
+Why you loved me so Lord I shall never know
+The precious Lamb of God
+
+Holy is the Lamb
+The precious Lamb of God
+Why you loved me so Lord I shall never know
+The precious Lamb of God
+
+Now behold the Lamb
+The precious Lamb of God
+Born into sin that I may live again
+He's the precious Lamb of God
+When I always didn't do right
+I went left
+He told me to go right
+But I'm standin' right here in the midst of my tears
+Lord I claim you to be the lamb of God
+See upcoming pop shows
+Get tickets for your favorite artists
+You might also like
+O Holy Night
+Christmas Songs
+Silent Night
+The Temptations
+Diamonds
+Wizkid
+Thank you for the Lamb
+The precious Lamb of God
+Because of your grace I can finish this race
+The precious Lamb of God
+
+Even when I broke, broke your heart
+My sins tore us apart
+But Im standin' right here in the midst of my tears
+I claim you to be the lamb of God
+New life can begin, yeah
+For you washed away, washed away everyone of my sins
+Whom the Son sets free is truly free indeed
+I claim you to be the lamb of God
+
+Now behold the Lamb
+The precious Lamb of God
+Born into sin that I may live again
+The precious lamb of God
+
+Oh oh oh,oh oh oh, oh oh oh
+Oh oh oh, oh oh oh, oh oh oh
+
+Why you loved me so lord I shall never know
+Why you loved me so lord I shall never know
+Why you loved me so lord I shall never know
+The precious Lamb of God
+Oh oh oh, oh oh oh, oh oh oh
+Oh oh oh, oh oh oh, oh oh oh
+Oh oh oh, oh oh oh, oh oh oh
+
+Why you loved me so Lord I shall never know
+The precious Lamb of God
+
+Why you loved me so Lord I shall never know
+The precious Lamb of God

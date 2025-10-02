@@ -1,0 +1,112 @@
+---
+id: travis-greene-see-the-light-feat-isaiah-templeton-and-geoffrey-golden-live
+title: "See the Light (feat. Isaiah Templeton and Geoffrey Golden) [Live]"
+artist: "Travis Greene"
+album: "Crossover: Live From Music City"
+cover: ""
+created: ""
+updated: ""
+---
+
+I see the light coming
+No matter what it is
+Then I'll face it
+Jesus, You're the light
+Woah
+Oh, oh, oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh,
+Darkness seems to be all around me
+Searching for what my eyes cannot see
+Where to go next and who can I trust
+No one but You, my hope is Jesus
+And I can see the light
+I can see the light coming
+I can see the light
+I can see the light, woah
+Oh, oh, oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh, oh, oh
+Darkness seems to be all around me
+Searching for what my eyes cannot see
+(Where to) where to go next and who can I trust
+(No one) no one but You, my hope is Jesus
+I can see the light
+I can see the light coming
+I can see the light
+I can see the light coming
+This won't last
+Your word will come to pass
+I can see the light, coming
+It's coming
+Oh, oh, oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh, oh, oh
+For God, You're light
+You're light on us
+Shine Your light, Jesus
+Oh, oh, oh, oh, oh,
+Shine Your light
+Your light on us
+Shine Your light, Jesus
+Oh, oh, oh, oh, oh,
+Shine Your light
+Your light on us
+Shine Your light, Jesus
+Oh, oh, oh, oh, oh,
+Shine Your light
+Your light on us
+Shine Your light, Jesus
+I can see the light
+I can see the light coming
+I can see the light
+I can see the light coming
+This won't last
+Your word will come to pass
+I can see the light, coming
+It's coming
+This won't last
+(This won't last)
+(This won't last)
+Say this won't last
+(This won't last)
+He made me a promise
+(This won't last)
+I said that this won't las
+(This won't last)
+(This won't last)
+This won't last
+(This won't last)
+This won't last
+(This won't last)
+Your world will come
+(Your world will come)
+This won't last
+(This won't last)
+For I reckon
+(This won't last)
+That there's some creatures
+(This won't last)
+Of these present times
+(This won't last)
+Are not worthy
+(This won't last)
+Are not worthy
+(This won't last)
+To be compared to the glory
+(This won't last)
+To be compared to the glory
+(This won't last)
+He's gonna be with me
+(This won't last)
+You got to hold on
+(This won't last)
+You got to be strong
+(This won't last)
+You're not alone
+(This won't last)
+Take up the honor
+(This won't last)
+Take up
+(This won't last)
+Oh
+(This won't last)
+This won't last
+(Your world will come)

@@ -1,13 +1,11 @@
 ---
 id: a-thousand-hallelujahs-the-worship-initiative
-slug: a-thousand-hallelujahs-the-worship-initiative
 title: "A Thousand Hallelujahs"
 artist: "The Worship Initiative"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Who else would rocks cry out to worship?

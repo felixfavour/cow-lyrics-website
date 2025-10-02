@@ -1,13 +1,11 @@
 ---
 id: 213-lord-youre-the-best-thing-that-ever-happened-to-me-unknown
-slug: 213-lord-youre-the-best-thing-that-ever-happened-to-me-unknown
 title: "213. Lord, you're the best thing that ever happened to me "
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 31, 2025, 3:27 PM"
-genre: "christian"
-updated_at: "August 31, 2025, 3:27 PM"
+created: "August 31, 2025, 3:27 PM"
+updated: "August 31, 2025, 3:27 PM"
 ---
 
 You been my friend for so long. You were right, and I was wrong. I can't repay you all the love you given me. 

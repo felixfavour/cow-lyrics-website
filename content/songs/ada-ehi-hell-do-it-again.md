@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-hell-do-it-again
-slug: ada-ehi-hell-do-it-again
 title: "He'll Do It Again"
 artist: "Ada Ehi"
 album: "Future Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 lalalala li lalalalalia

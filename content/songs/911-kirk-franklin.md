@@ -1,13 +1,11 @@
 ---
 id: 911-kirk-franklin
-slug: 911-kirk-franklin
 title: "911"
 artist: "Kirk Franklin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro - 

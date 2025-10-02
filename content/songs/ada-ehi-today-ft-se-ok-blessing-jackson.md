@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-today-ft-se-ok-blessing-jackson
-slug: ada-ehi-today-ft-se-ok-blessing-jackson
 title: "Today ft Se Ok, Blessing Jackson"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 The Lord is doing a new thing today

@@ -1,0 +1,22 @@
+---
+id: jesus-i-adore-you-hillsong-worship
+title: "Jesus I Adore You"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+"I open my life to You
+Lord, I want to be pure
+Jesus, You're breath to my soul
+You know what I think, what I feel
+Jesus, I adore You
+To You my Saviour, I will sing
+You know me through and through
+You're closest to my heart than one could be
+And Jesus, I adore You
+I love You with the deepest of my soul
+I rest inside your arms
+And I trust You to lead me on"

@@ -1,13 +1,11 @@
 ---
 id: 1000-years-live-soul-survivor
-slug: 1000-years-live-soul-survivor
 title: "1000 Years (Live)"
 artist: "Soul Survivor"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 With You, a thousand years are like a day

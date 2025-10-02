@@ -1,13 +1,11 @@
 ---
 id: 365-nicole-c-mullen
-slug: 365-nicole-c-mullen
 title: "365"
 artist: "Nicole C. Mullen"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I'd like to see you more than on just holidays

@@ -1,13 +1,11 @@
 ---
 id: 232-running-my-last-mile-home-unknown
-slug: 232-running-my-last-mile-home-unknown
 title: "232. Running my last mile home"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 12:26 AM"
-genre: "christian"
-updated_at: "September 28, 2025, 12:26 AM"
+created: "September 28, 2025, 12:26 AM"
+updated: "September 28, 2025, 12:26 AM"
 ---
 
 Well, I've been a soldier in God's mighty army. Since many long years ago. And I've been scarred and wounded in battle. And many times I've been brought low. But by the signs of the times. I then realize I've only one more mile to go. Well is that the lights of Heaven up above. I feel like running my last mile home.

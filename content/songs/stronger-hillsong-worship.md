@@ -1,0 +1,28 @@
+---
+id: stronger-hillsong-worship
+title: "Stronger"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+There is love that came for us
+Humbled to a sinner's cross
+You broke my shame and sinfulness
+You rose again victorious
+Faithfulness none can deny
+Through the storm and through the fire
+There is truth that sets me free
+Jesus Christ who lives in me
+You are stronger, You are stronger
+Sin is broken, You have saved me
+It is written Christ is risen
+Jesus You are Lord of all
+No beginning and no end
+You're my hope and my defense
+You came to seek and save the lost
+You paid it all upon the cross
+So let Your name be lifted higher
+Be lifted higher be lifted higher

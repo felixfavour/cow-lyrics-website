@@ -1,13 +1,11 @@
 ---
 id: 123-victory-remix-kirk-franklin
-slug: 123-victory-remix-kirk-franklin
 title: "123 Victory (Remix)"
 artist: "Kirk Franklin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro]

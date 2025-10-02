@@ -1,13 +1,11 @@
 ---
 id: 194-didnt-i-walk-on-the-the-water-the-dunaways
-slug: 194-didnt-i-walk-on-the-the-water-the-dunaways
 title: "194. Didn't I walk on the the water"
 artist: "The Dunaways"
 album: ""
 cover: ""
-created_at: "September 7, 2025, 3:26 PM"
-genre: "christian"
-updated_at: "September 7, 2025, 3:26 PM"
+created: "September 7, 2025, 3:26 PM"
+updated: "September 7, 2025, 3:26 PM"
 ---
 
 As I kneel in the darkness in the middle of the night I’m praying for assurance everything’s gonna be alright And Lord I see another battle out in front of me I’m afraid I won’t be able and I’ll go down in defeat

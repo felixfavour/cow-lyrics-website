@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-shine-ft-chizie-nosa
-slug: ada-ehi-shine-ft-chizie-nosa
 title: "Shine ft Chizie, Nosa"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Turn on your light, Shine

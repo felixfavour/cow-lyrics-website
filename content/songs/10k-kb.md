@@ -1,13 +1,11 @@
 ---
 id: 10k-kb
-slug: 10k-kb
 title: "10K"
 artist: "KB"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 [Intro]

@@ -1,0 +1,33 @@
+---
+id: lord-weve-come-to-worship-don-moen
+title: "Lord We’ve Come to Worship"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Lord, we've come to worship
+And we have come to pray
+Lord, we've come to listen
+And hear what you would say
+Lord, our hearts are longing
+To meet with you today
+For we have come to seek you
+And we have come to say
+Worthy, you are worthy
+King of kings, Lord of lords
+You are worthy
+All blessing and power
+All riches and wisdom
+All glory and honor and praise
+To the Lamb
+Lord, we need forgiveness
+We're wandered far away
+Look down in tender mercy
+Forgive our sins we pray
+O Lord, we need revival
+All across this land
+Come move among your people
+With your mighty hand

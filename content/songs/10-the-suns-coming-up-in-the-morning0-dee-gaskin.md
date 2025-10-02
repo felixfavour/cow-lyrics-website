@@ -1,13 +1,11 @@
 ---
 id: 10-the-suns-coming-up-in-the-morning0-dee-gaskin
-slug: 10-the-suns-coming-up-in-the-morning0-dee-gaskin
 title: "10. The Sun's Coming Up in the Morning0."
 artist: "Dee Gaskin"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 8:06 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 8:06 PM"
+created: "July 19, 2025, 8:06 PM"
+updated: "July 19, 2025, 8:06 PM"
 ---
 
 Once again I face satan this morning.

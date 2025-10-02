@@ -1,13 +1,11 @@
 ---
 id: 3-weve-got-the-power-tammy-faye
-slug: 3-weve-got-the-power-tammy-faye
 title: "3. We've Got the Power"
 artist: "Tammy Faye"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 7:41 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 7:41 PM"
+created: "July 19, 2025, 7:41 PM"
+updated: "July 19, 2025, 7:41 PM"
 ---
 
 GIVE ME YOUR HAND LET'S AGREE TOGETHER THAT ALL OF OUR  ENEMIES WILL CRUMBLE AT OUR FEET FOR WHATEVER WE BIND ON EARTH SHALL BE BOUND I HEAVEN

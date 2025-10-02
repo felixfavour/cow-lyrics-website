@@ -1,0 +1,28 @@
+---
+id: unchanging-chris-tomlin
+title: "Unchanging"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Great is Your faithfulness
+Great is Your faithfulness
+You never change
+You never fail, O God
+True are Your promises
+True are Your promises
+You never change
+You never fail, O God
+So we raise up holy hands
+To praise the Holy One
+Who was and is and is to come
+Wide is Your love and grace
+Wide is Your love and grace
+You never change
+You never fail, O God
+[Outro]
+You were, You are
+You will always be

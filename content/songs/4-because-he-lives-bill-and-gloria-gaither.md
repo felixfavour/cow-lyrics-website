@@ -1,13 +1,11 @@
 ---
 id: 4-because-he-lives-bill-and-gloria-gaither
-slug: 4-because-he-lives-bill-and-gloria-gaither
 title: "4. Because He Lives"
 artist: "Bill and Gloria Gaither"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 7:44 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 7:44 PM"
+created: "July 19, 2025, 7:44 PM"
+updated: "July 19, 2025, 7:44 PM"
 ---
 
 GOD SENT HIS SON, THEY CALLED HIM JESUS HE CAME TO LOVE HEAL AND FORGIVE HE LIVED AND DIED TO BUY MY PARDON AN EMPTY GRAVE IS THERE TO PROVE MY SAVIOR LIVES

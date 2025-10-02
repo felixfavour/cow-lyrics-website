@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-notice
-slug: ada-ehi-notice
 title: "Notice"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Have you noticed

@@ -1,13 +1,11 @@
 ---
 id: 207-i-have-been-blessed-unknown
-slug: 207-i-have-been-blessed-unknown
 title: "207. I have been blessed"
 artist: "Unknown "
 album: ""
 cover: ""
-created_at: "August 31, 2025, 3:30 PM"
-genre: "christian"
-updated_at: "August 31, 2025, 3:30 PM"
+created: "August 31, 2025, 3:30 PM"
+updated: "August 31, 2025, 3:30 PM"
 ---
 
 When He moves among us all that He does

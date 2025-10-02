@@ -1,13 +1,11 @@
 ---
 id: 35-i-want-to-know-more-about-my-jesus-unknown
-slug: 35-i-want-to-know-more-about-my-jesus-unknown
 title: "35. I want to know more about my Jesus"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 5:01 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 5:01 PM"
+created: "September 28, 2025, 5:01 PM"
+updated: "September 28, 2025, 5:01 PM"
 ---
 
 While travelling through this world of sorrow. I'm on my way to glory land.

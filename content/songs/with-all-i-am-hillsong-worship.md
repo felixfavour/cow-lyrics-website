@@ -1,0 +1,34 @@
+---
+id: with-all-i-am-hillsong-worship
+title: "With All I Am"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Into Your hand I commit again
+With All I am For You Lord
+You hold my world in the palm of Your hand
+And I'm Yours forever
+Jesus I believe in You
+Jesus I belong to You
+You're the reason that I live
+The reason that I sing with all I am
+I'll walk with You wherever You go
+Through tears and joy I'll trust in You
+And I will live in all of Your ways
+Your promises forever
+Jesus I believe in You
+Jesus I belong to You
+You're the reason that I live
+The reason that I sing
+Jesus I believe in You
+Jesus I belong to You
+You're the reason that I live
+The reason that I sing with all I am
+I will worship, I will worship You
+I will worship, I will worship You
+I will worship, I will worship You
+I will worship, I will worship You

@@ -1,13 +1,11 @@
 ---
 id: 16-i-just-feel-like-something-good-is-about-to-happen-unknown
-slug: 16-i-just-feel-like-something-good-is-about-to-happen-unknown
 title: "16. I Just feel like something Good is about to happen"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 12:44 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 12:44 AM"
+created: "July 22, 2025, 12:44 AM"
+updated: "July 22, 2025, 12:44 AM"
 ---
 
 I just feel like something good is about to happen. I just feel like something good is on its way. He has promised that He'd open all of heaven. And brother, it could happen any day.

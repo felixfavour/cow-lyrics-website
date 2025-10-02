@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-i-overcame
-slug: ada-ehi-i-overcame
 title: "I Overcame"
 artist: "Ada Ehi"
 album: "I Overcame"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A*aw

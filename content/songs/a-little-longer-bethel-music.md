@@ -1,13 +1,11 @@
 ---
 id: a-little-longer-bethel-music
-slug: a-little-longer-bethel-music
 title: "A Little Longer"
 artist: "Bethel Music"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 What can I do for You

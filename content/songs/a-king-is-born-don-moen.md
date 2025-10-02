@@ -1,13 +1,11 @@
 ---
 id: a-king-is-born-don-moen
-slug: a-king-is-born-don-moen
 title: "A King Is Born"
 artist: "Don Moen"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A King is born this day in Bethlehem

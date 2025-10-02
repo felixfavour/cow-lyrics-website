@@ -1,13 +1,11 @@
 ---
 id: above-all-live-worship-forever-version-michael-w-smith
-slug: above-all-live-worship-forever-version-michael-w-smith
 title: "Above All (Live) [Worship Forever Version]"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Above all powers

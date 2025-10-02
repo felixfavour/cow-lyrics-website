@@ -1,13 +1,11 @@
 ---
 id: 112233-salvation-voices
-slug: 112233-salvation-voices
 title: "112233"
 artist: "Salvation voices"
 album: ""
 cover: ""
-created_at: "June 1, 2025, 7:53 AM"
-genre: "christian"
-updated_at: "June 1, 2025, 7:53 AM"
+created: "June 1, 2025, 7:53 AM"
+updated: "June 1, 2025, 7:53 AM"
 ---
 
 I enter the Holy of Ho

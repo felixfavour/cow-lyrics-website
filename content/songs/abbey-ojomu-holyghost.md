@@ -1,13 +1,11 @@
 ---
 id: abbey-ojomu-holyghost
-slug: abbey-ojomu-holyghost
 title: "Holyghost"
 artist: "Abbey Ojomu"
 album: "Holyghost"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 According to the power at work in me

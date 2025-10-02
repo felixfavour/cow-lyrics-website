@@ -1,13 +1,11 @@
 ---
 id: 169-holy-ground-unknown
-slug: 169-holy-ground-unknown
 title: "169. Holy Ground"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 17, 2025, 12:34 PM"
-genre: "christian"
-updated_at: "August 17, 2025, 12:34 PM"
+created: "August 17, 2025, 12:34 PM"
+updated: "August 17, 2025, 12:34 PM"
 ---
 
 When I walked through the door, I sensed His presence, and I knew this was a place where love abounds. For we are the temple, Jehovah God abideth here, and we are standing in His presence on holy ground. 

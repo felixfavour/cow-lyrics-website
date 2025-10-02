@@ -1,13 +1,11 @@
 ---
 id: 29-since-jesus-passed-by-unknown
-slug: 29-since-jesus-passed-by-unknown
 title: "29. Since Jesus Passed By"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 27, 2025, 1:52 AM"
-genre: "christian"
-updated_at: "July 27, 2025, 1:52 AM"
+created: "July 27, 2025, 1:52 AM"
+updated: "July 27, 2025, 1:52 AM"
 ---
 
 Like a blind man I wandered, so lost and undone, a beggar so helpless, without God or His son. Then my Savior in mercy, heard and answered my cry. And Oh what a difference, since Jesus passed by!

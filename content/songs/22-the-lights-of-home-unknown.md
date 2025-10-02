@@ -1,13 +1,11 @@
 ---
 id: 22-the-lights-of-home-unknown
-slug: 22-the-lights-of-home-unknown
 title: "22. The Lights of Home"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 22, 2025, 1:23 AM"
-genre: "christian"
-updated_at: "July 22, 2025, 1:23 AM"
+created: "July 22, 2025, 1:23 AM"
+updated: "July 22, 2025, 1:23 AM"
 ---
 
 John tells of a city that He saw coming down, where no sorrow or death will be known.

@@ -1,0 +1,94 @@
+---
+id: hillsong-united-captain-ft-taya
+title: "Captain ft. TAYA"
+artist: "Hillsong UNITED"
+album: "Empires"
+cover: ""
+created: ""
+updated: ""
+---
+
+Through waters uncharted my soul will embark
+I'll follow Your voice straight into the dark
+And if from the course You intend
+I depart
+Speak to the sails of my wandering heart
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Lost in the shallows amidst fear and fog
+Your truth is the compass that points me back north
+Jesus
+My Captain
+My soul's trusted Lord
+All my allegiance is rightfully Yours
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Jesus
+My Captain
+My soul's trusted Lord
+All my allegiance is rightfully Yours
+Through waters uncharted my soul will embark
+I'll follow Your voice straight into the dark
+And if from the course You intend
+I depart
+Speak to the sails of my wandering heart
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Lost in the shallows amidst fear and fog
+Your truth is the compass that points me back north
+Jesus
+My Captain
+My soul's trusted Lord
+All my allegiance is rightfully Yours
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Like the wind
+You'll guide
+Clear the skies before me
+And I'll glide this open sea
+Like the stars
+Your Word
+Will align my voyage
+And remind me where I've been
+And where I am going
+Jesus
+My Captain
+My soul's trusted Lord
+All my allegiance is rightfully Yours

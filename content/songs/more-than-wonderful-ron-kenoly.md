@@ -1,0 +1,38 @@
+---
+id: more-than-wonderful-ron-kenoly
+title: "More Than Wonderful"
+artist: "Ron Kenoly"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+He promised us that He would be a counselor
+A Mighty God and a Prince of Peace
+He promised us that He would be a Father
+And  would love us with a love that would never cease
+Well, I tried Him and I found His promises are true
+He's everything He said that He would be
+The finest words I know could not begin to tell
+Just what Jesus really means to me
+For He's more wonderful than my mind can conceive
+He's more wonderful than my heart can believe
+He goes beyond my highest hopes and fondest dreams
+He's everything that my soul ever longed for
+Everything He promised and so much more
+More than amazing, more than marvelous
+More than miraculous could ever be
+He's more than wonderful, that's what Jesus is to me
+I stand amazed to think the King of glory
+Would come to live within the heart of man
+I marvel just to know He really loves me
+When I think of who He is, and who I am
+For He's more wonderful than my mind can conceive
+He's more wonderful than my heart can believe
+He goes beyond my highest hopes and fondest dreams
+He's everything that my soul ever longed for
+Everything He promised and so much more
+More than amazing, more than marvelous
+More than miraculous could ever be
+He's more than wonderful, that's what Jesus is to me

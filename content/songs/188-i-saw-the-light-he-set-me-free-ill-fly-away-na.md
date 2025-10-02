@@ -1,13 +1,11 @@
 ---
 id: 188-i-saw-the-light-he-set-me-free-ill-fly-away-na
-slug: 188-i-saw-the-light-he-set-me-free-ill-fly-away-na
 title: "188. I saw the light/ He set me free / I'll fly away"
 artist: "N/A"
 album: ""
 cover: ""
-created_at: "September 7, 2025, 3:08 PM"
-genre: "christian"
-updated_at: "September 7, 2025, 3:08 PM"
+created: "September 7, 2025, 3:08 PM"
+updated: "September 7, 2025, 3:08 PM"
 ---
 
 I wandered so aimless, life filled with sin I wouldn't let my dear savior in

@@ -1,13 +1,11 @@
 ---
 id: 1000-names-live-from-passion-2022-passion
-slug: 1000-names-live-from-passion-2022-passion
 title: "1,000 Names (Live From Passion 2022)"
 artist: "Passion"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 I call You "maker"You give life an eternal spark

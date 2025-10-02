@@ -1,0 +1,35 @@
+---
+id: i-will-come-to-you-don-moen
+title: "I Will Come to You"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+I Will Come To You
+I will come to You
+You have the words of life
+I will come to You
+You are the door
+I will come to You
+You are the Light of Life
+I will come to You
+For You are Lord
+You have laid down Your life
+To forgive my sins
+And You’ve made a way for me
+To be born again
+By Your stripes I am healed
+In Your presence I’m filled
+I hear You calling and now I come
+I Will Come To You
+I will come to You
+You have the words of life
+I will come to You
+You are the door
+I will come to You
+You are the Light of Life
+I will come to You
+For You are Lord

@@ -1,13 +1,11 @@
 ---
 id: a-thousand-hallelujahs-the-maranatha-singers
-slug: a-thousand-hallelujahs-the-maranatha-singers
 title: "A Thousand Hallelujahs"
 artist: "The Maranatha Singers"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Who else would rocks cry out to worship?

@@ -1,0 +1,33 @@
+---
+id: this-is-your-time-michael-w-smith
+title: "This Is Your Time"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+It was a test we could all hope to pass
+But none of us would want to take
+Faced with the choice to deny God to live
+For her, there was one choice to make
+This was her time, this was her dance
+She lived every moment, left nothing to chance
+She swam in the sea, drank of the deep
+Embraced the mystery of all she could be
+This was her time
+Though you are mourning and grieving with us
+Death died a long time ago
+Swallowed in life so that life carries on
+Still it's so hard to let go
+This was her time, this was her dance
+She lived every moment, left nothing to chance
+She swam in the sea, drank of the deep
+Embraced the mystery of all she could be
+What if tomorrow and what if today
+Faced with the question oh what would you say?
+This is your time, this is your dance
+Live every moment, leave nothing to chance
+Swim in the sea, drink of the deep
+Follow the mercy and hear yourself praying

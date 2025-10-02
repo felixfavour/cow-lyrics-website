@@ -1,13 +1,11 @@
 ---
 id: 8-sheltered-in-the-arms-of-god-dottie-rambo
-slug: 8-sheltered-in-the-arms-of-god-dottie-rambo
 title: "8. SHELTERED IN THE ARMS OF GOD"
 artist: "Dottie Rambo"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 8:00 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 8:00 PM"
+created: "July 19, 2025, 8:00 PM"
+updated: "July 19, 2025, 8:00 PM"
 ---
 
 I FEEL THE TOUCH OF HANDS SOFT AND TENDER, THEY'RE LEADING ME IN THE PATHS THAT I MUST GO I HAVE NO FEAR FOR JESUS WALKS BESIDE ME AND I'M SHELTERED IN THE ARMS OF GOD.

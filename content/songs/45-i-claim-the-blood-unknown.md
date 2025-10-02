@@ -1,13 +1,11 @@
 ---
 id: 45-i-claim-the-blood-unknown
-slug: 45-i-claim-the-blood-unknown
 title: "45. I claim the blood"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 27, 2025, 1:59 AM"
-genre: "christian"
-updated_at: "July 27, 2025, 1:59 AM"
+created: "July 27, 2025, 1:59 AM"
+updated: "July 27, 2025, 1:59 AM"
 ---
 
 I have a source of strength when I am weak. That takes me through when life is pressing me. I have a source of power from above. I'm covered over by a shield of love.

@@ -1,0 +1,34 @@
+---
+id: two-hands-one-heart-don-moen
+title: "Two Hands, One Heart"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+What can I give
+What can I bring
+That would be pleasing to my King
+I'll give my heart not just a part
+I'm lifting up my everything
+Well it's all I have to offer
+And it's all I have to give
+Two hands one heart
+One life to offer You
+Two hands one heart
+That's what I give to You
+Use me today I know You can
+Lord I surrender to You plan
+Well You made this heart
+You made these hands
+Take me and use me as I am
+Well it's all I have to offer
+And it's all I have to give
+Little becomes a lot
+When it's in Your hands
+Take me and make me more like You
+Well it may not seem like much
+But with the Master's touch
+I know that I'll be more like You

@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-now
-slug: ada-ehi-now
 title: "Now"
 artist: "Ada Ehi"
 album: "Now"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 "Now"

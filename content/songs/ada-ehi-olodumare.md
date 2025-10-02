@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-olodumare
-slug: ada-ehi-olodumare
 title: "Olodumare"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Awimayehun

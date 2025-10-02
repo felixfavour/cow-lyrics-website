@@ -1,0 +1,26 @@
+---
+id: welcome-home-michael-w-smith
+title: "Welcome Home"
+artist: "Michael W. Smith"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+I can't believe that I'm here having to say goodbye
+And I can barely see you through these tears I cry
+I close my eyes
+I can hear the sound
+As angels gather 'round
+Saying this is where you belong
+Welcome home
+There are the days that my heart aches wishing you were here
+But I know where you are the hurt and the pain disappear
+There's no more tears
+What a lovely sound
+Angels all around
+Saying this is where you belong
+Welcome home
+Welcome home
+Welcome home

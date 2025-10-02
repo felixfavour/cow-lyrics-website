@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-never-go-down-ft-limoblaze
-slug: ada-ehi-never-go-down-ft-limoblaze
 title: "Never Go Down ft Limoblaze"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Just my own pictures taken

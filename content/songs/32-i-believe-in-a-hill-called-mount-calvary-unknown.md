@@ -1,13 +1,11 @@
 ---
 id: 32-i-believe-in-a-hill-called-mount-calvary-unknown
-slug: 32-i-believe-in-a-hill-called-mount-calvary-unknown
 title: "32. I believe in a hill called mount calvary"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:52 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:52 PM"
+created: "September 28, 2025, 4:52 PM"
+updated: "September 28, 2025, 4:52 PM"
 ---
 
 There are things, as we travel this earth's shifting sand. That transcend all the reason of man; but the things that matter the most in this world, they can never be held in our hand. 

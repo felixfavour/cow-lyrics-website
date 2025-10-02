@@ -1,0 +1,32 @@
+---
+id: the-river-chris-tomlin
+title: "The River"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+When I was held up in chains
+The river was free
+When I was covered in stains
+The river was clean
+When I was losing my way
+The river found me
+I can see the river
+I can feel the river
+I'm letting go of all I hold onto
+Let it wash away
+When we were broken inside
+The river was love
+When we were thirsty and dry
+You were more than enough
+When we were drowning in lies
+The river saved us
+I'm dancing in the river
+And I'll be here forever
+I'm letting go of everything but You
+Carry me away
+[Outro]
+Carry me away

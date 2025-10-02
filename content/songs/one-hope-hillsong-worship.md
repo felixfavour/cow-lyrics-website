@@ -1,0 +1,23 @@
+---
+id: one-hope-hillsong-worship
+title: "One Hope"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+One hope, one voice, one light we see
+One body, one heart, one destiny
+Joined in Your body
+Joined in Your blood
+Eternally, united by Your love
+We are joined in Your body
+Joined in Your blood
+Eternally united by Your love
+One purpose, one truth, one life to live
+One promise, one faith, one life to give
+Joined in Your body
+Joined in Your blood
+Eternally, united by Your love

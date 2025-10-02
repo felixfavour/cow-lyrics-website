@@ -1,13 +1,11 @@
 ---
 id: 223-what-mercy-did-for-me-unknown
-slug: 223-what-mercy-did-for-me-unknown
 title: "223. What Mercy Did for me"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 20, 2025, 5:26 PM"
-genre: "christian"
-updated_at: "September 20, 2025, 5:26 PM"
+created: "September 20, 2025, 5:26 PM"
+updated: "September 20, 2025, 5:26 PM"
 ---
 
 I was hopeless, I knew I was lost, and death and darkness were my only songs. I needed someone to come resuce me, and mercy heard my please. 

@@ -1,0 +1,30 @@
+---
+id: god-is-great-hillsong-worship
+title: "God Is Great"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+All creation cries to you
+Worshipping in Spirit and in truth
+Glory to the faithful one, Jesus Christ, God's son
+All Creation gives you praise
+You alone are truly great
+You alone are God who reigns for eternity
+God is great and His praise fills the earth, fills the heavens
+And Your name will be praised through all the world
+God is great, sing his praise all the earth, all the heavens
+'Cause were living for the Glory of Your name
+The glory of your name
+All to You, oh, God we bring
+Jesus teach us how to live
+Let your fire burn in us
+That all may hear and all may see
+God is great and His praise fills the earth, fills the heavens
+And Your name will be praised through all the world
+God is great, sing his praise all the earth, all the heavens
+'Cause were living for the Glory of Your name
+The glory of your name

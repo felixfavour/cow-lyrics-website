@@ -1,0 +1,96 @@
+---
+id: sis-chinyere-udoma-eze-mmuo
+title: "Eze Mmuo"
+artist: "Sis. Chinyere Udoma"
+album: "Eze Mmuo (ENDLESS WALK WITH JESUS RELOADED)"
+cover: ""
+created: ""
+updated: ""
+---
+
+e
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Eze
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+N'elu-igwe, N'elu uwa
+In heaven, on earth
+Chi Ukwu nani gi bu Okaka
+Great God, only you are sovereign
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+N'elu-igwe, N'elu uwa
+Chiukwu nani gi bu okaka
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+I loro ihe loro enyi
+Nkpuru Ã²dum n'onu na-turu ugÃ² laa
+You who swallows what swallows the elephant with the Lion in its mouth and won victoriously
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+I loro ihe loro enyi
+Nkpuru Ã²dum n'onu na-turu ugÃ² laa
+You who swallows what swallows the elephant with the Lion in its mouth and won victoriously
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Ibu Oke Muo
+(The Great Spirit)
+Má»¥ọ ndá» a na-atá»¥ egwu na-atá»¥ egwu gá»
+Spirits that are feared dread and fear you
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Ibu Oke Muo
+You the creation of the Spirits)
+Má»¥ọ ndá» a na-atá»¥ egwu na-atá»¥ egwu gá»
+Spirits that are feared dread and fear you
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+A na-egbu achara, ma na gi bá»¥ oke achara na-eto o
+You are the great iroko tree that cannot be burnt down
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+A na-egbu achara, ma na gi bá»¥ oke achara na-eto o
+You are the great iroko tree that cannot be burnt down
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Eze
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Eze
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Heaven and Earth Adore You
+The immortals bow before You,
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Cherubim and seraphim bow before You
+24 elders worship at your feet
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Heaven and Earth Adore You
+The immortals bow before You,
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Cherubim and seraphim bow before You
+24 elders worship at your feet
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Eze
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne
+Eze
+Eze Ndi Eze n' ezo N'okpuru Ya
+The King that all Kings hide under His Coverage
+á» dighi onye gi na ya n'achi-eze
+There is no one who rules with you on the throne

@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-new-level
-slug: ada-ehi-new-level
 title: "New Level"
 artist: "Ada Ehi"
 album: "Born Of God"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 "HERE WE GO"

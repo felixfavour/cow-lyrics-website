@@ -1,13 +1,11 @@
 ---
 id: a-fope-folorun-yoruba-hymn
-slug: a-fope-folorun-yoruba-hymn
 title: "A f'ope f'Olorun"
 artist: "Yoruba Hymn"
 album: ""
 cover: ""
-created_at: "March 16, 2025, 4:51 AM"
-genre: "christian"
-updated_at: "March 16, 2025, 4:51 AM"
+created: "March 16, 2025, 4:51 AM"
+updated: "March 16, 2025, 4:51 AM"
 ---
 
 A fope f'Olorun lokan ati lohun wa:

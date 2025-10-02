@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-i-beleive-in-you
-slug: ada-ehi-i-beleive-in-you
 title: "I Beleive In You"
 artist: "Ada Ehi"
 album: "Undenied"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 am here for reasons

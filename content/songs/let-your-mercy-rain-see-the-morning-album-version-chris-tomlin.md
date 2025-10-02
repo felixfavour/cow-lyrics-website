@@ -1,0 +1,55 @@
+---
+id: let-your-mercy-rain-see-the-morning-album-version-chris-tomlin
+title: "Let your mercy rain - see the morning album version"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+God, You have done great things
+God, You give grace to the weak
+And bless the brokenhearted
+With a song of praise to sing
+You reached down and lifted us up
+You came running, looking for us
+And now there's nothing
+And no one beyond Your love
+You're the overflow
+You're the fountain of my heart
+So let Your mercy rain
+Let Your mercy rain on us
+God, You have done great things
+God, You give grace to the weak
+And bless the broken hearted
+With a song of praise to sing
+You reached down and lifted us up
+You came running, looking for us
+And now there's nothing
+And no one beyond Your love, Your love
+You're the overflow
+You're the fountain of my heart
+So let Your mercy rain
+Let Your mercy rain on us
+You're the faithful one
+When the world's falling apart
+So let Your mercy rain
+Let Your mercy rain on us
+How deep, how wide, how long, how high
+Is Your love, is Your love
+How deep, how wide, how long, how high
+Is Your love, is Your love, oh, God
+You're the overflow
+You're the fountain of my heart
+So let Your mercy rain
+Let Your mercy rain on us
+You're the faithful one
+When the world's falling apart
+So let Your mercy rain
+Let Your mercy rain on us
+You're the faithful one
+When my world's falling apart
+So let Your mercy rain
+Let Your mercy rain on us
+Let it rain

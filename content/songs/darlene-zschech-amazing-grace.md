@@ -1,0 +1,28 @@
+---
+id: darlene-zschech-amazing-grace
+title: "Amazing Grace"
+artist: "Darlene Zschech"
+album: "In Jesus' Name: A Legacy of Worship & Faith"
+cover: ""
+created: ""
+updated: ""
+---
+
+Amazing Grace, How sweet the sound
+That saved a wretch like me
+I once was lost, but now am found
+T'was blind but now I see
+T'was Grace that taught my heart to fear
+And Grace, my fears relieved
+How precious did that grace appear
+The hour I first believed
+Through many dangers, toils and snares
+We have already come.
+T'was grace that brought us safe thus far
+And grace will lead us home,
+And grace will lead us home
+Amazing grace, Howe Sweet the sound
+That saved a wretch like me
+I once was lost but now am found
+T'was blind but now I see
+Was blind, but now I see.

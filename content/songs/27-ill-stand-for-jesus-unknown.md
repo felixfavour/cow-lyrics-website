@@ -1,13 +1,11 @@
 ---
 id: 27-ill-stand-for-jesus-unknown
-slug: 27-ill-stand-for-jesus-unknown
 title: "27. I'll stand for Jesus"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:38 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:38 PM"
+created: "September 28, 2025, 4:38 PM"
+updated: "September 28, 2025, 4:38 PM"
 ---
 
 In this world filled with pleasures,

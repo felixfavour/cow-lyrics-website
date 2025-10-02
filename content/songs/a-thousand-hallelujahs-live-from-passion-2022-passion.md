@@ -1,13 +1,11 @@
 ---
 id: a-thousand-hallelujahs-live-from-passion-2022-passion
-slug: a-thousand-hallelujahs-live-from-passion-2022-passion
 title: "A Thousand Hallelujahs (Live From Passion 2022)"
 artist: "Passion"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Who else would rocks cry out to worship?

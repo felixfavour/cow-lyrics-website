@@ -1,0 +1,30 @@
+---
+id: eagles-wings-hillsong-worship
+title: "Eagle’s Wings"
+artist: "Hillsong Worship"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Here I am waiting, abide in me, I pray
+Here I am longing for You
+Hide me in Your love, bring me to my knees
+May I know Jesus more and more
+Come live in me all my life, take over
+Come breathe in me, I will rise on eagle's wings
+Come live in me all my life, take over
+Come breathe in me, I will rise on eagle's wings
+Here I am waiting, abide in me, I pray
+Here I am longing for You
+Hide me in Your love, bring me to my knees
+May I know Jesus more and more
+Come live in me all my life, take over
+Come breathe in me, I will rise on eagle's wings
+Come live in me all my life, take over
+Come breathe in me, I will rise on eagle's wings
+Come live in me all my life, take over
+Come breathe in me, I will rise on eagle's wings
+I will rise on eagle's wings, I will rise on eagle's wings (x3)
+On eagle's wings

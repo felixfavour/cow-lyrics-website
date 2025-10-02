@@ -1,13 +1,11 @@
 ---
 id: act-on-purpose-pastor-chritosin-olalere
-slug: act-on-purpose-pastor-chritosin-olalere
 title: "Act on Purpose"
 artist: "Pastor Chritosin Olalere"
 album: ""
 cover: ""
-created_at: "October 6, 2024, 8:29 AM"
-genre: "christian"
-updated_at: "October 6, 2024, 8:29 AM"
+created: "October 6, 2024, 8:29 AM"
+updated: "October 6, 2024, 8:29 AM"
 ---
 
 At the end of my life will I be able to speak like Paul.

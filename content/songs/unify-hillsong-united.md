@@ -1,0 +1,23 @@
+---
+id: unify-hillsong-united
+title: "Unify"
+artist: "Hillsong UNITED"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+You reached out and rescued me...
+Answer to my dreams
+And love hung on a cross
+So we could meet...
+Calmed my restlesness...words fail to express
+There's nowhere i would rather be thatn with You...
+The whole earth falls to it's knees
+At the sound of Your beautiful name
+And all the voices in the world unify today
+To bring You this song of praise
+I call on You my King..
+You open your arms to me
+And embrace me like a father to a child

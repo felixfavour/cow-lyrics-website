@@ -1,13 +1,11 @@
 ---
 id: 41-come-on-over-the-faith-walkers
-slug: 41-come-on-over-the-faith-walkers
 title: "41. Come on over"
 artist: "The Faith Walkers"
 album: ""
 cover: ""
-created_at: "July 19, 2025, 11:35 PM"
-genre: "christian"
-updated_at: "July 19, 2025, 11:35 PM"
+created: "July 19, 2025, 11:35 PM"
+updated: "July 19, 2025, 11:35 PM"
 ---
 
 If you're getting tired of losing life's war and you keep searching for Something worth fighting for Well, God's got an army We've been proved and tried So come on over to the winning side.

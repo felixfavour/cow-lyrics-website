@@ -1,0 +1,30 @@
+---
+id: rest-in-you-hillsong-united
+title: "Rest in You"
+artist: "Hillsong UNITED"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+Your faithfulness endures always
+Where mountains fall and reason fails
+And You calm the raging seas
+And You calm the storms in me, again
+All I know is I find rest in You
+All I know is I find rest in You
+My heart will praise throughout the night
+Where singing seems a sacrifice
+And You calm the raging seas
+And You calm the storms in me, again
+All I know is I find rest in You
+All I know is I find rest in You
+Your grace is all I need
+Your grace is all I need
+Your grace is all I need
+Your grace is all I need
+All I know is I find rest in You
+All I know is I find rest in You
+All I know is I find rest in You
+All I know is I find rest in You

@@ -1,13 +1,11 @@
 ---
 id: 37-here-they-come-unknown
-slug: 37-here-they-come-unknown
 title: "37. Here They Come"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 5:22 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 5:22 PM"
+created: "September 28, 2025, 5:22 PM"
+updated: "September 28, 2025, 5:22 PM"
 ---
 
 Gabriel's golden trumpet sounds, all the saints will leave the ground. They are rising up to meet the blessed Lord. Oh, how they shout as they rise, to their home beyond the skies. They're in the Bride of Christ, and they are coming home. 

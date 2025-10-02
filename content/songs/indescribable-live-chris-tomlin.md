@@ -1,0 +1,54 @@
+---
+id: indescribable-live-chris-tomlin
+title: "Indescribable (Live)"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+From the highest of heights to the depths of the sea
+Creation's revealing Your majesty
+From the colors of fall to the fragrance of spring
+Every creature unique in the song that it sings
+All exclaiming
+Indescribable, uncontainable
+You placed the stars in the sky
+And You know them by name
+You are amazing, God
+All powerful, untameable
+Awestruck we fall to our knees
+As we humbly proclaim
+You are amazing, God
+Who has told every lightning bolt where it should go
+Or seen heavenly storehouses laden with snow
+Who imagined the sun and gives source to its light
+Yet, conceals it to bring us the coolness of night
+None can fathom
+Indescribable, uncontainable
+You placed the stars in the sky
+And You know them by name
+You are amazing, God
+All powerful, untameable
+Awestruck we fall to our knees
+As we humbly proclaim
+You are amazing, God
+You are amazing, God
+Indescribable, uncontainable
+You placed the stars in the sky
+And You know them by name
+You are amazing God
+All powerful, untameable
+Awestruck we fall to our knees
+As we humbly proclaim
+You are amazing God
+Indescribable, uncontainable
+You placed the stars in the sky
+And You know them by name
+You are amazing, God
+Incomparable, unchangeable
+You see the depths of my heart
+And You love me the same
+You are amazing, God
+You are amazing, God

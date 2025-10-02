@@ -1,13 +1,11 @@
 ---
 id: a-mighty-fortress-is-our-god-michael-w-smith
-slug: a-mighty-fortress-is-our-god-michael-w-smith
 title: "A Mighty Fortress is Our God"
 artist: "Michael W. Smith"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 A mighty fortress is our God

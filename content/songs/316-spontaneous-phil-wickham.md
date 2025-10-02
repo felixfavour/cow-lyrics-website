@@ -1,13 +1,11 @@
 ---
 id: 316-spontaneous-phil-wickham
-slug: 316-spontaneous-phil-wickham
 title: "3:16 (Spontaneous)"
 artist: "Phil Wickham"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 For God so loved this world

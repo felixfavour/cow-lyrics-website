@@ -1,13 +1,11 @@
 ---
 id: 25-im-gonna-keep-on-unknown
-slug: 25-im-gonna-keep-on-unknown
 title: "25. I'm gonna keep on"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "July 27, 2025, 1:39 AM"
-genre: "christian"
-updated_at: "July 27, 2025, 1:39 AM"
+created: "July 27, 2025, 1:39 AM"
+updated: "July 27, 2025, 1:39 AM"
 ---
 
 There's work to be done; there are victories to be won, there's joy for the soul, that has never been told. There's a mansion waiting me, in that land beyond the sea, and I'm gonna keep on working 'til He comes. 

@@ -1,13 +1,11 @@
 ---
 id: abbey-ojomu-you-cover-me
-slug: abbey-ojomu-you-cover-me
 title: "You Cover Me"
 artist: "Abbey Ojomu"
 album: "You Cover Me"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 r the days of my years are written in your books lord,

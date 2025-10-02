@@ -1,0 +1,26 @@
+---
+id: glorious-chris-tomlin
+title: "Glorious"
+artist: "Chris Tomlin"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+We lift our hands in praise to You
+We lift in our hearts in worship to You, Lord
+You Lord
+We lift our voice to You and sing
+Our greatest love will ever be You, Lord
+Glorious
+Over us
+You shall reign
+Glorious
+There is a King that we adore
+With humble hearts we bow before You, Lord
+There is a place we long to be
+Face to face we long to see You, Lord
+[Outro]
+Majesty and power
+Are Yours alone forever

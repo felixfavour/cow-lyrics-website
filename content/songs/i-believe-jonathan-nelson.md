@@ -1,0 +1,33 @@
+---
+id: i-believe-jonathan-nelson
+title: "I Believe "
+artist: "Jonathan Nelson "
+album: ""
+cover: ""
+created: "June 27, 2025, 12:18 PM"
+updated: "June 27, 2025, 12:18 PM"
+---
+
+Jehovah, You
+I trust
+In You
+Oh Lord
+
+Jehovah, You
+I trust
+In You
+I believe, I believe
+
+You are the God of miracles
+You are the God of wonders
+You are the God all powerful
+
+I believe, I believe,
+I believe, I believe,
+I believe, I believe
+
+So long, bye bye
+So long, bye bye
+Goodbye to my pain
+And my sorrow
+So long, bye bye

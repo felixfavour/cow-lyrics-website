@@ -1,0 +1,33 @@
+---
+id: ron-kenoly-i-see-the-lord
+title: "I See the Lord"
+artist: "Ron Kenoly"
+album: "The Best of Ron Kenoly : High Places"
+cover: ""
+created: ""
+updated: ""
+---
+
+I see the lord, I see the lord
+Exalted high upon the worship
+Of the people of the earth
+I see the lord, I see the lord
+My eyes have seen the king
+The lamb upon the throne
+Who reigns forevermore
+The train of his robe
+Fills the temple
+A cloud of heavenly worshipers
+Surrounding his throne
+We join with them now crying
+"Holy, holy is the lamb
+The lamb alone"
+And ever
+Forever and ever, forever and ever
+Forever and ever, forever and ever
+Forever and evermore
+Forevermore
+My eyes have seen the king
+The lamb upon the throne
+Who reigns forevermore
+God is able

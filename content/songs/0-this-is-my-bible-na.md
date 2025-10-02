@@ -1,13 +1,11 @@
 ---
 id: 0-this-is-my-bible-na
-slug: 0-this-is-my-bible-na
 title: "0. This is My Bible"
 artist: "N/A"
 album: ""
 cover: ""
-created_at: "September 7, 2025, 4:06 PM"
-genre: "christian"
-updated_at: "September 7, 2025, 4:06 PM"
+created: "September 7, 2025, 4:06 PM"
+updated: "September 7, 2025, 4:06 PM"
 ---
 
 This is my Bible.

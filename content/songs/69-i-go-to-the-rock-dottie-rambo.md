@@ -1,13 +1,11 @@
 ---
 id: 69-i-go-to-the-rock-dottie-rambo
-slug: 69-i-go-to-the-rock-dottie-rambo
 title: "69. I go to the Rock"
 artist: "Dottie Rambo"
 album: ""
 cover: ""
-created_at: "August 24, 2025, 2:29 PM"
-genre: "christian"
-updated_at: "August 24, 2025, 2:29 PM"
+created: "August 24, 2025, 2:29 PM"
+updated: "August 24, 2025, 2:29 PM"
 ---
 
 Where do I go, when there′s nobody else to turn to?

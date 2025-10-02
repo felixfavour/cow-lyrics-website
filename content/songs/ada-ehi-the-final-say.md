@@ -1,13 +1,11 @@
 ---
 id: ada-ehi-the-final-say
-slug: ada-ehi-the-final-say
 title: "The Final Say"
 artist: "Ada Ehi"
 album: "Ada's EP"
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 Da da da da da

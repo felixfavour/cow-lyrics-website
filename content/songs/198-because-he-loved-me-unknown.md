@@ -1,13 +1,11 @@
 ---
 id: 198-because-he-loved-me-unknown
-slug: 198-because-he-loved-me-unknown
 title: "198. Because He Loved Me"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "August 31, 2025, 3:21 PM"
-genre: "christian"
-updated_at: "August 31, 2025, 3:21 PM"
+created: "August 31, 2025, 3:21 PM"
+updated: "August 31, 2025, 3:21 PM"
 ---
 
 On a hill called Calvary Jesus my Lord suffered for me. Carried the cross all the way my sins to atone. then they nailed Him to that cross great was the pain and the loss. He suffered it all because He loved me. 

@@ -1,13 +1,11 @@
 ---
 id: acceptance-for-you-praise-africa
-slug: acceptance-for-you-praise-africa
 title: "Acceptance For You"
 artist: "Praise Africa"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 There is acceptance for you at the table of the Lord

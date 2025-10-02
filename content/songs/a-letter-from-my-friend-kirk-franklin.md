@@ -1,13 +1,11 @@
 ---
 id: a-letter-from-my-friend-kirk-franklin
-slug: a-letter-from-my-friend-kirk-franklin
 title: "A Letter From My Friend"
 artist: "Kirk Franklin"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 This is to my friend above

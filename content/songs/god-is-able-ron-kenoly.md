@@ -1,0 +1,42 @@
+---
+id: god-is-able-ron-kenoly
+title: "God Is Able"
+artist: "Ron Kenoly"
+album: "The Best of Ron Kenoly : High Places"
+cover: ""
+created: ""
+updated: "July 8, 2024, 10:29 AM"
+---
+
+God is able
+God is able
+God is able
+He can do what
+He said He would do
+I think about Daniel
+In the lion's den
+Didn't look too good
+But Daniel put his trust in Him
+Shadrach Meshach and Abednego
+When the flames grew hot
+They just put their
+Trust in God
+And He would not
+Let'em go
+I think about Israel
+And the Exodus
+Pharaoh sent his men
+But God showed His faithfulness
+If you think you're in a
+Trial by fire
+When the flames grow hot
+You just put your trust in God
+And He'll never let you go
+He can lift you up
+When trials come your way
+He can give you peace
+Down in you soul
+He will always do
+He'll be there for you
+Will you belive Him
+Will you belive Him

@@ -1,13 +1,11 @@
 ---
 id: 33-the-old-rugged-cross-made-the-difference-unknown
-slug: 33-the-old-rugged-cross-made-the-difference-unknown
 title: "33. The old rugged cross made the difference"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 4:56 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 4:56 PM"
+created: "September 28, 2025, 4:56 PM"
+updated: "September 28, 2025, 4:56 PM"
 ---
 
 'Twas a life filled with aimless desperation Without hope walked the shell of a man. Then a hand with a nail print stretched downward, Just one touch then a new life began.

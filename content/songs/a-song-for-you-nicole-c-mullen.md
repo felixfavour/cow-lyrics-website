@@ -1,13 +1,11 @@
 ---
 id: a-song-for-you-nicole-c-mullen
-slug: a-song-for-you-nicole-c-mullen
 title: "A Song For You"
 artist: "Nicole C. Mullen"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 No matter if the crowds are gone curtains drawn

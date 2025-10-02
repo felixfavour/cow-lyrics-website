@@ -1,0 +1,34 @@
+---
+id: ransomed-don-moen
+title: "Ransomed"
+artist: "Don Moen"
+album: ""
+cover: ""
+created: ""
+updated: ""
+---
+
+So I gladly bow my knees before my King
+Offering all I have to give is what I bring
+Jesus You are greater than this world of sin
+You have made a way for me to enter in
+All honor
+All glory
+To the Lamb of God Jesus
+We live for You Savior
+You come to ransom us
+You ransom us
+When I pass through waters deep I will not fear
+When I'm walking through the fire You will be near
+Jesus You deliver with Your mighty hand
+I will give You praise in every circumstance
+All honor
+All glory
+To the Lamb of God Jesus
+We live for You Savior
+You come to ransom us
+All honor
+All glory
+To the Lamb of God Jesus
+We live for You Savior
+You come to ransom us

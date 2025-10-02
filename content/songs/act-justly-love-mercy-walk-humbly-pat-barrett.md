@@ -1,13 +1,11 @@
 ---
 id: act-justly-love-mercy-walk-humbly-pat-barrett
-slug: act-justly-love-mercy-walk-humbly-pat-barrett
 title: "Act Justly, Love Mercy, Walk Humbly"
 artist: "Pat Barrett"
 album: ""
 cover: ""
-created_at: ""
-genre: "christian"
-updated_at: ""
+created: ""
+updated: ""
 ---
 
 It all comes down to this

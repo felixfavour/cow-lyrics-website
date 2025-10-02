@@ -1,13 +1,11 @@
 ---
 id: 2-ddd
-slug: 2-ddd
 title: "2"
 artist: "ddd"
 album: ""
 cover: ""
-created_at: "June 8, 2025, 11:09 AM"
-genre: "christian"
-updated_at: "June 8, 2025, 11:09 AM"
+created: "June 8, 2025, 11:09 AM"
+updated: "June 8, 2025, 11:09 AM"
 ---
 
 Early Life of John Newton.

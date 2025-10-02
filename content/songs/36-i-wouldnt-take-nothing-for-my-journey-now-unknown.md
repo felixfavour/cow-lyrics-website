@@ -1,13 +1,11 @@
 ---
 id: 36-i-wouldnt-take-nothing-for-my-journey-now-unknown
-slug: 36-i-wouldnt-take-nothing-for-my-journey-now-unknown
 title: "36. I wouldn't take nothing for my journey now"
 artist: "Unknown"
 album: ""
 cover: ""
-created_at: "September 28, 2025, 5:12 PM"
-genre: "christian"
-updated_at: "September 28, 2025, 5:12 PM"
+created: "September 28, 2025, 5:12 PM"
+updated: "September 28, 2025, 5:12 PM"
 ---
 
 Well, I wouldn't take nothing for my journey now. I'm gonna make it to heaven somehow. Though the devil tempts me and tries to turn me around
