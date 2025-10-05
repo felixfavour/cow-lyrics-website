@@ -428,6 +428,9 @@ const slugify = (text: string): string => {
 
 // Update stats periodically
 onMounted(async () => {
+  if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+    useGtag()
+  }
   try {
     const totalSongs = recentSongs.value?.length || 0
     const totalArtists = popularArtists.value?.length || 0
@@ -622,9 +625,7 @@ onMounted(() => {
 /* Enhanced focus states */
 .focus-visible:focus-visible {
   outline: none;
-  box-shadow:
-    0 0 0 2px white,
-    0 0 0 4px var(--accent-600);
+  box-shadow: 0 0 0 2px white, 0 0 0 4px var(--accent-600);
 }
 
 .image-bg {

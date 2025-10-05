@@ -109,6 +109,12 @@ const { data: song } = await useAsyncData(`song-${route.params.slug}`, () =>
   queryContent("songs").where({ id: route.params.slug }).findOne()
 )
 
+onMounted(() => {
+  if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+    useGtag()
+  }
+})
+
 // Action methods
 const copyLyrics = async () => {
   if (song.value?.lyrics) {

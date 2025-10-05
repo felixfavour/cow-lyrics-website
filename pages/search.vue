@@ -452,6 +452,10 @@ const addToFavorites = (song: any) => {
 
 // Initialize search on mount if query exists
 onMounted(() => {
+  if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+    useGtag()
+  }
+
   if (searchQuery.value) {
     // Set filters from URL
     if (route.query.sort) {

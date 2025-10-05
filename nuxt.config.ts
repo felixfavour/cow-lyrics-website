@@ -5,7 +5,7 @@ export default defineNuxtConfig({
 
   ssr: false,
 
-  modules: ['@nuxt/ui', '@pinia/nuxt', '@vueuse/nuxt', '@nuxt/content', '@nuxthub/core'],
+  modules: ['@nuxt/ui', '@pinia/nuxt', '@vueuse/nuxt', '@nuxt/content', '@nuxthub/core', 'nuxt-gtag'],
 
   content: {
     markdown: {
@@ -83,5 +83,10 @@ export default defineNuxtConfig({
   // Experimental features
   experimental: {
     payloadExtraction: false
+  },
+
+  // Google Analytics Configuration
+  gtag: {
+    id: 'G-SNYRZMECTP'
   }
 })
