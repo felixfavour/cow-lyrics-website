@@ -1,56 +1,52 @@
-import Fuse from 'fuse.js'
-
 export const useSongs = () => {
-  // Get recent songs from Nuxt Content
+  const api = useApi()
+
+  // Get recent songs from API (using random endpoint as proxy for recent)
   const getRecentSongs = async (limit = 20) => {
     try {
-      const songs = await queryContent('songs')
-        .where({ is_public: { $ne: false } })
-        .sort({ created_at: -1 })
-        .limit(limit)
-        .find()
+      let songs = await api.getRandomSongs(limit)
+      songs = songs?.data
 
-      return { data: songs }
+      // Transform API response to match expected format
+      const transformedSongs = songs.map((song: any) => ({
+        ...song,
+        slug: song.id,
+        imageUrl: song.cover,
+        tags: [],
+        created_at: new Date().toISOString(),
+        is_public: true
+      }))
+
+      return { data: transformedSongs }
     } catch (error) {
       console.error('Failed to fetch recent songs:', error)
       return { data: [] }
     }
   }
 
-  // Get popular artists based on song count
+  // Get popular artists from API
   const getPopularArtists = async (limit = 10) => {
     try {
-      const songs = await queryContent('songs')
-        .where({ is_public: { $ne: false } })
-        .only(['artist'])
-        .find()
+      let artists = await api.getFeaturedArtists(limit)
+      artists = artists?.data
 
-      // Group by artist and count songs
-      const artistCounts = songs.reduce((acc: Record<string, number>, song: any) => {
-        acc[song.artist] = (acc[song.artist] || 0) + 1
-        return acc
-      }, {})
+      // Transform API response to match expected format
+      const transformedArtists = artists.map((artist: any) => ({
+        id: slugify(artist.artist),
+        name: artist.artist,
+        slug: slugify(artist.artist),
+        songCount: artist.songCount,
+        imageUrl: `/artists/${slugify(artist.artist)}.jpg` // Placeholder
+      }))
 
-      // Convert to artist objects and sort by song count
-      const artists = Object.entries(artistCounts)
-        .map(([name, songCount]) => ({
-          id: slugify(name),
-          name,
-          slug: slugify(name),
-          songCount,
-          imageUrl: `/artists/${slugify(name)}.jpg` // Placeholder
-        }))
-        .sort((a, b) => b.songCount - a.songCount)
-        .slice(0, limit)
-
-      return { data: artists }
+      return { data: transformedArtists }
     } catch (error) {
       console.error('Failed to fetch popular artists:', error)
       return { data: [] }
     }
   }
 
-  // Search songs with fuzzy search
+  // Search songs using API
   const searchSongs = async (params: any) => {
     try {
       const { q = '', page = 1, limit = 20, sortBy = 'relevance' } = params
@@ -65,100 +61,25 @@ export const useSongs = () => {
         }
       }
 
-      // Get all songs first
-      const allSongs = await queryContent('songs')
-        .where({ is_public: { $ne: false } })
-        .find()
+      let songs = await api.fuzzySearchSongs(q, { limit, page })
+      songs = songs?.data
 
-      // Prepare songs for search (add body content for lyrics search)
-      const searchableSongs = allSongs.map((song: any) => ({
+      // Transform API response to match expected format
+      const transformedSongs = songs?.map((song: any) => ({
         ...song,
-        lyrics: song.body?.children
-          ?.filter((child: any) => child.type === 'text' || (child.children && child.children.some((c: any) => c.type === 'text')))
-          .map((child: any) => {
-            if (child.type === 'text') return child.value
-            return child.children?.filter((c: any) => c.type === 'text').map((c: any) => c.value).join(' ') || ''
-          })
-          .join(' ') || '',
-        searchableContent: `${song.title} ${song.artist} ${song.album || ''} ${song.tags?.join(' ') || ''}`.toLowerCase()
+        slug: song.id,
+        imageUrl: song.cover,
+        tags: [],
+        created_at: new Date().toISOString(),
+        is_public: true
       }))
-
-      // Configure Fuse.js for fuzzy search
-      const fuseOptions = {
-        includeScore: true,
-        includeMatches: true,
-        threshold: 0.4, // 0.0 = perfect match, 1.0 = match anything
-        keys: [
-          {
-            name: 'title',
-            weight: 0.4
-          },
-          {
-            name: 'artist',
-            weight: 0.3
-          },
-          {
-            name: 'lyrics',
-            weight: 0.2
-          },
-          {
-            name: 'album',
-            weight: 0.05
-          },
-          {
-            name: 'tags',
-            weight: 0.05
-          }
-        ],
-        // Advanced options
-        ignoreLocation: true,
-        findAllMatches: true,
-        minMatchCharLength: 2
-      }
-
-      const fuse = new Fuse(searchableSongs, fuseOptions)
-      const results = fuse.search(q)
-
-      // Extract and sort results
-      let searchResults = results.map((result: any) => ({
-        ...result.item,
-        _score: result.score,
-        _matches: result.matches
-      }))
-
-      // Apply sorting
-      switch (sortBy) {
-        case 'newest':
-          searchResults.sort((a: any, b: any) => {
-            const dateA = new Date(a.created_at || '1970-01-01')
-            const dateB = new Date(b.created_at || '1970-01-01')
-            return dateB.getTime() - dateA.getTime()
-          })
-          break
-        case 'alphabetical':
-          searchResults.sort((a: any, b: any) => a.title.localeCompare(b.title))
-          break
-        case 'popular':
-          // For now, sort by score (relevance) as we don't have popularity data
-          searchResults.sort((a: any, b: any) => (a._score || 0) - (b._score || 0))
-          break
-        case 'relevance':
-        default:
-          // Already sorted by relevance (Fuse.js score)
-          break
-      }
-
-      // Apply pagination
-      const startIndex = (page - 1) * limit
-      const endIndex = startIndex + limit
-      const paginatedResults = searchResults.slice(startIndex, endIndex)
 
       return {
-        data: paginatedResults,
-        total: searchResults.length,
+        data: transformedSongs,
+        total: transformedSongs.length,
         page: parseInt(page.toString()),
         limit: parseInt(limit.toString()),
-        totalPages: Math.ceil(searchResults.length / limit)
+        totalPages: Math.ceil(transformedSongs.length / limit)
       }
     } catch (error) {
       console.error('Failed to search songs:', error)
@@ -172,46 +93,49 @@ export const useSongs = () => {
     }
   }
 
-  // Get song by slug
+  // Get song by slug/id
   const getSongBySlug = async (slug: string) => {
     try {
-      const song = await queryContent('songs')
-        .where({ slug: slug, is_public: { $ne: false } })
-        .findOne()
+      let song = await api.getPublicSong(slug)
+      song = song?.[0]
 
       if (!song) {
         throw new Error('Song not found')
       }
 
-      return song
+      // Transform API response to match expected format
+      return {
+        ...song,
+        slug: song.id,
+        imageUrl: song.cover,
+        tags: [],
+        created_at: new Date().toISOString(),
+        is_public: true
+      }
     } catch (error) {
       console.error('Failed to fetch song:', error)
       throw error
     }
   }
 
-  // Get stats
+  // Get stats (using featured artists and top creators data)
   const getStats = async () => {
     try {
-      const songs = await queryContent('songs')
-        .where({ is_public: { $ne: false } })
-        .only(['artist', 'created_at'])
-        .find()
+      const artists = await api.getFeaturedArtists(1000) // Get all artists
+      const creators = await api.getTopLyricCreators(1000) // Get all creators
 
-      const uniqueArtists = new Set(songs.map((song: any) => song.artist))
-      const thisMonth = new Date()
-      thisMonth.setMonth(thisMonth.getMonth())
+      const totalSongs = artists?.reduce((sum, artist) => sum + artist.songCount, 0)
+      const totalArtists = artists.length
+      const totalUsers = creators.length
 
-      const songsThisMonth = songs.filter((song: any) => {
-        const createdAt = new Date(song.created_at)
-        return createdAt >= thisMonth
-      })
+      // Calculate songs this month (approximation since we don't have date info)
+      const songsThisMonth = Math.floor(totalSongs * 0.05) // 5% approximation
 
       return {
-        totalSongs: songs.length,
-        totalArtists: uniqueArtists.size,
-        totalUsers: 1, // Static value for content-based approach
-        songsThisMonth: songsThisMonth.length
+        totalSongs,
+        totalArtists,
+        totalUsers,
+        songsThisMonth
       }
     } catch (error) {
       console.error('Failed to fetch stats:', error)
@@ -235,8 +159,7 @@ export const useSongs = () => {
   }
 
   const addSong = async (songData: any) => {
-    // For static content approach, songs need to be added as markdown files
-    throw new Error('Adding songs requires creating markdown files in the content/songs directory')
+    throw new Error('Adding songs is not supported via the public API')
   }
 
   return {

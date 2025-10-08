@@ -21,32 +21,15 @@
         </NuxtLink>
 
         <!-- Search & Actions -->
-        <div class="flex items-center space-x-3">
+        <div class="hidden sm:flex items-center space-x-3">
           <NuxtLink
-            to="/add-song"
-            class="btn-primary px-8 py-4 text-lg inline-flex items-center"
+            to="https://app.cloudofworship.com/signup?from_lyrics=1"
+            class="inline-flex btn-primary px-4 py-2 md:px-8 md:py-4 text-lg items-center"
           >
             <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
             Add a song
           </NuxtLink>
-
-          <!-- Mobile menu button -->
-          <UButton
-            variant="ghost"
-            color="gray"
-            icon="i-heroicons-bars-3"
-            class="lg:hidden"
-            size="sm"
-            :aria-expanded="isMenuOpen"
-            aria-label="Toggle mobile menu"
-            @click="toggleMenu"
-          />
         </div>
-      </div>
-
-      <!-- Mobile Search (always visible on small screens) -->
-      <div class="md:hidden py-3 border-t border-gray-200">
-        <SearchBar />
       </div>
 
       <!-- Mobile Navigation Menu -->
@@ -71,7 +54,11 @@
               <UIcon name="i-heroicons-magnifying-glass" class="w-5 h-5" />
               <span>Search Songs</span>
             </NuxtLink>
-            <NuxtLink to="/add-song" class="mobile-nav-link" @click="closeMenu">
+            <NuxtLink
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
+              class="mobile-nav-link"
+              @click="closeMenu"
+            >
               <UIcon name="i-heroicons-plus-circle" class="w-5 h-5" />
               <span>Add New Song</span>
             </NuxtLink>

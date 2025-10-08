@@ -24,7 +24,7 @@
               Search
             </NuxtLink>
             <NuxtLink
-              to="/add-song"
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
               class="text-gray-600 hover:text-purple-600 transition-colors font-medium px-3 py-2 rounded-lg"
             >
               Add Song
@@ -50,7 +50,7 @@
 
             <!-- Add Song Button -->
             <NuxtLink
-              to="/add-song"
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
               class="hidden sm:inline-flex items-center px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors font-medium"
             >
               <Icon name="heroicons:plus" class="w-4 h-4 mr-2" />
@@ -85,7 +85,7 @@
             >Search</NuxtLink
           >
           <NuxtLink
-            to="/add-song"
+            to="https://app.cloudofworship.com/signup?from_lyrics=1"
             class="block py-3 px-4 rounded-lg text-gray-600 hover:text-purple-600 hover:bg-purple-50 transition-all font-medium"
             >Add Song</NuxtLink
           >

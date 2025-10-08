@@ -3,25 +3,16 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-06-01',
 
-  ssr: false,
+  ssr: true,
 
-  modules: ['@nuxt/ui', '@pinia/nuxt', '@vueuse/nuxt', '@nuxt/content', '@nuxthub/core', 'nuxt-gtag'],
-
-  content: {
-    markdown: {
-      anchorLinks: false
-    },
-    highlight: {
-      theme: 'github-light'
-    }
-  },
+  modules: ['@nuxt/ui', '@pinia/nuxt', '@vueuse/nuxt', '@nuxthub/core', 'nuxt-gtag'],
 
   colorMode: false,
 
   // Static Site Generation Configuration
   nitro: {
     prerender: {
-      routes: ['/sitemap.xml', '/robots.txt', '/songs']
+      routes: []
     }
   },
 

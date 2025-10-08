@@ -4,7 +4,7 @@
     class="cursor-pointer transition-all duration-300 h-full"
   >
     <!-- Album Art / Icon -->
-    <div
+    <!-- <div
       class="aspect-square gradient-accent rounded-2xl flex items-center justify-center mb-4 overflow-hidden"
     >
       <Icon
@@ -18,14 +18,14 @@
         :alt="song.title"
         class="w-full h-full object-cover"
       />
-    </div>
+    </div> -->
 
     <!-- Song Info -->
     <div class="space-y-3">
       <h3 class="font-bold text-gray-800 text-lg line-clamp-2 leading-tight">
         {{ song.title }}
       </h3>
-      <p class="text-gray-600 font-medium">
+      <p class="text-gray-600 font-medium mt-0">
         {{ song.artist }}
       </p>
 
