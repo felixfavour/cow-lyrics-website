@@ -364,57 +364,30 @@ const stats = ref({
   songsThisMonth: 89,
 })
 
-// Fetch data directly using queryContent
-const { data: recentSongs, pending: recentSongsLoading } = await useAsyncData(
+// Use the songs composable
+const { getRecentSongs, getPopularArtists, getStats } = useSongs()
+
+// Fetch data using API
+const { data: recentSongsData, pending: recentSongsLoading } = await useAsyncData(
   "home-recent-songs",
-  () =>
-    queryContent("songs")
-      .where({ is_public: { $ne: false } })
-      .sort({ created_at: -1 })
-      .limit(8)
-      .find(),
+  () => getRecentSongs(8),
   {
-    default: () => [],
+    default: () => ({ data: [] }),
   }
 )
 
-const { data: allSongs } = await useAsyncData(
-  "all-songs-for-artists",
-  () =>
-    queryContent("songs")
-      .where({ is_public: { $ne: false } })
-      .only(["artist"])
-      .find(),
+const recentSongs = computed(() => recentSongsData.value?.data || [])
+
+// Fetch popular artists
+const { data: popularArtistsData, pending: popularArtistsLoading } = await useAsyncData(
+  "home-popular-artists",
+  () => getPopularArtists(18),
   {
-    default: () => [],
+    default: () => ({ data: [] }),
   }
 )
 
-// Process popular artists
-const popularArtists = computed(() => {
-  const artistCounts = (allSongs.value || []).reduce(
-    (acc: Record<string, number>, song: any) => {
-      if (song.artist) {
-        acc[song.artist] = (acc[song.artist] || 0) + 1
-      }
-      return acc
-    },
-    {}
-  )
-
-  return Object.entries(artistCounts)
-    .map(([name, songCount]) => ({
-      id: slugify(name),
-      name,
-      slug: slugify(name),
-      songCount,
-      imageUrl: `/artists/${slugify(name)}.jpg`,
-    }))
-    .sort((a, b) => b.songCount - a.songCount)
-    .slice(0, 18)
-})
-
-const popularArtistsLoading = ref(false)
+const popularArtists = computed(() => popularArtistsData.value?.data || [])
 
 // Helper function to create URL-friendly slugs
 const slugify = (text: string): string => {
@@ -432,14 +405,8 @@ onMounted(async () => {
     useGtag()
   }
   try {
-    const totalSongs = recentSongs.value?.length || 0
-    const totalArtists = popularArtists.value?.length || 0
-    stats.value = {
-      totalSongs: totalSongs,
-      totalArtists: totalArtists,
-      totalUsers: 1,
-      songsThisMonth: Math.floor(totalSongs * 0.1), // Approximation
-    }
+    const fetchedStats = await getStats()
+    stats.value = fetchedStats
   } catch (error) {
     console.error("Failed to load stats:", error)
   }

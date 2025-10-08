@@ -103,10 +103,11 @@
 import useSchema from "~/composables/useSchema"
 
 const route = useRoute()
+const { getSongBySlug } = useSongs()
 
-// Fetch song data directly using queryContent
+// Fetch song data using API
 const { data: song } = await useAsyncData(`song-${route.params.slug}`, () =>
-  queryContent("songs").where({ id: route.params.slug }).findOne()
+  getSongBySlug(route.params.slug as string)
 )
 
 onMounted(() => {
