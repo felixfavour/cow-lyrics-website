@@ -95,7 +95,7 @@ onMounted(() => {
 if (song.value) {
   useSeoMeta({
     title: `${song.value.title} by ${song.value.artist}`,
-    description: `Lyrics for "${song.value.title}" by ${song.value.artist}. Christian worship song lyrics from Cloud of Worship.`,
+    description: `Song. Lyrics. ${song.value.lyrics.substring(0, 150)}...`,
     ogTitle: `${song.value.title} by ${song.value.artist} | Cloud of Worship Lyrics`,
     ogDescription: `Lyrics for "${song.value.title}" by ${song.value.artist}`,
     // ogImage: song.value.imageUrl || '/og-image-song.jpg'

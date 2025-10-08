@@ -1,29 +1,6 @@
 export const useSongs = () => {
   const api = useApi()
 
-  // Get recent songs from API (using random endpoint as proxy for recent)
-  const getRecentSongs = async (limit = 20) => {
-    try {
-      let songs = await api.getRandomSongs(limit)
-      songs = songs?.data
-
-      // Transform API response to match expected format
-      const transformedSongs = songs.map((song: any) => ({
-        ...song,
-        slug: song.id,
-        imageUrl: song.cover,
-        tags: [],
-        created_at: new Date().toISOString(),
-        is_public: true
-      }))
-
-      return { data: transformedSongs }
-    } catch (error) {
-      console.error('Failed to fetch recent songs:', error)
-      return { data: [] }
-    }
-  }
-
   // Get popular artists from API
   const getPopularArtists = async (limit = 10) => {
     try {
@@ -36,7 +13,6 @@ export const useSongs = () => {
         name: artist.artist,
         slug: slugify(artist.artist),
         songCount: artist.songCount,
-        imageUrl: `/artists/${slugify(artist.artist)}.jpg` // Placeholder
       }))
 
       return { data: transformedArtists }
@@ -118,11 +94,53 @@ export const useSongs = () => {
     }
   }
 
+  // Get recent songs from API (using random endpoint as proxy for recent)
+  const getRecentSongs = async (limit = 20) => {
+    try {
+      let songs = await api.getRandomSongs(limit)
+      songs = songs?.data
+
+      // console.log('songs', songs)
+
+      // Transform API response to match expected format
+      const transformedSongs = songs.map((song: any) => ({
+        ...song,
+        slug: song.id,
+        imageUrl: song.cover,
+        tags: [],
+        created_at: new Date().toISOString(),
+        is_public: true
+      }))
+
+      return { data: transformedSongs }
+    } catch (error) {
+      console.error('Failed to fetch recent songs:', error)
+      return { data: [] }
+    }
+  }
+
+  const getTopLyricCreators = async (limit = 8) => {
+    try {
+      let creators = await api.getTopLyricCreators(limit)
+      creators = creators?.data
+
+      // console.log('creators', creators)
+
+      return { data: creators }
+    } catch (error) {
+      console.error('Failed to fetch top lyric creators:', error)
+      return { data: [] }
+    }
+  }
+
   // Get stats (using featured artists and top creators data)
   const getStats = async () => {
     try {
-      const artists = await api.getFeaturedArtists(1000) // Get all artists
-      const creators = await api.getTopLyricCreators(1000) // Get all creators
+      let artists = await api.getFeaturedArtists(8) // Get all artists
+      artists = artists?.data
+
+      let creators = await api.getTopLyricCreators(8) // Get all creators
+      creators = creators?.data
 
       const totalSongs = artists?.reduce((sum, artist) => sum + artist.songCount, 0)
       const totalArtists = artists.length
@@ -168,6 +186,7 @@ export const useSongs = () => {
     searchSongs,
     getSongBySlug,
     addSong,
-    getStats
+    getStats,
+    getTopLyricCreators
   }
 }

@@ -53,7 +53,7 @@
 
         <!-- Hero Search -->
         <div class="max-w-2xl mx-auto" style="animation-delay: 0.4s">
-          <div class="relative mb-8">
+          <div class="relative mb-4 sm:mb-8">
             <input
               v-model="heroSearchQuery"
               placeholder="Search for songs, artists, or lyrics..."
@@ -160,6 +160,77 @@
       </div>
     </section>
 
+    <!-- Top Lyric Creators -->
+    <section class="py-12 lg:py-18 relative">
+      <!-- Background decoration -->
+      <div
+        class="absolute top-10 left-10 w-64 h-64 bg-purple-100 rounded-full blur-3xl opacity-50"
+      ></div>
+
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+        <div
+          class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-16"
+        >
+          <div>
+            <h2 class="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">
+              Top Lyric Creators
+            </h2>
+            <p class="text-gray-600 text-lg">
+              Community members sharing the most worship songs
+            </p>
+          </div>
+          <NuxtLink
+            to="https://app.cloudofworship.com/signup?from_lyrics=1"
+            class="btn-secondary mt-6 sm:mt-0 inline-flex items-center"
+          >
+            Join Community
+            <Icon name="heroicons:arrow-right" class="w-4 h-4 ml-2" />
+          </NuxtLink>
+        </div>
+
+        <div v-if="topCreatorsLoading" class="grid-responsive-artists">
+          <div
+            v-for="i in 12"
+            :key="i"
+            class="glass-card rounded-2xl p-4 h-32 skeleton"
+          ></div>
+        </div>
+
+        <div v-else-if="topCreators?.length" class="grid-responsive-artists">
+          <div
+            v-for="(creator, index) in topCreators"
+            :key="creator.userId"
+            class="glass-card rounded-2xl p-4 card-hover"
+            :style="{ animationDelay: `${index * 0.1}s` }"
+          >
+            <CreatorCard :creator="creator" />
+          </div>
+        </div>
+
+        <div v-else class="text-center py-16">
+          <div class="glass-card p-12 max-w-md mx-auto">
+            <Icon
+              name="heroicons:users"
+              class="w-16 h-16 text-purple-500 mx-auto mb-6"
+            />
+            <h3 class="text-2xl font-bold text-gray-800 mb-4">
+              No creators yet
+            </h3>
+            <p class="text-gray-600 mb-8">
+              Be the first to share worship songs with the community!
+            </p>
+            <NuxtLink
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
+              class="btn-primary inline-flex items-center"
+            >
+              <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
+              Share First Song
+            </NuxtLink>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Popular Artists -->
     <section class="py-12 lg:py-18 relative bg-gray-50">
       <!-- Background decoration -->
@@ -167,7 +238,7 @@
         class="absolute top-10 right-10 w-64 h-64 bg-purple-100 rounded-full blur-3xl"
       ></div>
 
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div
           class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-16"
         >
@@ -358,16 +429,8 @@ const categories = [
   },
 ]
 
-// Stats data
-const stats = ref({
-  totalSongs: 1847,
-  totalArtists: 342,
-  totalUsers: 5621,
-  songsThisMonth: 89,
-})
-
 // Use the songs composable
-const { getRecentSongs, getPopularArtists, getStats } = useSongs()
+const { getRecentSongs, getPopularArtists, getTopLyricCreators } = useSongs()
 
 // Fetch data using API
 const { data: recentSongsData, pending: recentSongsLoading } =
@@ -379,11 +442,19 @@ const recentSongs = computed(() => recentSongsData.value?.data || [])
 
 // Fetch popular artists
 const { data: popularArtistsData, pending: popularArtistsLoading } =
-  await useAsyncData("home-popular-artists", () => getPopularArtists(18), {
+  await useAsyncData("home-popular-artists", () => getPopularArtists(12), {
     default: () => ({ data: [] }),
   })
 
 const popularArtists = computed(() => popularArtistsData.value?.data || [])
+
+// Fetch top lyric creators
+const { data: topCreatorsData, pending: topCreatorsLoading } =
+  await useAsyncData("home-top-creators", () => getTopLyricCreators(12), {
+    default: () => ({ data: [] }),
+  })
+
+const topCreators = computed(() => topCreatorsData.value?.data || [])
 
 // Helper function to create URL-friendly slugs
 const slugify = (text: string): string => {
@@ -394,19 +465,6 @@ const slugify = (text: string): string => {
     .replace(/[\s_-]+/g, "-")
     .replace(/^-+|-+$/g, "")
 }
-
-// Update stats periodically
-onMounted(async () => {
-  if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
-    useGtag()
-  }
-  try {
-    const fetchedStats = await getStats()
-    stats.value = fetchedStats
-  } catch (error) {
-    console.error("Failed to load stats:", error)
-  }
-})
 
 // Methods
 const searchFromHero = () => {
@@ -427,7 +485,6 @@ useSchema([
     url: "https://lyrics.cloudofworship.com",
     mainEntity: {
       "@type": "ItemList",
-      numberOfItems: stats.value.totalSongs,
       itemListElement:
         recentSongs.value?.slice(0, 5).map((song: any, index: number) => ({
           "@type": "ListItem",

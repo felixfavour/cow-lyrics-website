@@ -7,16 +7,10 @@
     <div
       class="w-20 h-20 gradient-accent rounded-full flex items-center justify-center mb-4 mx-auto overflow-hidden"
     >
-      <Icon
-        v-if="!artist.imageUrl"
-        name="heroicons:user"
-        class="w-10 h-10 text-white"
-      />
       <img
-        v-else
-        :src="artist.imageUrl"
+        :src="`https://avatar.iran.liara.run/username?username=${artist.name}`"
         :alt="artist.name"
-        class="w-full h-full object-cover"
+        class="w-full h-full object-cover bg-white"
       />
     </div>
 
