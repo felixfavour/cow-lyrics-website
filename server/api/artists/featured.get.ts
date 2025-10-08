@@ -11,7 +11,7 @@ export default defineEventHandler(async (event) => {
       }
     }
 
-    const url = `${config.public.apiBaseUrl}/api/v1/public-songs/search${params.toString() ? '?' + params.toString() : ''}`
+    const url = `${config.public.apiBaseUrl}/api/v1/public-songs/featured-artists${params.toString() ? '?' + params.toString() : ''}`
 
     const response = await fetch(url, {
       headers: {
@@ -26,6 +26,6 @@ export default defineEventHandler(async (event) => {
     const data = await response.json()
     return data
   } catch (error) {
-    return { error: 'Failed to search songs', details: error instanceof Error ? error.message : 'Unknown error' }
+    return { error: 'Failed to fetch featured artists', details: error instanceof Error ? error.message : 'Unknown error' }
   }
 })

@@ -1,6 +1,8 @@
 <template>
-  <div id="__nuxt" class="min-h-screen transition-colors duration-200">
-    <AppHeader />
+  <div id="__nuxt" class="min-h-[50vh] transition-colors duration-200">
+    <div class="fixed inset-x-0 top-0 z-10">
+      <AppHeader />
+    </div>
     <main class="flex-1">
       <NuxtPage />
     </main>
@@ -44,7 +46,8 @@ useSchema([
     },
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://lyrics.cloudofworship.com/search?q={search_term_string}",
+      target:
+        "https://lyrics.cloudofworship.com/search?query={search_term_string}",
       "query-input": "required name=search_term_string",
     },
   },
@@ -70,7 +73,6 @@ onMounted(() => {
     )[0] as PerformanceNavigationTiming
     if (navigation) {
       const loadTime = navigation.loadEventEnd - navigation.loadEventStart
-      console.log(`Page loaded in ${loadTime}ms`)
     }
   }
 })

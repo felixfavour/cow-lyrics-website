@@ -2,15 +2,17 @@
   <div class="">
     <!-- Hero Section -->
     <section
-      class="relative max-h-[800px] min-h-[800px] flex items-center justify-center py-20 lg:py-28 bg-gradient-to-br from-purple-50 to-blue-50 image-bg overflow-hidden"
+      class="relative pt-[160px] sm:pt-0 max-h-[800px] min-h-[800px] flex items-center justify-center py-12 lg:py-28 bg-gradient-to-br from-purple-50 to-blue-50 image-bg overflow-hidden"
     >
       <!-- Animated Floating Circles with Background Images -->
-      <div class="floating-circle floating-circle-1"></div>
-      <div class="floating-circle floating-circle-2"></div>
-      <div class="floating-circle floating-circle-3"></div>
-      <div class="floating-circle floating-circle-4"></div>
-      <div class="floating-circle floating-circle-5"></div>
-      <div class="floating-circle floating-circle-6"></div>
+      <div class="opacity-30 md:opacity-100">
+        <div class="floating-circle floating-circle-1"></div>
+        <div class="floating-circle floating-circle-2"></div>
+        <div class="floating-circle floating-circle-3"></div>
+        <div class="floating-circle floating-circle-4"></div>
+        <div class="floating-circle floating-circle-5"></div>
+        <div class="floating-circle floating-circle-6"></div>
+      </div>
 
       <!-- Animated Background Blobs -->
       <div
@@ -24,7 +26,7 @@
       ></div>
 
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div class="mb-8">
+        <div class="mb-5 sm:mb-8">
           <div
             class="inline-flex items-center px-4 py-2 rounded-full glass-card text-sm font-medium text-purple-700 mb-6"
           >
@@ -35,14 +37,14 @@
           </div>
         </div>
 
-        <h1 class="text-5xl sm:text-6xl lg:text-8xl font-bold mb-8">
+        <h1 class="text-5xl sm:text-6xl lg:text-8xl font-bold mb-5 sm:mb-8">
           <span class="text-gradient">Worship</span>
           <br />
           <span class="text-gray-800">Together</span>
         </h1>
 
         <p
-          class="text-xl lg:text-2xl mb-12 text-gray-600 max-w-3xl mx-auto leading-relaxed"
+          class="text-base lg:text-xl mb-12 text-gray-600 max-w-2xl mx-auto leading-relaxed"
           style="animation-delay: 0.2s"
         >
           Connect with believers worldwide through the power of worship music.
@@ -83,7 +85,7 @@
               Discover Lyrics
             </NuxtLink>
             <NuxtLink
-              to="/add-song"
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
               class="btn-secondary px-8 py-4 text-lg text-center inline-flex items-center justify-center"
             >
               <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
@@ -95,7 +97,7 @@
     </section>
 
     <!-- Recently Added Songs -->
-    <section class="py-20 lg:py-32 relative">
+    <section class="py-12 lg:py-18 relative">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div
           class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-16"
@@ -109,10 +111,10 @@
             </p>
           </div>
           <NuxtLink
-            to="/search?filter=recent"
+            to="/search"
             class="btn-secondary mt-6 sm:mt-0 inline-flex items-center"
           >
-            View All Recent
+            Search more
             <Icon name="heroicons:arrow-right" class="w-4 h-4 ml-2" />
           </NuxtLink>
         </div>
@@ -147,7 +149,7 @@
               Be the first to add a worship song!
             </p>
             <NuxtLink
-              to="/add-song"
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
               class="btn-primary inline-flex items-center"
             >
               <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
@@ -159,7 +161,7 @@
     </section>
 
     <!-- Popular Artists -->
-    <section class="py-20 lg:py-32 relative bg-gray-50">
+    <section class="py-12 lg:py-18 relative bg-gray-50">
       <!-- Background decoration -->
       <div
         class="absolute top-10 right-10 w-64 h-64 bg-purple-100 rounded-full blur-3xl"
@@ -208,7 +210,7 @@
     </section>
 
     <!-- Featured Categories -->
-    <section class="py-20 lg:py-32 relative">
+    <section class="py-12 lg:py-18 relative">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
           <h2 class="text-4xl lg:text-5xl font-bold text-gray-800 mb-6">
@@ -223,7 +225,7 @@
           <NuxtLink
             v-for="category in categories"
             :key="category.slug"
-            :to="`/search?category=${category.slug}`"
+            :to="`/search?query=${category.slug}`"
             class="group glass-card p-8 card-hover text-center"
           >
             <Icon
@@ -241,7 +243,7 @@
 
     <!-- Call to Action -->
     <section
-      class="py-20 lg:py-32 relative overflow-hidden bg-gradient-to-br from-purple-50 to-blue-50"
+      class="py-12 lg:py-18 relative overflow-hidden bg-gradient-to-br from-purple-50 to-blue-50"
     >
       <!-- Background effects -->
       <div
@@ -282,7 +284,7 @@
 
           <div class="flex flex-col sm:flex-row gap-6 justify-center">
             <NuxtLink
-              to="/add-song"
+              to="https://app.cloudofworship.com/signup?from_lyrics=1"
               class="btn-primary px-8 py-4 text-lg inline-flex items-center justify-center"
             >
               <Icon name="heroicons:plus-circle" class="w-6 h-6 mr-2" />
@@ -368,24 +370,18 @@ const stats = ref({
 const { getRecentSongs, getPopularArtists, getStats } = useSongs()
 
 // Fetch data using API
-const { data: recentSongsData, pending: recentSongsLoading } = await useAsyncData(
-  "home-recent-songs",
-  () => getRecentSongs(8),
-  {
+const { data: recentSongsData, pending: recentSongsLoading } =
+  await useAsyncData("home-recent-songs", () => getRecentSongs(8), {
     default: () => ({ data: [] }),
-  }
-)
+  })
 
 const recentSongs = computed(() => recentSongsData.value?.data || [])
 
 // Fetch popular artists
-const { data: popularArtistsData, pending: popularArtistsLoading } = await useAsyncData(
-  "home-popular-artists",
-  () => getPopularArtists(18),
-  {
+const { data: popularArtistsData, pending: popularArtistsLoading } =
+  await useAsyncData("home-popular-artists", () => getPopularArtists(18), {
     default: () => ({ data: [] }),
-  }
-)
+  })
 
 const popularArtists = computed(() => popularArtistsData.value?.data || [])
 

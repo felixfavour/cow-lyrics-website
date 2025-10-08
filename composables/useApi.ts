@@ -1,11 +1,8 @@
 export const useApi = () => {
-  const config = useRuntimeConfig()
-  const apiBaseUrl = config.public.apiBaseUrl
-
-  // Helper function to make API calls
+  // Helper function to make API calls through our server proxy
   const apiFetch = async <T>(endpoint: string, options?: any): Promise<T> => {
     try {
-      const response = await $fetch<T>(`${apiBaseUrl}${endpoint}`, {
+      const response = await $fetch<T>(endpoint, {
         ...options,
         headers: {
           'Content-Type': 'application/json',
@@ -24,7 +21,7 @@ export const useApi = () => {
   const getFeaturedArtists = async (limit?: number) => {
     try {
       const artists = await apiFetch<Array<{ songCount: number; artist: string }>>(
-        '/api/v1/public-songs/featured-artists',
+        '/api/artists/featured',
         { params: limit ? { limit } : undefined }
       )
       return artists
@@ -43,7 +40,7 @@ export const useApi = () => {
         userId: string
         fullname: string
         avatar: string
-      }>>('/api/v1/public-songs/top-creators', {
+      }>>('/api/creators/top', {
         params: limit ? { limit } : undefined
       })
       return creators
@@ -64,9 +61,9 @@ export const useApi = () => {
         artist: string
         id: string
         createdBy: string
-      }>>('/api/v1/public-songs/search', {
+      }>>('/api/songs/search', {
         params: {
-          q: query,
+          query,
           ...options
         }
       })
@@ -88,7 +85,7 @@ export const useApi = () => {
         artist: string
         id: string
         createdBy: string
-      }>>('/api/v1/public-songs/random', {
+      }>>('/api/songs/recent', {
         params: { limit }
       })
       return songs
@@ -109,7 +106,7 @@ export const useApi = () => {
         artist: string
         id: string
         createdBy: string
-      }>(`/api/v1/public-songs/${songId}`)
+      }>(`/api/songs/${songId}`)
       return song
     } catch (error) {
       console.error(`Failed to fetch song ${songId}:`, error)

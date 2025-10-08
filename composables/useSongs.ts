@@ -4,8 +4,9 @@ export const useSongs = () => {
   // Get recent songs from API (using random endpoint as proxy for recent)
   const getRecentSongs = async (limit = 20) => {
     try {
-      const songs = await api.getRandomSongs(limit)
-      
+      let songs = await api.getRandomSongs(limit)
+      songs = songs?.data
+
       // Transform API response to match expected format
       const transformedSongs = songs.map((song: any) => ({
         ...song,
@@ -26,7 +27,8 @@ export const useSongs = () => {
   // Get popular artists from API
   const getPopularArtists = async (limit = 10) => {
     try {
-      const artists = await api.getFeaturedArtists(limit)
+      let artists = await api.getFeaturedArtists(limit)
+      artists = artists?.data
 
       // Transform API response to match expected format
       const transformedArtists = artists.map((artist: any) => ({
@@ -59,10 +61,11 @@ export const useSongs = () => {
         }
       }
 
-      const songs = await api.fuzzySearchSongs(q, { limit, page })
+      let songs = await api.fuzzySearchSongs(q, { limit, page })
+      songs = songs?.data
 
       // Transform API response to match expected format
-      const transformedSongs = songs.map((song: any) => ({
+      const transformedSongs = songs?.map((song: any) => ({
         ...song,
         slug: song.id,
         imageUrl: song.cover,
@@ -93,7 +96,8 @@ export const useSongs = () => {
   // Get song by slug/id
   const getSongBySlug = async (slug: string) => {
     try {
-      const song = await api.getPublicSong(slug)
+      let song = await api.getPublicSong(slug)
+      song = song?.[0]
 
       if (!song) {
         throw new Error('Song not found')
@@ -120,7 +124,7 @@ export const useSongs = () => {
       const artists = await api.getFeaturedArtists(1000) // Get all artists
       const creators = await api.getTopLyricCreators(1000) // Get all creators
 
-      const totalSongs = artists.reduce((sum, artist) => sum + artist.songCount, 0)
+      const totalSongs = artists?.reduce((sum, artist) => sum + artist.songCount, 0)
       const totalArtists = artists.length
       const totalUsers = creators.length
 

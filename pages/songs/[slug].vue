@@ -2,7 +2,7 @@
   <div v-if="song">
     <!-- Song Header -->
     <section
-      class="py-20 lg:py-32 bg-gradient-to-br from-purple-50 to-blue-50 relative overflow-hidden min-h-full"
+      class="pb-20 pt-[150px] bg-gradient-to-br from-purple-50 to-blue-50 relative overflow-hidden min-h-full"
     >
       <!-- Background decorations -->
       <div
@@ -13,33 +13,13 @@
       ></div>
 
       <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="glass-card p-8 lg:p-12">
+        <div class="glass-card p-8">
           <div class="flex flex-col lg:flex-row items-start gap-8">
-            <div class="flex-shrink-0">
-              <div
-                class="w-48 h-48 lg:w-64 lg:h-64 gradient-accent rounded-2xl flex items-center justify-center overflow-hidden"
-              >
-                <Icon
-                  v-if="!song.cover && !song.imageUrl"
-                  name="heroicons:musical-note"
-                  class="w-20 h-20 text-white"
-                />
-                <img
-                  v-else
-                  :src="song.cover || song.imageUrl"
-                  :alt="song.title"
-                  class="w-full h-full object-cover"
-                />
-              </div>
-            </div>
-
             <div class="flex-1 min-w-0">
-              <h1 class="text-4xl lg:text-5xl font-bold mb-4 text-gray-800">
+              <h1 class="text-3xl font-bold text-gray-800">
                 {{ song.title }}
               </h1>
-              <p class="text-xl lg:text-2xl mb-6 text-gray-600">
-                by {{ song.artist }}
-              </p>
+              <p class="text-lg text-gray-600">by {{ song.artist }}</p>
             </div>
           </div>
         </div>
@@ -50,15 +30,10 @@
           <h2 class="text-3xl font-bold text-gray-800 mb-2">Lyrics</h2>
         </div> -->
 
-        <div class="prose prose-lyrics max-w-none">
-          <!-- Render Nuxt Content if available -->
-          <ContentRenderer v-if="song.body" :value="song" class="prose-lg" />
-          <!-- Fallback to lyrics field -->
-          <pre
-            v-else
-            class="whitespace-pre-wrap font-sans text-3xl leading-relaxed text-gray-700"
-            >{{ song.lyrics }}</pre
-          >
+        <div
+          class="prose prose-lyrics max-w-none whitespace-pre-wrap font-sans text-xl leading-relaxed text-gray-700 prose-lg"
+        >
+          {{ song.lyrics }}
         </div>
 
         <!-- Back to search button -->
@@ -74,7 +49,7 @@
 
   <div
     v-else
-    class="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-50 to-blue-50"
+    class="min-h-[60vh] flex items-center justify-center bg-gradient-to-br from-purple-50 to-blue-50"
   >
     <div class="text-center glass-card p-12 max-w-md mx-auto">
       <Icon
@@ -116,37 +91,6 @@ onMounted(() => {
   }
 })
 
-// Action methods
-const copyLyrics = async () => {
-  if (song.value?.lyrics) {
-    try {
-      await navigator.clipboard.writeText(song.value.lyrics)
-      // You could add a toast notification here
-      console.log("Lyrics copied to clipboard")
-    } catch (err) {
-      console.error("Failed to copy lyrics:", err)
-    }
-  }
-}
-
-const shareSong = () => {
-  if (song.value) {
-    const shareData = {
-      title: `${song.value.title} by ${song.value.artist}`,
-      text: `Check out these lyrics: ${song.value.title} by ${song.value.artist}`,
-      url: window.location.href,
-    }
-
-    if (navigator.share) {
-      navigator.share(shareData)
-    } else {
-      // Fallback: copy URL to clipboard
-      navigator.clipboard.writeText(window.location.href)
-      console.log("URL copied to clipboard")
-    }
-  }
-}
-
 // SEO Meta
 if (song.value) {
   useSeoMeta({
@@ -186,17 +130,11 @@ if (song.value) {
 <style>
 .prose-lg {
   white-space: pre-wrap;
-
-  p > span {
-    padding: 1rem 0;
-    display: block;
-    font-size: 1.125rem;
-  }
-
-  * {
-    font-family: "IBM Plex Serif", serif;
-    font-size: 1.125rem;
-    font-weight: 500;
-  }
+  padding: 1rem 0;
+  display: block;
+  font-size: 1.125rem;
+  line-height: 2.125rem;
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 500;
 }
 </style>

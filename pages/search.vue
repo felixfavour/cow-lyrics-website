@@ -1,6 +1,6 @@
 <template>
   <div
-    class="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 relative overflow-hidden"
+    class="min-h-screen pt-[120px] bg-gradient-to-br from-purple-50 to-blue-50 relative overflow-hidden"
   >
     <!-- Background Effects -->
     <div
@@ -13,20 +13,9 @@
       class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-purple-100/50 rounded-full blur-3xl blob"
     ></div>
 
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
       <!-- Search Header -->
       <section class="mb-16 text-center">
-        <div class="mb-8">
-          <div
-            class="inline-flex items-center px-4 py-2 rounded-full glass-card text-sm font-medium text-purple-700 mb-6"
-          >
-            <span
-              class="w-2 h-2 bg-purple-500 rounded-full mr-2 animate-pulse"
-            ></span>
-            Discover worship songs
-          </div>
-        </div>
-
         <h1 class="text-4xl lg:text-6xl font-bold mb-8 text-gray-800">
           Find Your
           <span class="gradient-text">Favorite Songs</span>
@@ -43,7 +32,7 @@
             />
             <button
               @click="performSearch"
-              class="absolute right-4 top-1/2 transform -translate-y-1/2 btn-primary px-6 py-3"
+              class="absolute right-2 top-1/2 transform -translate-y-1/2 btn-primary px-6 py-3"
             >
               <Icon name="heroicons:magnifying-glass" class="w-5 h-5 mr-2" />
               Search
@@ -98,7 +87,7 @@
                 Search Results
               </h2>
               <p class="text-gray-600">
-                Found {{ totalResults }} results for "{{ searchQuery }}"
+                Returned {{ totalResults }} results for "{{ searchQuery }}"
               </p>
             </div>
             <div class="flex items-center gap-4">
@@ -132,20 +121,10 @@
 
               <!-- Sort options -->
               <div class="flex items-center gap-2 text-sm">
-                <span class="text-gray-500">Sort by:</span>
-                <select
-                  v-model="filters.sortBy"
-                  @change="performSearch"
-                  class="glass-button px-3 py-1 text-sm font-medium focus-visible"
+                <span
+                  class="text-gray-500 text-xl font-semibold text-primary-500"
+                  >{{ totalResults }}</span
                 >
-                  <option
-                    v-for="option in sortOptions"
-                    :key="option.value"
-                    :value="option.value"
-                  >
-                    {{ option.label }}
-                  </option>
-                </select>
               </div>
             </div>
           </div>
@@ -266,7 +245,7 @@
       </section>
 
       <!-- No Results State -->
-      <section v-else-if="!loading && searchQuery" class="py-20">
+      <section v-else-if="!loading && searchQuery" class="py-5">
         <div class="glass-card p-12 max-w-lg mx-auto text-center">
           <Icon
             name="heroicons:musical-note"
@@ -277,7 +256,7 @@
             Try searching with different keywords or check your spelling
           </p>
           <NuxtLink
-            to="/add-song"
+            to="https://app.cloudofworship.com/signup?from_lyrics=1"
             class="btn-primary px-8 py-4 inline-flex items-center"
           >
             <Icon name="heroicons:plus-circle" class="w-5 h-5 mr-2" />
@@ -287,7 +266,7 @@
       </section>
 
       <!-- Initial State -->
-      <section v-else class="py-20">
+      <section v-else class="py-5">
         <div class="glass-card p-12 max-w-lg mx-auto text-center">
           <Icon
             name="heroicons:magnifying-glass"
@@ -411,7 +390,6 @@ const performSearch = async () => {
   } catch (error) {
     console.error("Search error:", error)
     // Simple error handling without toast for now
-    alert("Failed to search songs. Please try again.")
   } finally {
     loading.value = false
   }
@@ -438,16 +416,6 @@ const formatDate = (dateString: string) => {
     day: "numeric",
     year: "numeric",
   })
-}
-
-const quickPreview = (song: any) => {
-  // TODO: Implement quick preview modal
-  console.log("Quick preview for:", song.title)
-}
-
-const addToFavorites = (song: any) => {
-  // TODO: Implement add to favorites
-  console.log("Add to favorites:", song.title)
 }
 
 // Initialize search on mount if query exists
