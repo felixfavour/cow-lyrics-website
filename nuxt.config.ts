@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   // Static Site Generation Configuration
   nitro: {
     prerender: {
-      routes: ['/sitemap.xml', '/robots.txt', '/songs']
+      routes: []
     }
   },
 
